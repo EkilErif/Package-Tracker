@@ -1,4 +1,4 @@
-# Deploy gallery: last 24 hours
+# Package Gallery: last 24 hours
 
 **Last successful check:** 29 Oct 2026 15:14 UTC  
 **Observation window:** 28 Oct 2026 15:14 UTC to 29 Oct 2026 15:14 UTC
