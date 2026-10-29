@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 29 Oct 2026 15:14 UTC  
-**Observation window:** 28 Oct 2026 15:14 UTC to 29 Oct 2026 15:14 UTC
+**Last successful check:** 29 Oct 2026 21:07 UTC  
+**Observation window:** 28 Oct 2026 21:07 UTC to 29 Oct 2026 21:07 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 1 | 45 | 12 | 1 | 15 | 0 |
+| 1 | 38 | 15 | 1 | 13 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -24,6 +24,24 @@ First seen in the recorded gallery history, by vendor, product name and platform
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 29 Oct 21:07 | Anthropic PBC Claude | macos | arm64, x64 | 4.29.0 | 4.4212.0 |
+| 29 Oct 21:07 | Discord, Inc Discord | macos | arm64, x64 | 0.0.419 | 0.0.420 |
+| 29 Oct 21:07 | Keeper Security, Inc. Keeper Password Manager | macos | arm64, x64 | 18.6.5 | 18.6.6 |
+| 29 Oct 21:07 | OpenAI OpCo, LLC ChatGPT Codex | macos | arm64 | 26.1023.51421 | 26.1027.30824 |
+| 29 Oct 21:07 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.39.1.0 | 2.39.2.0 |
+| 29 Oct 21:07 | Anthropic PBC Claude arm64 | windows | arm64 | 4.29.0.0 | 4.4212.0.0 |
+| 29 Oct 21:07 | Anthropic PBC Claude x64 | windows | x64 | 4.29.0.0 | 4.4212.0.0 |
+| 29 Oct 21:07 | Eclipse Adoptium Temurin 21 JDK with Hotspot 64-bit | windows | x64 | 21.0.12.101 | 21.0.13.9 |
+| 29 Oct 21:07 | Eclipse Adoptium Temurin 21 JRE with Hotspot 64-bit | windows | x64 | 21.0.12.101 | 21.0.13.9 |
+| 29 Oct 21:07 | Keeper Security, Inc. Keeper Password Manager (32-bit) | windows | arm64, x64 | 18.6.5.0 | 18.6.6.0 |
+| 29 Oct 21:07 | Keeper Security, Inc. Keeper Password Manager (64-bit) | windows | arm64, x64 | 18.6.5.0 | 18.6.6.0 |
+| 29 Oct 21:07 | Microsoft SQL Server Management Studio 22 | windows | arm64, x64 | 22.11.2 | 22.11.3 |
+| 29 Oct 21:07 | Parallels International GmbH Parallels Client (32-bit) | windows | x64, x86 | 21.2.27429 | 22.0.28160 |
+| 29 Oct 21:07 | Parallels International GmbH Parallels Client (64-bit) | windows | x64 | 21.2.27429 | 22.0.28160 |
+| 29 Oct 21:07 | Vivaldi Technologies Vivaldi (32-bit) | windows | x86 | 8.2.4133.94 | 8.2.4133.96 |
+| 29 Oct 21:07 | Vivaldi Technologies Vivaldi (64-bit) | windows | x64 | 8.2.4133.94 | 8.2.4133.96 |
+| 29 Oct 21:07 | Vivaldi Technologies Vivaldi (arm64) | windows | arm64 | 8.2.4133.94 | 8.2.4133.96 |
+| 29 Oct 21:07 | pgAdmin pgAdmin 4 | windows | arm64, x64 | 9.18 | 9.19 |
 | 29 Oct 15:14 | Bitwarden, Inc. Bitwarden Desktop | macos | arm64, x64 | 2026.10.1 | 2026.10.2 |
 | 29 Oct 15:14 | Kong Insomnia | macos | arm64, x64 | 2026.13.3.1 | 2026.13.4.0 |
 | 29 Oct 15:14 | Vivaldi Technologies Vivaldi | macos | arm64, x64 | 8.2.4133.94 | 8.2.4133.96 |
@@ -44,36 +62,14 @@ First seen in the recorded gallery history, by vendor, product name and platform
 | 29 Oct 05:48 | Signal Messenger, LLC Signal | macos | arm64, x64 | 8.32.0 | 8.33.0 |
 | 29 Oct 05:48 | Postman Postman | windows | arm64, x64, x86 | 12.34.2.0 | 12.34.3.0 |
 | 29 Oct 05:48 | Signal Messenger, LLC Signal (Active User) | windows | x64 | 8.32.0 | 8.33.0 |
-| 28 Oct 21:05 | Brave Software, Inc Brave Browser | macos | arm64, x64 | 1.98.60 | 1.98.62 |
-| 28 Oct 21:05 | Grammarly Grammarly | macos | arm64, x64 | 1.204.1 | 1.205.1 |
-| 28 Oct 21:05 | Microsoft Visual Studio Code | macos | arm64, x64 | 1.143.1 | 1.144.0 |
-| 28 Oct 21:05 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.39.0.0 | 2.39.1.0 |
-| 28 Oct 21:05 | Apple iTunes 32-bit | windows | x86 | 12.13.11.1 | 12.13.12.3 |
-| 28 Oct 21:05 | Brave Software, Inc Brave Browser (Active User) (x64) | windows | x64 | 1.98.60 | 1.98.62 |
-| 28 Oct 21:05 | Brave Software, Inc Brave Browser (Active User) (x86) | windows | x86 | 1.98.60 | 1.98.62 |
-| 28 Oct 21:05 | Evernote Corporation Evernote (Active User) | windows | arm64, x64, x86 | 11.40.2.5574 | 11.40.3.48184 |
-| 28 Oct 21:05 | Evernote Corporation Evernote (All Users) | windows | arm64, x64, x86 | 11.40.2.5574 | 11.40.3.48184 |
-| 28 Oct 21:05 | HashiCorp Terraform | windows | x64 | 1.17.0 | 1.17.1 |
-| 28 Oct 21:05 | Microsoft Office Click-to-Run Current Channel (x64) - Pre-Cache | windows | arm64, x64 | 16.0.20527.20088 | 16.0.20527.20112 |
-| 28 Oct 21:05 | Microsoft Office Click-to-Run Current Channel (x64) | windows | arm64, x64 | 16.0.20527.20088 | 16.0.20527.20112 |
-| 28 Oct 21:05 | Microsoft Office Click-to-Run Current Channel (x86) - Pre-Cache | windows | x64, x86 | 16.0.20527.20088 | 16.0.20527.20112 |
-| 28 Oct 21:05 | Microsoft Office Click-to-Run Current Channel (x86) | windows | x64, x86 | 16.0.20527.20088 | 16.0.20527.20112 |
-| 28 Oct 21:05 | Microsoft Visual Studio Code (x64 en-us) | windows | x64 | 1.143.1 | 1.144.0 |
-| 28 Oct 21:05 | Node.js Foundation Node.js 24 (arm64) | windows | arm64 | 24.22.1 | 24.22.2 |
-| 28 Oct 21:05 | Node.js Foundation Node.js 24 (x64) | windows | x64 | 24.22.1 | 24.22.2 |
-| 28 Oct 21:05 | Node.js Foundation Node.js 26 (arm64) | windows | arm64 | 26.12.1 | 26.13.0 |
-| 28 Oct 21:05 | Node.js Foundation Node.js 26 (x64) | windows | x64 | 26.12.1 | 26.13.0 |
-| 28 Oct 21:05 | Node.js Foundation Node.js Current arm64 | windows | arm64 | 26.12.1 | 26.13.0 |
-| 28 Oct 21:05 | Node.js Foundation Node.js Current x64 | windows | x64 | 26.12.1 | 26.13.0 |
-| 28 Oct 21:05 | Node.js Foundation Node.js LTS arm64 | windows | arm64 | 24.22.1 | 26.13.0 |
-| 28 Oct 21:05 | Node.js Foundation Node.js LTS x64 | windows | x64 | 24.22.1 | 26.13.0 |
-| 28 Oct 21:05 | OpenAI OpCo, LLC ChatGPT Codex (arm64) | windows | arm64 | 26.1023.6123.0 | 26.1023.6621.0 |
-| 28 Oct 21:05 | OpenAI OpCo, LLC ChatGPT Codex (x64) | windows | x64 | 26.1023.6123.0 | 26.1023.6621.0 |
 
 ## Other additions (previously seen products or supporting files)
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 29 Oct 21:07 | The Document Foundation LibreOffice (ARM) | macos | arm64 | — | 26.8.2.2 |
+| 29 Oct 21:07 | The Document Foundation LibreOffice (Intel) | macos | x64 | — | 26.8.2.2 |
+| 29 Oct 21:07 | The Document Foundation LibreOffice (x64) | windows | x64 | — | 26.8.2.2 |
 | 29 Oct 15:14 | TeamViewer Host | macos | arm64, x64 | — | 15.83.3 |
 | 29 Oct 15:14 | TeamViewer TeamViewer | macos | arm64, x64 | — | 15.83.3 |
 | 29 Oct 15:14 | TeamViewer Host x64 | windows | arm64, x64 | — | 15.83.3.0 |
@@ -110,8 +106,6 @@ First seen in the recorded gallery history, by vendor, product name and platform
 | 29 Oct 05:48 | TeamViewer Host x86 | windows | arm64, x64, x86 | 15.83.3.0 | — |
 | 29 Oct 05:48 | TeamViewer TeamViewer x64 | windows | arm64, x64 | 15.83.3.0 | — |
 | 29 Oct 05:48 | TeamViewer TeamViewer x86 | windows | arm64, x64, x86 | 15.83.3.0 | — |
-| 28 Oct 21:05 | Apple Apple Mobile Device Support | windows | arm64, x64 | 20.0.0.35 | — |
-| 28 Oct 21:05 | Apple iTunes 64-bit | windows | arm64, x64 | 12.13.11.1 | — |
 
 ## Renamed files
 
