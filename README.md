@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 30 Oct 2026 05:48 UTC  
-**Observation window:** 29 Oct 2026 05:48 UTC to 30 Oct 2026 05:48 UTC
+**Last successful check:** 30 Oct 2026 15:03 UTC  
+**Observation window:** 29 Oct 2026 15:03 UTC to 30 Oct 2026 15:03 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 1 | 61 | 23 | 0 | 17 | 0 |
+| 1 | 83 | 23 | 4 | 18 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -24,6 +24,38 @@ First seen in the recorded gallery history, by vendor, product name and platform
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 30 Oct 15:03 | JetBrains DataGrip (ARM) | macos | arm64 | 2026.2.6 | 2026.2.6.1 |
+| 30 Oct 15:03 | JetBrains DataGrip | macos | x64 | 2026.2.6 | 2026.2.6.1 |
+| 30 Oct 15:03 | JetBrains GoLand (ARM) | macos | arm64 | 2026.2.3 | 2026.2.4 |
+| 30 Oct 15:03 | JetBrains GoLand | macos | x64 | 2026.2.3 | 2026.2.4 |
+| 30 Oct 15:03 | JetBrains IntelliJ IDEA Ultimate Edition (ARM) | macos | arm64 | 2026.2.3 | 2026.2.4 |
+| 30 Oct 15:03 | JetBrains IntelliJ IDEA Ultimate Edition | macos | x64 | 2026.2.3 | 2026.2.4 |
+| 30 Oct 15:03 | JetBrains JetBrains Toolbox (ARM) | macos | arm64 | 3.9.0.88839 | 3.9.1.89198 |
+| 30 Oct 15:03 | JetBrains JetBrains Toolbox | macos | x64 | 3.9.0.88839 | 3.9.1.89198 |
+| 30 Oct 15:03 | JetBrains PyCharm (ARM) | macos | arm64 | 2026.2.3 | 2026.2.4 |
+| 30 Oct 15:03 | JetBrains PyCharm | macos | x64 | 2026.2.3 | 2026.2.4 |
+| 30 Oct 15:03 | JetBrains WebStorm (ARM) | macos | arm64 | 2026.2.3 | 2026.2.4 |
+| 30 Oct 15:03 | JetBrains WebStorm | macos | x64 | 2026.2.3 | 2026.2.4 |
+| 30 Oct 15:03 | Termius Corporation Termius (ARM) | macos | arm64 | 10.2.1 | 10.3.0 |
+| 30 Oct 15:03 | Termius Corporation Termius (Intel) | macos | x64 | 10.2.1 | 10.3.0 |
+| 30 Oct 15:03 | Cisco Webex VDI Plugin (x64) | windows | arm64, x64 | 46.10.0.36042 | 46.8.0.35689 |
+| 30 Oct 15:03 | Freeplane Freeplane | windows | x64 | 1.13.3 | 1.13.4 |
+| 30 Oct 15:03 | JetBrains GoLand | windows | x64 | 2026.2.3 | 2026.2.4 |
+| 30 Oct 15:03 | JetBrains IntelliJ IDEA Ultimate Edition | windows | x64 | 2026.2.3 | 2026.2.4 |
+| 30 Oct 15:03 | JetBrains IntelliJ IDEA arm64 | windows | arm64 | 2026.2.3 | 2026.2.4 |
+| 30 Oct 15:03 | JetBrains JetBrains Toolbox (arm64) | windows | arm64 | 3.9.0.88839 | 3.9.1.89198 |
+| 30 Oct 15:03 | JetBrains JetBrains Toolbox | windows | x64 | 3.9.0.88839 | 3.9.1.89198 |
+| 30 Oct 15:03 | JetBrains PyCharm Professional Edition | windows | x64 | 2026.2.3 | 2026.2.4 |
+| 30 Oct 15:03 | JetBrains PyCharm arm64 | windows | arm64 | 2026.2.3 | 2026.2.4 |
+| 30 Oct 15:03 | JetBrains WebStorm | windows | x64 | 2026.2.3 | 2026.2.4 |
+| 30 Oct 15:03 | JetBrains WebStorm arm64 | windows | arm64 | 2026.2.3 | 2026.2.4 |
+| 30 Oct 15:03 | R Core Team R for Windows | windows | arm64, x64 | 4.6.1 | 4.6.2 |
+| 30 Oct 15:03 | Sober Lemur S.r.l. PDFsam Basic (64-bit) | windows | arm64, x64 | 6.0.6.0 | 6.0.9.0 |
+| 30 Oct 15:03 | TeamViewer Host x64 | windows | arm64, x64 | 15.83.3.0 | 15.83.5.0 |
+| 30 Oct 15:03 | TeamViewer Host x86 | windows | arm64, x64, x86 | 15.83.3.0 | 15.83.5.0 |
+| 30 Oct 15:03 | TeamViewer TeamViewer x64 | windows | arm64, x64 | 15.83.3.0 | 15.83.5.0 |
+| 30 Oct 15:03 | TeamViewer TeamViewer x86 | windows | arm64, x64, x86 | 15.83.3.0 | 15.83.5.0 |
+| 30 Oct 15:03 | Termius Corporation Termius (Active User) | windows | x64, x86 | 10.2.1 | 10.3.0 |
 | 30 Oct 05:48 | Microsoft Edge (DPKG) | linux | x64 | 156.0.4314.50 | 156.0.4314.56 |
 | 30 Oct 05:48 | Cognition Devin Desktop | macos | arm64 | 3.11.228 | 3.11.234 |
 | 30 Oct 05:48 | Google Chrome | macos | arm64, x64 | 156.0.8078.74 | 156.0.8078.80 |
@@ -75,16 +107,6 @@ First seen in the recorded gallery history, by vendor, product name and platform
 | 29 Oct 15:14 | Bitwarden, Inc. Bitwarden Desktop (x64) | windows | x64 | 2026.10.1 | 2026.10.2 |
 | 29 Oct 15:14 | IDM Computer Solutions UltraEdit | windows | arm64, x64 | 33.0.23 | 33.1.27 |
 | 29 Oct 15:14 | Kong Insomnia | windows | x64 | 2026.13.3.1 | 2026.13.4.0 |
-| 29 Oct 11:23 | Palo Alto Networks, Inc. Prisma Access Browser | macos | arm64 | 156.17.7.48 | 156.17.8.74 |
-| 29 Oct 11:23 | Azul Systems, Inc. Azul Zulu JDK 17 (x64) | windows | arm64, x64 | 17.70.111 | 17.70.113 |
-| 29 Oct 11:23 | Azul Systems, Inc. Azul Zulu JDK 17 (x86) | windows | arm64, x64, x86 | 17.70.111 | 17.70.113 |
-| 29 Oct 11:23 | Azul Systems, Inc. Azul Zulu JDK 21 (x64) | windows | arm64, x64 | 21.54.107 | 21.54.109 |
-| 29 Oct 11:23 | Azul Systems, Inc. Azul Zulu JDK 25 (x64) | windows | arm64, x64 | 25.38.107 | 25.38.109 |
-| 29 Oct 11:23 | Azul Systems, Inc. Azul Zulu JRE 17 (x64) | windows | arm64, x64 | 17.70.111 | 17.70.113 |
-| 29 Oct 11:23 | Azul Systems, Inc. Azul Zulu JRE 17 (x86) | windows | arm64, x64, x86 | 17.70.111 | 17.70.113 |
-| 29 Oct 11:23 | Azul Systems, Inc. Azul Zulu JRE 21 (x64) | windows | arm64, x64 | 21.54.107 | 21.54.109 |
-| 29 Oct 11:23 | Azul Systems, Inc. Azul Zulu JRE 25 (x64) | windows | arm64, x64 | 25.38.107 | 25.38.109 |
-| 29 Oct 11:23 | Palo Alto Networks, Inc. Prisma Access Browser | windows | arm64, x64 | 156.17.7.48 | 156.17.8.74 |
 
 ## Other additions (previously seen products or supporting files)
 
@@ -116,12 +138,18 @@ First seen in the recorded gallery history, by vendor, product name and platform
 
 ## Definition changes
 
-None detected in this window.
+| Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
+|---|---|---|---|---|---|
+| 30 Oct 15:03 | JetBrains DataGrip | windows | x64 | 2026.2.6 | 2026.2.6 |
+| 30 Oct 15:03 | Microsoft Feature Update to Windows 10, version 21H2 (KB5003791) - x64 | windows | x64 | 1.0 | 1.0 |
+| 30 Oct 15:03 | Microsoft Feature Update to Windows 11, version 25H2 (KB5054156) - x64 | windows | x64 | 1.1 | 1.1 |
+| 30 Oct 15:03 | Parallels International GmbH Parallels Client (32-bit) | windows | x64, x86 | 22.0.28160 | 22.0.28160 |
 
 ## Removed packages
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 30 Oct 15:03 | Freeplane Freeplane | macos | arm64 | 1.13.3 | — |
 | 30 Oct 05:48 | Microsoft Edge | macos | arm64, x64 | 156.0.4314.50 | — |
 | 30 Oct 05:48 | Microsoft Edge | macos | arm64, x64 | 156.0.4314.50 | — |
 | 30 Oct 05:48 | Postman Postman (ARM) | macos | arm64 | 12.34.3 | — |
