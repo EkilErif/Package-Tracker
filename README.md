@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 30 Oct 2026 15:03 UTC  
-**Observation window:** 29 Oct 2026 15:03 UTC to 30 Oct 2026 15:03 UTC
+**Last successful check:** 30 Oct 2026 20:47 UTC  
+**Observation window:** 29 Oct 2026 20:47 UTC to 30 Oct 2026 20:47 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 1 | 83 | 23 | 4 | 18 | 0 |
+| 0 | 80 | 17 | 7 | 16 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -16,14 +16,16 @@ Refreshed every successful four-hour check, including checks with no new changes
 
 First seen in the recorded gallery history, by vendor, product name and platform. Versions and architecture changes alone do not qualify. History starts at the initial monitoring baseline; this does not establish when Tanium first published a product.
 
-| Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
-|---|---|---|---|---|---|
-| 29 Oct 15:14 | Apache Software Foundation Apache JMeter | windows | arm64, x64 | — | 5.6.3 |
+None detected in this window.
 
 ## Version changes
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 30 Oct 20:47 | Microsoft Edge (DPKG) | linux | x64 | 156.0.4314.56 | 156.0.4314.58 |
+| 30 Oct 20:47 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.39.2.0 | 2.39.3.0 |
+| 30 Oct 20:47 | Brave Software, Inc Brave Browser (Active User) (x64) | windows | x64 | 1.98.62 | 1.98.63 |
+| 30 Oct 20:47 | Brave Software, Inc Brave Browser (Active User) (x86) | windows | x86 | 1.98.62 | 1.98.63 |
 | 30 Oct 15:03 | JetBrains DataGrip (ARM) | macos | arm64 | 2026.2.6 | 2026.2.6.1 |
 | 30 Oct 15:03 | JetBrains DataGrip | macos | x64 | 2026.2.6 | 2026.2.6.1 |
 | 30 Oct 15:03 | JetBrains GoLand (ARM) | macos | arm64 | 2026.2.3 | 2026.2.4 |
@@ -100,13 +102,6 @@ First seen in the recorded gallery history, by vendor, product name and platform
 | 29 Oct 21:07 | Vivaldi Technologies Vivaldi (64-bit) | windows | x64 | 8.2.4133.94 | 8.2.4133.96 |
 | 29 Oct 21:07 | Vivaldi Technologies Vivaldi (arm64) | windows | arm64 | 8.2.4133.94 | 8.2.4133.96 |
 | 29 Oct 21:07 | pgAdmin pgAdmin 4 | windows | arm64, x64 | 9.18 | 9.19 |
-| 29 Oct 15:14 | Bitwarden, Inc. Bitwarden Desktop | macos | arm64, x64 | 2026.10.1 | 2026.10.2 |
-| 29 Oct 15:14 | Kong Insomnia | macos | arm64, x64 | 2026.13.3.1 | 2026.13.4.0 |
-| 29 Oct 15:14 | Vivaldi Technologies Vivaldi | macos | arm64, x64 | 8.2.4133.94 | 8.2.4133.96 |
-| 29 Oct 15:14 | Bitwarden, Inc. Bitwarden Desktop (arm64) | windows | arm64 | 2026.10.1 | 2026.10.2 |
-| 29 Oct 15:14 | Bitwarden, Inc. Bitwarden Desktop (x64) | windows | x64 | 2026.10.1 | 2026.10.2 |
-| 29 Oct 15:14 | IDM Computer Solutions UltraEdit | windows | arm64, x64 | 33.0.23 | 33.1.27 |
-| 29 Oct 15:14 | Kong Insomnia | windows | x64 | 2026.13.3.1 | 2026.13.4.0 |
 
 ## Other additions (previously seen products or supporting files)
 
@@ -129,17 +124,14 @@ First seen in the recorded gallery history, by vendor, product name and platform
 | 29 Oct 21:07 | The Document Foundation LibreOffice (ARM) | macos | arm64 | — | 26.8.2.2 |
 | 29 Oct 21:07 | The Document Foundation LibreOffice (Intel) | macos | x64 | — | 26.8.2.2 |
 | 29 Oct 21:07 | The Document Foundation LibreOffice (x64) | windows | x64 | — | 26.8.2.2 |
-| 29 Oct 15:14 | TeamViewer Host | macos | arm64, x64 | — | 15.83.3 |
-| 29 Oct 15:14 | TeamViewer TeamViewer | macos | arm64, x64 | — | 15.83.3 |
-| 29 Oct 15:14 | TeamViewer Host x64 | windows | arm64, x64 | — | 15.83.3.0 |
-| 29 Oct 15:14 | TeamViewer Host x86 | windows | arm64, x64, x86 | — | 15.83.3.0 |
-| 29 Oct 15:14 | TeamViewer TeamViewer x64 | windows | arm64, x64 | — | 15.83.3.0 |
-| 29 Oct 15:14 | TeamViewer TeamViewer x86 | windows | arm64, x64, x86 | — | 15.83.3.0 |
 
 ## Definition changes
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 30 Oct 20:47 | JetBrains DataGrip | windows | x64 | 2026.2.6 | 2026.2.6 |
+| 30 Oct 20:47 | JetBrains GoLand | windows | x64 | 2026.2.4 | 2026.2.4 |
+| 30 Oct 20:47 | Parallels International GmbH Parallels Client (32-bit) | windows | x64, x86 | 22.0.28160 | 22.0.28160 |
 | 30 Oct 15:03 | JetBrains DataGrip | windows | x64 | 2026.2.6 | 2026.2.6 |
 | 30 Oct 15:03 | Microsoft Feature Update to Windows 10, version 21H2 (KB5003791) - x64 | windows | x64 | 1.0 | 1.0 |
 | 30 Oct 15:03 | Microsoft Feature Update to Windows 11, version 25H2 (KB5054156) - x64 | windows | x64 | 1.1 | 1.1 |
@@ -149,6 +141,7 @@ First seen in the recorded gallery history, by vendor, product name and platform
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 30 Oct 20:47 | Brave Software, Inc Brave Browser | macos | arm64, x64 | 1.98.62 | — |
 | 30 Oct 15:03 | Freeplane Freeplane | macos | arm64 | 1.13.3 | — |
 | 30 Oct 05:48 | Microsoft Edge | macos | arm64, x64 | 156.0.4314.50 | — |
 | 30 Oct 05:48 | Microsoft Edge | macos | arm64, x64 | 156.0.4314.50 | — |
@@ -164,9 +157,6 @@ First seen in the recorded gallery history, by vendor, product name and platform
 | 30 Oct 05:48 | Microsoft Edge WebView2 x64 | windows | x64 | 156.0.4314.50 | — |
 | 30 Oct 05:48 | Microsoft Edge WebView2 x86 | windows | x86 | 156.0.4314.50 | — |
 | 30 Oct 05:48 | Microsoft Edge WebView2 x86 | windows | x86 | 156.0.4314.50 | — |
-| 29 Oct 15:14 | The Document Foundation LibreOffice (ARM) | macos | arm64 | 26.8.1.1 | — |
-| 29 Oct 15:14 | The Document Foundation LibreOffice (Intel) | macos | x64 | 26.8.1.1 | — |
-| 29 Oct 15:14 | The Document Foundation LibreOffice (x64) | windows | x64 | 26.8.1.1 | — |
 
 ## Renamed files
 
