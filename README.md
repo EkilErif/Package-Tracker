@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 31 Oct 2026 19:59 UTC  
-**Observation window:** 30 Oct 2026 19:59 UTC to 31 Oct 2026 19:59 UTC
+**Last successful check:** 31 Oct 2026 23:24 UTC  
+**Observation window:** 30 Oct 2026 23:24 UTC to 31 Oct 2026 23:24 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 14 | 9 | 3 | 9 | 0 |
+| 0 | 10 | 9 | 1 | 8 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -32,10 +32,6 @@ None detected in this window.
 | 31 Oct 05:40 | Microsoft Edge x86 | windows | x86 | 156.0.4314.56 | 156.0.4314.58 |
 | 31 Oct 05:40 | Zscaler Inc. Client Connector (32 bit) | windows | x64, x86 | 4.10.0.477 | 4.7.0.394 |
 | 31 Oct 05:40 | Zscaler Inc. Client Connector (64 bit) | windows | x64 | 4.10.0.477 | 4.7.0.394 |
-| 30 Oct 20:47 | Microsoft Edge (DPKG) | linux | x64 | 156.0.4314.56 | 156.0.4314.58 |
-| 30 Oct 20:47 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.39.2.0 | 2.39.3.0 |
-| 30 Oct 20:47 | Brave Software, Inc Brave Browser (Active User) (x64) | windows | x64 | 1.98.62 | 1.98.63 |
-| 30 Oct 20:47 | Brave Software, Inc Brave Browser (Active User) (x86) | windows | x86 | 1.98.62 | 1.98.63 |
 
 ## Other additions (previously seen products or supporting files)
 
@@ -55,9 +51,7 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
-| 30 Oct 20:47 | JetBrains DataGrip | windows | x64 | 2026.2.6 | 2026.2.6 |
-| 30 Oct 20:47 | JetBrains GoLand | windows | x64 | 2026.2.4 | 2026.2.4 |
-| 30 Oct 20:47 | Parallels International GmbH Parallels Client (32-bit) | windows | x64, x86 | 22.0.28160 | 22.0.28160 |
+| 31 Oct 23:24 | Cisco Webex Recorder and Player | windows | arm64, x64, x86 | 45.6.4.8 | 45.6.4.8 |
 
 ## Removed packages
 
@@ -71,7 +65,6 @@ None detected in this window.
 | 31 Oct 05:40 | Microsoft Edge WebView2 x64 | windows | x64 | 156.0.4314.56 | — |
 | 31 Oct 05:40 | Microsoft Edge WebView2 x86 | windows | x86 | 156.0.4314.56 | — |
 | 31 Oct 05:40 | Microsoft Edge WebView2 x86 | windows | x86 | 156.0.4314.56 | — |
-| 30 Oct 20:47 | Brave Software, Inc Brave Browser | macos | arm64, x64 | 1.98.62 | — |
 
 ## Renamed files
 
