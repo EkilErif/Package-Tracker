@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 31 Oct 2026 05:40 UTC  
-**Observation window:** 30 Oct 2026 05:40 UTC to 31 Oct 2026 05:40 UTC
+**Last successful check:** 31 Oct 2026 14:32 UTC  
+**Observation window:** 30 Oct 2026 14:32 UTC to 31 Oct 2026 14:32 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 69 | 23 | 7 | 24 | 0 |
+| 0 | 46 | 9 | 7 | 10 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,6 +22,9 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 31 Oct 14:32 | Zoom Zoom | macos | arm64, x64 | 7.2.2.88465 | 7.2.5.90525 |
+| 31 Oct 14:32 | Zoom Zoom (64-bit) | windows | x64 | 7.2.1.48556 | 7.2.5.51704 |
+| 31 Oct 14:32 | Zoom Zoom Workplace (ARM) | windows | arm64 | 7.2.1.48556 | 7.2.5.51704 |
 | 31 Oct 05:40 | Cognition Devin Desktop | macos | arm64 | 3.11.234 | 3.11.238 |
 | 31 Oct 05:40 | Google LLC Google Gemini | macos | arm64 | 1.135.1.1291 | 1.138.0.1315 |
 | 31 Oct 05:40 | Microsoft Edge arm64 | windows | arm64 | 156.0.4314.56 | 156.0.4314.58 |
@@ -65,32 +68,6 @@ None detected in this window.
 | 30 Oct 15:03 | TeamViewer TeamViewer x64 | windows | arm64, x64 | 15.83.3.0 | 15.83.5.0 |
 | 30 Oct 15:03 | TeamViewer TeamViewer x86 | windows | arm64, x64, x86 | 15.83.3.0 | 15.83.5.0 |
 | 30 Oct 15:03 | Termius Corporation Termius (Active User) | windows | x64, x86 | 10.2.1 | 10.3.0 |
-| 30 Oct 05:48 | Microsoft Edge (DPKG) | linux | x64 | 156.0.4314.50 | 156.0.4314.56 |
-| 30 Oct 05:48 | Cognition Devin Desktop | macos | arm64 | 3.11.228 | 3.11.234 |
-| 30 Oct 05:48 | Google Chrome | macos | arm64, x64 | 156.0.8078.74 | 156.0.8078.80 |
-| 30 Oct 05:48 | OBS Studio OBS Studio (ARM) | macos | arm64 | 33.0.0 | 33.0.1 |
-| 30 Oct 05:48 | OBS Studio OBS Studio | macos | x64 | 33.0.0 | 33.0.1 |
-| 30 Oct 05:48 | Slack Slack | macos | arm64, x64 | 4.53.269 | 4.53.276 |
-| 30 Oct 05:48 | Google Chrome ARM64 | windows | arm64 | 156.0.8078.74 | 156.0.8078.80 |
-| 30 Oct 05:48 | Google Chrome x86 | windows | x64, x86 | 156.0.8078.74 | 156.0.8078.80 |
-| 30 Oct 05:48 | Google Chrome x86 | windows | arm64, x64, x86 | 156.0.8078.74 | 156.0.8078.80 |
-| 30 Oct 05:48 | Microsoft Edge arm64 | windows | arm64 | 156.0.4314.50 | 156.0.4314.56 |
-| 30 Oct 05:48 | Microsoft Edge x64 | windows | x64 | 156.0.4314.50 | 156.0.4314.56 |
-| 30 Oct 05:48 | Microsoft Edge x86 | windows | x86 | 156.0.4314.50 | 156.0.4314.56 |
-| 30 Oct 05:48 | Microsoft Teams (DoD) | windows | x64 | 26260.1717.5229.7049 | 26276.513.5241.9675 |
-| 30 Oct 05:48 | Microsoft Teams x64 (GCC) | windows | x64 | 26260.1717.5229.7049 | 26276.513.5241.9675 |
-| 30 Oct 05:48 | Microsoft Teams x64 (GCC High) | windows | x64 | 26260.1717.5229.7049 | 26276.513.5241.9675 |
-| 30 Oct 05:48 | Microsoft Teams x64 | windows | x64 | 26260.1717.5229.7049 | 26276.513.5241.9675 |
-| 30 Oct 05:48 | Microsoft Teams x86 (DoD) | windows | x86 | 26260.1717.5229.7049 | 26276.513.5241.9675 |
-| 30 Oct 05:48 | Microsoft Teams x86 (GCC) | windows | x86 | 26260.1717.5229.7049 | 26276.513.5241.9675 |
-| 30 Oct 05:48 | Microsoft Teams x86 (GCC High) | windows | x86 | 26260.1717.5229.7049 | 26276.513.5241.9675 |
-| 30 Oct 05:48 | Microsoft Teams x86 | windows | x86 | 26260.1717.5229.7049 | 26276.513.5241.9675 |
-| 30 Oct 05:48 | OBS Studio OBS Studio | windows | x64 | 33.0.0 | 33.0.1 |
-| 30 Oct 05:48 | OpenAI OpCo, LLC ChatGPT Codex (arm64) | windows | arm64 | 26.1023.6621.0 | 26.1027.3384.0 |
-| 30 Oct 05:48 | OpenAI OpCo, LLC ChatGPT Codex (x64) | windows | x64 | 26.1023.6621.0 | 26.1027.3384.0 |
-| 30 Oct 05:48 | Postman Postman | windows | arm64, x64, x86 | 12.34.3.0 | 12.34.4.0 |
-| 30 Oct 05:48 | Slack Slack ARM64 | windows | arm64 | 4.53.269.0 | 4.53.276.0 |
-| 30 Oct 05:48 | Slack Slack x64 | windows | x64 | 4.53.269.0 | 4.53.276.0 |
 
 ## Other additions (previously seen products or supporting files)
 
@@ -105,20 +82,6 @@ None detected in this window.
 | 31 Oct 05:40 | Microsoft Edge WebView2 x64 | windows | x64 | — | 156.0.4314.58 |
 | 31 Oct 05:40 | Microsoft Edge WebView2 x86 | windows | x86 | — | 156.0.4314.58 |
 | 31 Oct 05:40 | Microsoft Edge WebView2 x86 | windows | x86 | — | 156.0.4314.58 |
-| 30 Oct 05:48 | Microsoft Edge | macos | arm64, x64 | — | 156.0.4314.56 |
-| 30 Oct 05:48 | Microsoft Edge | macos | arm64, x64 | — | 156.0.4314.56 |
-| 30 Oct 05:48 | Postman Postman (ARM) | macos | arm64 | — | 12.34.4 |
-| 30 Oct 05:48 | Postman Postman (ARM) | macos | arm64 | — | 12.34.4 |
-| 30 Oct 05:48 | Postman Postman | macos | x64 | — | 12.34.4 |
-| 30 Oct 05:48 | Postman Postman | macos | x64 | — | 12.34.4 |
-| 30 Oct 05:48 | Google Chrome x64 | windows | x64 | — | 156.0.8078.80 |
-| 30 Oct 05:48 | Google Chrome x64 | windows | x64 | — | 156.0.8078.80 |
-| 30 Oct 05:48 | Microsoft Edge WebView2 arm64 | windows | arm64 | — | 156.0.4314.56 |
-| 30 Oct 05:48 | Microsoft Edge WebView2 arm64 | windows | arm64 | — | 156.0.4314.56 |
-| 30 Oct 05:48 | Microsoft Edge WebView2 x64 | windows | x64 | — | 156.0.4314.56 |
-| 30 Oct 05:48 | Microsoft Edge WebView2 x64 | windows | x64 | — | 156.0.4314.56 |
-| 30 Oct 05:48 | Microsoft Edge WebView2 x86 | windows | x86 | — | 156.0.4314.56 |
-| 30 Oct 05:48 | Microsoft Edge WebView2 x86 | windows | x86 | — | 156.0.4314.56 |
 
 ## Definition changes
 
@@ -146,20 +109,6 @@ None detected in this window.
 | 31 Oct 05:40 | Microsoft Edge WebView2 x86 | windows | x86 | 156.0.4314.56 | — |
 | 30 Oct 20:47 | Brave Software, Inc Brave Browser | macos | arm64, x64 | 1.98.62 | — |
 | 30 Oct 15:03 | Freeplane Freeplane | macos | arm64 | 1.13.3 | — |
-| 30 Oct 05:48 | Microsoft Edge | macos | arm64, x64 | 156.0.4314.50 | — |
-| 30 Oct 05:48 | Microsoft Edge | macos | arm64, x64 | 156.0.4314.50 | — |
-| 30 Oct 05:48 | Postman Postman (ARM) | macos | arm64 | 12.34.3 | — |
-| 30 Oct 05:48 | Postman Postman (ARM) | macos | arm64 | 12.34.3 | — |
-| 30 Oct 05:48 | Postman Postman | macos | x64 | 12.34.3 | — |
-| 30 Oct 05:48 | Postman Postman | macos | x64 | 12.34.3 | — |
-| 30 Oct 05:48 | Google Chrome x64 | windows | x64 | 156.0.8078.74 | — |
-| 30 Oct 05:48 | Google Chrome x64 | windows | x64 | 156.0.8078.74 | — |
-| 30 Oct 05:48 | Microsoft Edge WebView2 arm64 | windows | arm64 | 156.0.4314.50 | — |
-| 30 Oct 05:48 | Microsoft Edge WebView2 arm64 | windows | arm64 | 156.0.4314.50 | — |
-| 30 Oct 05:48 | Microsoft Edge WebView2 x64 | windows | x64 | 156.0.4314.50 | — |
-| 30 Oct 05:48 | Microsoft Edge WebView2 x64 | windows | x64 | 156.0.4314.50 | — |
-| 30 Oct 05:48 | Microsoft Edge WebView2 x86 | windows | x86 | 156.0.4314.50 | — |
-| 30 Oct 05:48 | Microsoft Edge WebView2 x86 | windows | x86 | 156.0.4314.50 | — |
 
 ## Renamed files
 
