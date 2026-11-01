@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 31 Oct 2026 23:24 UTC  
-**Observation window:** 30 Oct 2026 23:24 UTC to 31 Oct 2026 23:24 UTC
+**Last successful check:** 01 Nov 2026 06:04 UTC  
+**Observation window:** 31 Oct 2026 06:04 UTC to 01 Nov 2026 06:04 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 10 | 9 | 1 | 8 | 0 |
+| 0 | 4 | 0 | 2 | 0 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,49 +22,25 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 01 Nov 06:04 | OpenAI OpCo, LLC ChatGPT Codex | macos | arm64 | 26.1027.30824 | 26.1027.51404 |
 | 31 Oct 14:32 | Zoom Zoom | macos | arm64, x64 | 7.2.2.88465 | 7.2.5.90525 |
 | 31 Oct 14:32 | Zoom Zoom (64-bit) | windows | x64 | 7.2.1.48556 | 7.2.5.51704 |
 | 31 Oct 14:32 | Zoom Zoom Workplace (ARM) | windows | arm64 | 7.2.1.48556 | 7.2.5.51704 |
-| 31 Oct 05:40 | Cognition Devin Desktop | macos | arm64 | 3.11.234 | 3.11.238 |
-| 31 Oct 05:40 | Google LLC Google Gemini | macos | arm64 | 1.135.1.1291 | 1.138.0.1315 |
-| 31 Oct 05:40 | Microsoft Edge arm64 | windows | arm64 | 156.0.4314.56 | 156.0.4314.58 |
-| 31 Oct 05:40 | Microsoft Edge x64 | windows | x64 | 156.0.4314.56 | 156.0.4314.58 |
-| 31 Oct 05:40 | Microsoft Edge x86 | windows | x86 | 156.0.4314.56 | 156.0.4314.58 |
-| 31 Oct 05:40 | Zscaler Inc. Client Connector (32 bit) | windows | x64, x86 | 4.10.0.477 | 4.7.0.394 |
-| 31 Oct 05:40 | Zscaler Inc. Client Connector (64 bit) | windows | x64 | 4.10.0.477 | 4.7.0.394 |
 
 ## Other additions (previously seen products or supporting files)
 
-| Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
-|---|---|---|---|---|---|
-| 31 Oct 05:40 | Brave Software, Inc Brave Browser | macos | arm64, x64 | — | 1.98.63 |
-| 31 Oct 05:40 | Microsoft Edge | macos | arm64, x64 | — | 156.0.4314.58 |
-| 31 Oct 05:40 | Microsoft Edge | macos | arm64, x64 | — | 156.0.4314.58 |
-| 31 Oct 05:40 | Microsoft Edge WebView2 arm64 | windows | arm64 | — | 156.0.4314.58 |
-| 31 Oct 05:40 | Microsoft Edge WebView2 arm64 | windows | arm64 | — | 156.0.4314.58 |
-| 31 Oct 05:40 | Microsoft Edge WebView2 x64 | windows | x64 | — | 156.0.4314.58 |
-| 31 Oct 05:40 | Microsoft Edge WebView2 x64 | windows | x64 | — | 156.0.4314.58 |
-| 31 Oct 05:40 | Microsoft Edge WebView2 x86 | windows | x86 | — | 156.0.4314.58 |
-| 31 Oct 05:40 | Microsoft Edge WebView2 x86 | windows | x86 | — | 156.0.4314.58 |
+None detected in this window.
 
 ## Definition changes
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 01 Nov 06:04 | Cisco Webex Recorder and Player | windows | arm64, x64, x86 | 45.6.4.8 | 45.6.4.8 |
 | 31 Oct 23:24 | Cisco Webex Recorder and Player | windows | arm64, x64, x86 | 45.6.4.8 | 45.6.4.8 |
 
 ## Removed packages
 
-| Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
-|---|---|---|---|---|---|
-| 31 Oct 05:40 | Microsoft Edge | macos | arm64, x64 | 156.0.4314.56 | — |
-| 31 Oct 05:40 | Microsoft Edge | macos | arm64, x64 | 156.0.4314.56 | — |
-| 31 Oct 05:40 | Microsoft Edge WebView2 arm64 | windows | arm64 | 156.0.4314.56 | — |
-| 31 Oct 05:40 | Microsoft Edge WebView2 arm64 | windows | arm64 | 156.0.4314.56 | — |
-| 31 Oct 05:40 | Microsoft Edge WebView2 x64 | windows | x64 | 156.0.4314.56 | — |
-| 31 Oct 05:40 | Microsoft Edge WebView2 x64 | windows | x64 | 156.0.4314.56 | — |
-| 31 Oct 05:40 | Microsoft Edge WebView2 x86 | windows | x86 | 156.0.4314.56 | — |
-| 31 Oct 05:40 | Microsoft Edge WebView2 x86 | windows | x86 | 156.0.4314.56 | — |
+None detected in this window.
 
 ## Renamed files
 
