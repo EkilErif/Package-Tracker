@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 01 Nov 2026 15:08 UTC  
-**Observation window:** 31 Oct 2026 15:08 UTC to 01 Nov 2026 15:08 UTC
+**Last successful check:** 01 Nov 2026 20:30 UTC  
+**Observation window:** 31 Oct 2026 20:30 UTC to 01 Nov 2026 20:30 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 2 | 0 | 2 | 0 | 0 |
+| 0 | 4 | 0 | 2 | 0 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,6 +22,8 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 01 Nov 20:30 | Palo Alto Networks, Inc. Prisma Access Browser | macos | arm64 | 156.17.8.74 | 156.17.9.80 |
+| 01 Nov 20:30 | Palo Alto Networks, Inc. Prisma Access Browser | windows | arm64, x64 | 156.17.8.74 | 156.17.9.80 |
 | 01 Nov 15:08 | KeePass KeePass 1 | windows | x64, x86 | 1.43 | 1.44 |
 | 01 Nov 06:04 | OpenAI OpCo, LLC ChatGPT Codex | macos | arm64 | 26.1027.30824 | 26.1027.51404 |
 
