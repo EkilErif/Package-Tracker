@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 01 Nov 2026 20:30 UTC  
-**Observation window:** 31 Oct 2026 20:30 UTC to 01 Nov 2026 20:30 UTC
+**Last successful check:** 02 Nov 2026 06:02 UTC  
+**Observation window:** 01 Nov 2026 06:02 UTC to 02 Nov 2026 06:02 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 4 | 0 | 2 | 0 | 0 |
+| 0 | 9 | 0 | 1 | 0 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,6 +22,11 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 02 Nov 06:02 | OpenAI OpCo, LLC ChatGPT Codex | macos | arm64 | 26.1027.51404 | 26.1027.61615 |
+| 02 Nov 06:02 | DBeaver Corp DBeaver Community (arm64) | windows | arm64 | 26.2.3 | 26.2.4 |
+| 02 Nov 06:02 | DBeaver Corp DBeaver Community (x64) | windows | x64 | 26.2.3 | 26.2.4 |
+| 02 Nov 06:02 | Vim Project Vim (arm64) | windows | arm64 | 9.2.1252 | 9.2.1276 |
+| 02 Nov 06:02 | Vim Project Vim (x64) | windows | x64 | 9.2.1252 | 9.2.1276 |
 | 01 Nov 20:30 | Palo Alto Networks, Inc. Prisma Access Browser | macos | arm64 | 156.17.8.74 | 156.17.9.80 |
 | 01 Nov 20:30 | Palo Alto Networks, Inc. Prisma Access Browser | windows | arm64, x64 | 156.17.8.74 | 156.17.9.80 |
 | 01 Nov 15:08 | KeePass KeePass 1 | windows | x64, x86 | 1.43 | 1.44 |
@@ -36,7 +41,6 @@ None detected in this window.
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
 | 01 Nov 06:04 | Cisco Webex Recorder and Player | windows | arm64, x64, x86 | 45.6.4.8 | 45.6.4.8 |
-| 31 Oct 23:24 | Cisco Webex Recorder and Player | windows | arm64, x64, x86 | 45.6.4.8 | 45.6.4.8 |
 
 ## Removed packages
 
