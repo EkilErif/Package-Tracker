@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 02 Nov 2026 18:22 UTC  
-**Observation window:** 01 Nov 2026 18:22 UTC to 02 Nov 2026 18:22 UTC
+**Last successful check:** 03 Nov 2026 02:18 UTC  
+**Observation window:** 02 Nov 2026 02:18 UTC to 03 Nov 2026 02:18 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 18 | 1 | 1 | 2 | 0 |
+| 0 | 21 | 7 | 1 | 10 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,6 +22,11 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 03 Nov 02:18 | Codec Guide K-Lite Mega Codec Pack | windows | arm64, x64 | 20.1.0 | 20.1.5 |
+| 03 Nov 02:18 | Microsoft Power BI Desktop (x64) | windows | arm64, x64 | 2.159.883.0 | 2.159.1231.0 |
+| 03 Nov 02:18 | Microsoft Visual Studio Code (x64 en-us) | windows | x64 | 1.144.0 | 1.144.1 |
+| 03 Nov 02:18 | Zscaler Inc. Client Connector (32 bit) | windows | x64, x86 | 4.7.0.394 | 4.9.0.508 |
+| 03 Nov 02:18 | Zscaler Inc. Client Connector (64 bit) | windows | x64 | 4.7.0.394 | 4.9.0.508 |
 | 02 Nov 18:22 | Bitwarden, Inc. Bitwarden Desktop | macos | arm64, x64 | 2026.10.2 | 2026.10.3 |
 | 02 Nov 18:22 | Devolutions Inc. Remote Desktop Manager | macos | arm64, x64 | 2026.3.2.2 | 2026.3.2.3 |
 | 02 Nov 18:22 | Grammarly Grammarly | macos | arm64, x64 | 1.205.1 | 1.206.0 |
@@ -38,13 +43,17 @@ None detected in this window.
 | 02 Nov 06:02 | DBeaver Corp DBeaver Community (x64) | windows | x64 | 26.2.3 | 26.2.4 |
 | 02 Nov 06:02 | Vim Project Vim (arm64) | windows | arm64 | 9.2.1252 | 9.2.1276 |
 | 02 Nov 06:02 | Vim Project Vim (x64) | windows | x64 | 9.2.1252 | 9.2.1276 |
-| 01 Nov 20:30 | Palo Alto Networks, Inc. Prisma Access Browser | macos | arm64 | 156.17.8.74 | 156.17.9.80 |
-| 01 Nov 20:30 | Palo Alto Networks, Inc. Prisma Access Browser | windows | arm64, x64 | 156.17.8.74 | 156.17.9.80 |
 
 ## Other additions (previously seen products or supporting files)
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 03 Nov 02:18 | Oracle VirtualBox (ARM) | macos | arm64 | — | 7.2.22 |
+| 03 Nov 02:18 | Postman Postman (ARM) | macos | arm64 | — | 12.35.0 |
+| 03 Nov 02:18 | Postman Postman (ARM) | macos | arm64 | — | 12.35.0 |
+| 03 Nov 02:18 | Postman Postman | macos | x64 | — | 12.35.0 |
+| 03 Nov 02:18 | Postman Postman | macos | x64 | — | 12.35.0 |
+| 03 Nov 02:18 | Oracle VirtualBox (x64) | windows | x64 | — | 7.2.22 |
 | 02 Nov 18:22 | Google Drive | macos | arm64, x64 | — | 133.0.2.0 |
 
 ## Definition changes
@@ -57,6 +66,14 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 03 Nov 02:18 | Postman Postman (ARM) | macos | arm64 | 12.34.4 | — |
+| 03 Nov 02:18 | Postman Postman (ARM) | macos | arm64 | 12.34.4 | — |
+| 03 Nov 02:18 | Postman Postman | macos | x64 | 12.34.4 | — |
+| 03 Nov 02:18 | Postman Postman | macos | x64 | 12.34.4 | — |
+| 03 Nov 02:18 | Microsoft Windows App (32-bit) | windows | x86 | 2.0.1485.0 | — |
+| 03 Nov 02:18 | Microsoft Windows App (64-bit) | windows | x64 | 2.0.1485.0 | — |
+| 03 Nov 02:18 | Microsoft Windows App (Arm64) | windows | arm64 | 2.0.1485.0 | — |
+| 03 Nov 02:18 | Microsoft Windows Upgrade Cleanup | windows | arm64, x64, x86 | 1.0.5 | — |
 | 02 Nov 18:22 | Oracle VirtualBox (ARM) | macos | arm64 | 7.2.22 | — |
 | 02 Nov 18:22 | Oracle VirtualBox (x64) | windows | x64 | 7.2.22 | — |
 
