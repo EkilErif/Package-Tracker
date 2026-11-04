@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 04 Nov 2026 00:36 UTC  
-**Observation window:** 03 Nov 2026 00:36 UTC to 04 Nov 2026 00:36 UTC
+**Last successful check:** 04 Nov 2026 12:08 UTC  
+**Observation window:** 03 Nov 2026 12:08 UTC to 04 Nov 2026 12:08 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 135 | 18 | 4 | 18 | 0 |
+| 0 | 151 | 8 | 2 | 8 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,6 +22,40 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 04 Nov 12:08 | Adobe Acrobat DC | macos | arm64, x64 | 26.002.22031 | 26.003.22075 |
+| 04 Nov 12:08 | Adobe Acrobat Reader DC (en-us) | macos | arm64, x64 | 26.002.22031 | 26.003.22075 |
+| 04 Nov 12:08 | Adobe Acrobat Reader | macos | arm64, x64 | 26.002.22031 | 26.003.22075 |
+| 04 Nov 12:08 | Adobe Acrobat | macos | arm64, x64 | 26.002.22031 | 26.003.22075 |
+| 04 Nov 12:08 | Aircall Aircall Workspace (ARM) | macos | arm64 | 1.18.25 | 1.18.28 |
+| 04 Nov 12:08 | Aircall Aircall Workspace (Intel) | macos | x64 | 1.18.25 | 1.18.28 |
+| 04 Nov 12:08 | George Nachman iTerm2 | macos | arm64, x64 | 3.7.6 | 3.7.7 |
+| 04 Nov 12:08 | Microsoft Visual Studio Code | macos | arm64, x64 | 1.144.0 | 1.145.0 |
+| 04 Nov 12:08 | Slack Slack | macos | arm64, x64 | 4.53.276 | 4.53.280 |
+| 04 Nov 12:08 | Termius Corporation Termius (ARM) | macos | arm64 | 10.3.0 | 10.4.0 |
+| 04 Nov 12:08 | Termius Corporation Termius (Intel) | macos | x64 | 10.3.0 | 10.4.0 |
+| 04 Nov 12:08 | Adobe Acrobat (64-bit) | windows | arm64, x64 | 26.002.22031 | 26.003.22075 |
+| 04 Nov 12:08 | Adobe Acrobat (Reduced Mode) | windows | arm64, x64 | 26.002.22031 | 26.003.22075 |
+| 04 Nov 12:08 | Adobe Acrobat DC (en-us) | windows | x64, x86 | 26.002.22031 | 26.003.22075 |
+| 04 Nov 12:08 | Adobe Acrobat Reader DC (MUI) (64-bit) | windows | arm64, x64 | 26.002.22031 | 26.003.22075 |
+| 04 Nov 12:08 | Adobe Acrobat Reader DC (MUI) | windows | x64, x86 | 26.002.22031 | 26.003.22075 |
+| 04 Nov 12:08 | Adobe Acrobat Reader DC (en-us) (64-bit) | windows | arm64, x64 | 26.002.22031 | 26.003.22075 |
+| 04 Nov 12:08 | Adobe Acrobat Reader DC (en-us) | windows | x64, x86 | 26.002.22031 | 26.003.22075 |
+| 04 Nov 12:08 | Aircall Aircall Workspace | windows | arm64, x64 | 1.18.25.76321 | 1.18.28.77810 |
+| 04 Nov 12:08 | Grammarly Grammarly (Active User) | windows | arm64, x64 | 1.2.309.1995 | 1.2.310.2001 |
+| 04 Nov 12:08 | Microsoft Office Click-to-Run Current Channel (x64) - Pre-Cache | windows | arm64, x64 | 16.0.20527.20112 | 16.0.20527.20150 |
+| 04 Nov 12:08 | Microsoft Office Click-to-Run Current Channel (x64) | windows | arm64, x64 | 16.0.20527.20112 | 16.0.20527.20150 |
+| 04 Nov 12:08 | Microsoft Office Click-to-Run Current Channel (x86) - Pre-Cache | windows | x64, x86 | 16.0.20527.20112 | 16.0.20527.20150 |
+| 04 Nov 12:08 | Microsoft Office Click-to-Run Current Channel (x86) | windows | x64, x86 | 16.0.20527.20112 | 16.0.20527.20150 |
+| 04 Nov 12:08 | Microsoft Visual Studio Code (x64 en-us) | windows | x64 | 1.144.1 | 1.145.0 |
+| 04 Nov 12:08 | OpenAI OpCo, LLC ChatGPT Codex (arm64) | windows | arm64 | 26.1027.6604.0 | 26.1029.7803.0 |
+| 04 Nov 12:08 | OpenAI OpCo, LLC ChatGPT Codex (x64) | windows | x64 | 26.1027.6604.0 | 26.1029.7803.0 |
+| 04 Nov 12:08 | Postman Postman | windows | arm64, x64, x86 | 12.35.1.0 | 12.35.2.0 |
+| 04 Nov 12:08 | Slack Slack ARM64 | windows | arm64 | 4.53.276.0 | 4.53.280.0 |
+| 04 Nov 12:08 | Slack Slack x64 | windows | x64 | 4.53.276.0 | 4.53.280.0 |
+| 04 Nov 12:08 | Termius Corporation Termius (Active User) | windows | x64, x86 | 10.3.0 | 10.4.0 |
+| 04 Nov 12:08 | Viber Media S.a.r.l. Viber (Active User) | windows | arm64, x64 | 29.3.0.0 | 29.4.0.0 |
+| 04 Nov 12:08 | XMind Ltd. Xmind (Active User) (x64) | windows | x64 | 27.1.5086 | 27.1.5087 |
+| 04 Nov 12:08 | gimp.org GIMP | windows | x64 | 3.2.6.0 | 3.2.8.0 |
 | 04 Nov 00:36 | Cisco Webex (ARM) | macos | arm64 | 46.10.0.36042 | 46.11.0.36194 |
 | 04 Nov 00:36 | Cisco Webex | macos | x64 | 46.10.0.36042 | 46.11.0.36194 |
 | 04 Nov 00:36 | Dropbox Desktop Client | macos | arm64, x64 | 277.4.4974 | 278.4.3944 |
@@ -139,47 +173,19 @@ None detected in this window.
 | 03 Nov 19:30 | Vim Project Vim (x64) | windows | x64 | 9.2.1276 | 9.2.1286 |
 | 03 Nov 19:30 | Zscaler Inc. Client Connector (32 bit) | windows | x64, x86 | 4.9.0.508 | 4.10.0.496 |
 | 03 Nov 19:30 | Zscaler Inc. Client Connector (64 bit) | windows | x64 | 4.9.0.508 | 4.10.0.496 |
-| 03 Nov 11:55 | Docker Inc. Docker Desktop (ARM) | macos | arm64 | 4.97.0 | 4.98.0 |
-| 03 Nov 11:55 | Docker Inc. Docker Desktop (Intel) | macos | x64 | 4.97.0 | 4.98.0 |
-| 03 Nov 11:55 | Evernote Corporation Evernote | macos | arm64, x64 | 11.40.2 | 11.41.7 |
-| 03 Nov 11:55 | Cisco Webex VDI Plugin (x64) | windows | arm64, x64 | 46.8.0.35689 | 46.10.0.36183 |
-| 03 Nov 11:55 | Docker Inc. Docker Desktop (arm64) | windows | arm64 | 4.97.0.0 | 4.98.0.0 |
-| 03 Nov 11:55 | Evernote Corporation Evernote (Active User) | windows | arm64, x64, x86 | 11.40.3.48184 | 11.41.7.23279 |
-| 03 Nov 11:55 | Evernote Corporation Evernote (All Users) | windows | arm64, x64, x86 | 11.40.3.48184 | 11.41.7.23279 |
-| 03 Nov 11:55 | Microsoft Microsoft Azure CLI (32-bit) | windows | x64, x86 | 2.91.0 | 2.92.0 |
-| 03 Nov 11:55 | Microsoft Microsoft Azure CLI (64-bit) | windows | arm64, x64 | 2.91.0 | 2.92.0 |
-| 03 Nov 11:55 | OpenAI OpCo, LLC ChatGPT Codex (arm64) | windows | arm64 | 26.1027.3384.0 | 26.1027.6604.0 |
-| 03 Nov 11:55 | OpenAI OpCo, LLC ChatGPT Codex (x64) | windows | x64 | 26.1027.3384.0 | 26.1027.6604.0 |
-| 03 Nov 11:55 | Oracle Instant Client 19c (x64) | windows | arm64, x64 | 19.32.0.0 | 19.33.0.0 |
-| 03 Nov 11:55 | Postman Postman | windows | arm64, x64, x86 | 12.35.0.0 | 12.35.1.0 |
-| 03 Nov 02:18 | Codec Guide K-Lite Mega Codec Pack | windows | arm64, x64 | 20.1.0 | 20.1.5 |
-| 03 Nov 02:18 | Microsoft Power BI Desktop (x64) | windows | arm64, x64 | 2.159.883.0 | 2.159.1231.0 |
-| 03 Nov 02:18 | Microsoft Visual Studio Code (x64 en-us) | windows | x64 | 1.144.0 | 1.144.1 |
-| 03 Nov 02:18 | Zscaler Inc. Client Connector (32 bit) | windows | x64, x86 | 4.7.0.394 | 4.9.0.508 |
-| 03 Nov 02:18 | Zscaler Inc. Client Connector (64 bit) | windows | x64 | 4.7.0.394 | 4.9.0.508 |
 
 ## Other additions (previously seen products or supporting files)
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 04 Nov 12:08 | Postman Postman (ARM) | macos | arm64 | — | 12.35.2 |
+| 04 Nov 12:08 | Postman Postman (ARM) | macos | arm64 | — | 12.35.2 |
+| 04 Nov 12:08 | Postman Postman | macos | x64 | — | 12.35.2 |
+| 04 Nov 12:08 | Postman Postman | macos | x64 | — | 12.35.2 |
+| 04 Nov 12:08 | Duo Security Duo Desktop | windows | arm64, x64, x86 | — | 7.23.0.0 |
 | 04 Nov 00:36 | Google Chrome x64 | windows | x64 | — | 157.0.8103.39 |
 | 04 Nov 00:36 | Google Chrome x64 | windows | x64 | — | 157.0.8103.39 |
 | 04 Nov 00:36 | Simon Tatham PuTTY (x86 en-US) | windows | arm64, x64, x86 | — | 0.85.0.0 |
-| 03 Nov 11:55 | Postman Postman (ARM) | macos | arm64 | — | 12.35.1 |
-| 03 Nov 11:55 | Postman Postman (ARM) | macos | arm64 | — | 12.35.1 |
-| 03 Nov 11:55 | Postman Postman | macos | x64 | — | 12.35.1 |
-| 03 Nov 11:55 | Postman Postman | macos | x64 | — | 12.35.1 |
-| 03 Nov 11:55 | Docker Inc. Docker Desktop (x64) | windows | x64 | — | 4.98.0.0 |
-| 03 Nov 11:55 | Docker Inc. Docker Desktop (x64) | windows | x64 | — | 4.98.0.0 |
-| 03 Nov 11:55 | Microsoft Windows App (32-bit) | windows | x86 | — | 2.0.1485.0 |
-| 03 Nov 11:55 | Microsoft Windows App (64-bit) | windows | x64 | — | 2.0.1485.0 |
-| 03 Nov 11:55 | Microsoft Windows App (Arm64) | windows | arm64 | — | 2.0.1485.0 |
-| 03 Nov 02:18 | Oracle VirtualBox (ARM) | macos | arm64 | — | 7.2.22 |
-| 03 Nov 02:18 | Postman Postman (ARM) | macos | arm64 | — | 12.35.0 |
-| 03 Nov 02:18 | Postman Postman (ARM) | macos | arm64 | — | 12.35.0 |
-| 03 Nov 02:18 | Postman Postman | macos | x64 | — | 12.35.0 |
-| 03 Nov 02:18 | Postman Postman | macos | x64 | — | 12.35.0 |
-| 03 Nov 02:18 | Oracle VirtualBox (x64) | windows | x64 | — | 7.2.22 |
 
 ## Definition changes
 
@@ -187,31 +193,19 @@ None detected in this window.
 |---|---|---|---|---|---|
 | 04 Nov 00:36 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
 | 03 Nov 19:30 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
-| 03 Nov 11:55 | Zscaler Inc. Client Connector (32 bit) | windows | x64, x86 | 4.9.0.508 | 4.9.0.508 |
-| 03 Nov 11:55 | Zscaler Inc. Client Connector (64 bit) | windows | x64 | 4.9.0.508 | 4.9.0.508 |
 
 ## Removed packages
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 04 Nov 12:08 | Postman Postman (ARM) | macos | arm64 | 12.35.1 | — |
+| 04 Nov 12:08 | Postman Postman (ARM) | macos | arm64 | 12.35.1 | — |
+| 04 Nov 12:08 | Postman Postman | macos | x64 | 12.35.1 | — |
+| 04 Nov 12:08 | Postman Postman | macos | x64 | 12.35.1 | — |
 | 04 Nov 00:36 | Duo Security Duo Desktop | windows | arm64, x64, x86 | 7.22.0.0 | — |
 | 04 Nov 00:36 | Google Chrome x64 | windows | x64 | 156.0.8078.80 | — |
 | 04 Nov 00:36 | Google Chrome x64 | windows | x64 | 156.0.8078.80 | — |
 | 03 Nov 19:30 | Simon Tatham PuTTY (x86 en-US) | windows | arm64, x64, x86 | 0.85.0.0 | — |
-| 03 Nov 11:55 | Postman Postman (ARM) | macos | arm64 | 12.35.0 | — |
-| 03 Nov 11:55 | Postman Postman (ARM) | macos | arm64 | 12.35.0 | — |
-| 03 Nov 11:55 | Postman Postman | macos | x64 | 12.35.0 | — |
-| 03 Nov 11:55 | Postman Postman | macos | x64 | 12.35.0 | — |
-| 03 Nov 11:55 | Docker Inc. Docker Desktop (x64) | windows | x64 | 4.97.0.0 | — |
-| 03 Nov 11:55 | Docker Inc. Docker Desktop (x64) | windows | x64 | 4.97.0.0 | — |
-| 03 Nov 02:18 | Postman Postman (ARM) | macos | arm64 | 12.34.4 | — |
-| 03 Nov 02:18 | Postman Postman (ARM) | macos | arm64 | 12.34.4 | — |
-| 03 Nov 02:18 | Postman Postman | macos | x64 | 12.34.4 | — |
-| 03 Nov 02:18 | Postman Postman | macos | x64 | 12.34.4 | — |
-| 03 Nov 02:18 | Microsoft Windows App (32-bit) | windows | x86 | 2.0.1485.0 | — |
-| 03 Nov 02:18 | Microsoft Windows App (64-bit) | windows | x64 | 2.0.1485.0 | — |
-| 03 Nov 02:18 | Microsoft Windows App (Arm64) | windows | arm64 | 2.0.1485.0 | — |
-| 03 Nov 02:18 | Microsoft Windows Upgrade Cleanup | windows | arm64, x64, x86 | 1.0.5 | — |
 
 ## Renamed files
 
