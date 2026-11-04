@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 03 Nov 2026 19:30 UTC  
-**Observation window:** 02 Nov 2026 19:30 UTC to 03 Nov 2026 19:30 UTC
+**Last successful check:** 04 Nov 2026 00:36 UTC  
+**Observation window:** 03 Nov 2026 00:36 UTC to 04 Nov 2026 00:36 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 111 | 15 | 3 | 15 | 0 |
+| 0 | 135 | 18 | 4 | 18 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,6 +22,30 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 04 Nov 00:36 | Cisco Webex (ARM) | macos | arm64 | 46.10.0.36042 | 46.11.0.36194 |
+| 04 Nov 00:36 | Cisco Webex | macos | x64 | 46.10.0.36042 | 46.11.0.36194 |
+| 04 Nov 00:36 | Dropbox Desktop Client | macos | arm64, x64 | 277.4.4974 | 278.4.3944 |
+| 04 Nov 00:36 | Duo Security Duo Desktop | macos | arm64, x64 | 7.22.0.0 | 7.23.0.0 |
+| 04 Nov 00:36 | Google Chrome | macos | arm64, x64 | 156.0.8078.80 | 157.0.8103.39 |
+| 04 Nov 00:36 | Notion Notion | macos | arm64, x64 | 7.41.1 | 7.42.1 |
+| 04 Nov 00:36 | OpenAI OpCo, LLC ChatGPT Codex | macos | arm64 | 26.1027.61615 | 26.1029.61003 |
+| 04 Nov 00:36 | gimp.org GIMP (ARM) | macos | arm64 | 3.2.6 | 3.2.8 |
+| 04 Nov 00:36 | gimp.org GIMP | macos | x64 | 3.2.6 | 3.2.8 |
+| 04 Nov 00:36 | Adobe Acrobat (Reduced Mode) | windows | arm64, x64 | 26.003.22075 | 26.002.22031 |
+| 04 Nov 00:36 | Cisco Webex (Active User) (x64) | windows | arm64, x64 | 46.10.0.36042 | 46.11.0.36194 |
+| 04 Nov 00:36 | Cisco Webex (All Users) (x64) | windows | arm64, x64 | 46.10.0.36042 | 46.11.0.36194 |
+| 04 Nov 00:36 | Dropbox Desktop Client (Active User) (arm64) | windows | arm64 | 277.4.4974 | 278.4.3944 |
+| 04 Nov 00:36 | Dropbox Desktop Client (Active User) (x64) | windows | x64 | 277.4.4974 | 278.4.3944 |
+| 04 Nov 00:36 | Dropbox Desktop Client (Active User) (x86) | windows | x86 | 277.4.4974 | 278.4.3944 |
+| 04 Nov 00:36 | Dropbox Desktop Client (arm64) | windows | arm64 | 277.4.4974 | 278.4.3944 |
+| 04 Nov 00:36 | Dropbox Desktop Client (x64) | windows | x64 | 277.4.4974 | 278.4.3944 |
+| 04 Nov 00:36 | Dropbox Desktop Client (x86) | windows | x86 | 277.4.4974 | 278.4.3944 |
+| 04 Nov 00:36 | Dropbox Desktop Client | windows | x64, x86 | 277.4.4974 | 278.4.3944 |
+| 04 Nov 00:36 | Google Chrome ARM64 | windows | arm64 | 156.0.8078.80 | 157.0.8103.39 |
+| 04 Nov 00:36 | Google Chrome x86 | windows | x64, x86 | 156.0.8078.80 | 157.0.8103.39 |
+| 04 Nov 00:36 | Google Chrome x86 | windows | arm64, x64, x86 | 156.0.8078.80 | 157.0.8103.39 |
+| 04 Nov 00:36 | Notion Notion arm64 (Active User) | windows | arm64 | 7.41.1.0 | 7.42.1.0 |
+| 04 Nov 00:36 | Notion Notion x64 (Active User) | windows | x64 | 7.41.1.0 | 7.42.1.0 |
 | 03 Nov 19:30 | AgileBits 1Password 8 | macos | arm64, x64 | 8.12.42 | 8.12.44 |
 | 03 Nov 19:30 | Anthropic PBC Claude | macos | arm64, x64 | 4.4212.0 | 4.16336.0 |
 | 03 Nov 19:30 | Anysphere Cursor arm64 | macos | arm64 | 3.27.22 | 3.28.7 |
@@ -138,6 +162,9 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 04 Nov 00:36 | Google Chrome x64 | windows | x64 | — | 157.0.8103.39 |
+| 04 Nov 00:36 | Google Chrome x64 | windows | x64 | — | 157.0.8103.39 |
+| 04 Nov 00:36 | Simon Tatham PuTTY (x86 en-US) | windows | arm64, x64, x86 | — | 0.85.0.0 |
 | 03 Nov 11:55 | Postman Postman (ARM) | macos | arm64 | — | 12.35.1 |
 | 03 Nov 11:55 | Postman Postman (ARM) | macos | arm64 | — | 12.35.1 |
 | 03 Nov 11:55 | Postman Postman | macos | x64 | — | 12.35.1 |
@@ -158,6 +185,7 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 04 Nov 00:36 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
 | 03 Nov 19:30 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
 | 03 Nov 11:55 | Zscaler Inc. Client Connector (32 bit) | windows | x64, x86 | 4.9.0.508 | 4.9.0.508 |
 | 03 Nov 11:55 | Zscaler Inc. Client Connector (64 bit) | windows | x64 | 4.9.0.508 | 4.9.0.508 |
@@ -166,6 +194,9 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 04 Nov 00:36 | Duo Security Duo Desktop | windows | arm64, x64, x86 | 7.22.0.0 | — |
+| 04 Nov 00:36 | Google Chrome x64 | windows | x64 | 156.0.8078.80 | — |
+| 04 Nov 00:36 | Google Chrome x64 | windows | x64 | 156.0.8078.80 | — |
 | 03 Nov 19:30 | Simon Tatham PuTTY (x86 en-US) | windows | arm64, x64, x86 | 0.85.0.0 | — |
 | 03 Nov 11:55 | Postman Postman (ARM) | macos | arm64 | 12.35.0 | — |
 | 03 Nov 11:55 | Postman Postman (ARM) | macos | arm64 | 12.35.0 | — |
