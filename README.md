@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 04 Nov 2026 12:08 UTC  
-**Observation window:** 03 Nov 2026 12:08 UTC to 04 Nov 2026 12:08 UTC
+**Last successful check:** 04 Nov 2026 19:45 UTC  
+**Observation window:** 03 Nov 2026 19:45 UTC to 04 Nov 2026 19:45 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 151 | 8 | 2 | 8 | 0 |
+| 0 | 65 | 8 | 2 | 9 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,6 +22,13 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 04 Nov 19:45 | Discord, Inc Discord | macos | arm64, x64 | 0.0.420 | 0.0.421 |
+| 04 Nov 19:45 | Grammarly Grammarly | macos | arm64, x64 | 1.206.0 | 1.207.0 |
+| 04 Nov 19:45 | Palo Alto Networks, Inc. Prisma Access Browser | macos | arm64 | 156.17.9.80 | 157.19.4.39 |
+| 04 Nov 19:45 | Devolutions Inc. Remote Desktop Manager | windows | x64 | 2026.3.16.0 | 2026.3.17.0 |
+| 04 Nov 19:45 | KeePass KeePass 2 | windows | x64, x86 | 2.61.1 | 2.62 |
+| 04 Nov 19:45 | Palo Alto Networks, Inc. Prisma Access Browser | windows | arm64, x64 | 156.17.9.80 | 157.19.4.39 |
+| 04 Nov 19:45 | Sober Lemur S.r.l. PDFsam Basic (64-bit) | windows | arm64, x64 | 6.0.9.0 | 6.0.10.0 |
 | 04 Nov 12:08 | Adobe Acrobat DC | macos | arm64, x64 | 26.002.22031 | 26.003.22075 |
 | 04 Nov 12:08 | Adobe Acrobat Reader DC (en-us) | macos | arm64, x64 | 26.002.22031 | 26.003.22075 |
 | 04 Nov 12:08 | Adobe Acrobat Reader | macos | arm64, x64 | 26.002.22031 | 26.003.22075 |
@@ -80,99 +87,6 @@ None detected in this window.
 | 04 Nov 00:36 | Google Chrome x86 | windows | arm64, x64, x86 | 156.0.8078.80 | 157.0.8103.39 |
 | 04 Nov 00:36 | Notion Notion arm64 (Active User) | windows | arm64 | 7.41.1.0 | 7.42.1.0 |
 | 04 Nov 00:36 | Notion Notion x64 (Active User) | windows | x64 | 7.41.1.0 | 7.42.1.0 |
-| 03 Nov 19:30 | AgileBits 1Password 8 | macos | arm64, x64 | 8.12.42 | 8.12.44 |
-| 03 Nov 19:30 | Anthropic PBC Claude | macos | arm64, x64 | 4.4212.0 | 4.16336.0 |
-| 03 Nov 19:30 | Anysphere Cursor arm64 | macos | arm64 | 3.27.22 | 3.28.7 |
-| 03 Nov 19:30 | Anysphere Cursor x64 | macos | x64 | 3.27.22 | 3.28.7 |
-| 03 Nov 19:30 | Audacity Audacity | macos | arm64, x64 | 4.0.1 | 4.0.2 |
-| 03 Nov 19:30 | Bare Bones BBEdit | macos | arm64, x64 | 16.0.3 | 16.1 |
-| 03 Nov 19:30 | Mozilla Firefox | macos | arm64, x64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | TechSmith Camtasia 2025 | macos | arm64, x64 | 2025.2.7 | 2025.2.8 |
-| 03 Nov 19:30 | Yubico Authenticator | macos | arm64, x64 | 7.4.1 | 7.5.0 |
-| 03 Nov 19:30 | Adobe Acrobat (Reduced Mode) | windows | arm64, x64 | 26.002.22031 | 26.003.22075 |
-| 03 Nov 19:30 | AgileBits 1Password 8 (MSIX) | windows | arm64, x64 | 8.12.42.36 | 8.12.44.33 |
-| 03 Nov 19:30 | AgileBits 1Password 8 (x64) | windows | x64 | 8.12.42 | 8.12.44 |
-| 03 Nov 19:30 | Anthropic PBC Claude arm64 | windows | arm64 | 4.4212.0.0 | 4.16336.0.0 |
-| 03 Nov 19:30 | Anthropic PBC Claude x64 | windows | x64 | 4.4212.0.0 | 4.16336.0.0 |
-| 03 Nov 19:30 | Anysphere Cursor arm64 (Active User) | windows | arm64 | 3.27.22 | 3.28.7 |
-| 03 Nov 19:30 | Anysphere Cursor arm64 | windows | arm64 | 3.27.22 | 3.28.7 |
-| 03 Nov 19:30 | Anysphere Cursor x64 (Active User) | windows | x64 | 3.27.22 | 3.28.7 |
-| 03 Nov 19:30 | Anysphere Cursor x64 | windows | x64 | 3.27.22 | 3.28.7 |
-| 03 Nov 19:30 | Audacity Audacity 4 (arm64) | windows | arm64 | 4.0.1.262720654 | 4.0.2.263052343 |
-| 03 Nov 19:30 | Audacity Audacity 4 (x64) | windows | x64 | 4.0.1.262721353 | 4.0.2.263060742 |
-| 03 Nov 19:30 | Codec Guide K-Lite Mega Codec Pack | windows | arm64, x64 | 20.1.5 | 20.1.6 |
-| 03 Nov 19:30 | Eclipse Adoptium Temurin 17 JDK with Hotspot 64-bit | windows | x64 | 17.0.20.101 | 17.0.21.9 |
-| 03 Nov 19:30 | Eclipse Adoptium Temurin 17 JRE with Hotspot 64-bit | windows | x64 | 17.0.20.101 | 17.0.21.9 |
-| 03 Nov 19:30 | Mozilla Firefox (AArch64 cs) | windows | arm64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (AArch64 da) | windows | arm64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (AArch64 de) | windows | arm64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (AArch64 el) | windows | arm64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (AArch64 en-CA) | windows | arm64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (AArch64 en-GB) | windows | arm64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (AArch64 en-US) | windows | arm64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (AArch64 es-AR) | windows | arm64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (AArch64 es-CL) | windows | arm64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (AArch64 es-ES) | windows | arm64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (AArch64 es-MX) | windows | arm64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (AArch64 fr) | windows | arm64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (AArch64 hu) | windows | arm64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (AArch64 it) | windows | arm64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (AArch64 ja) | windows | arm64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (AArch64 nl) | windows | arm64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (AArch64 pt-BR) | windows | arm64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (AArch64 pt-PT) | windows | arm64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (AArch64 sv-SE) | windows | arm64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (AArch64 tr) | windows | arm64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (AArch64 zh-CN) | windows | arm64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x64 cs) | windows | x64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x64 da) | windows | x64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x64 de) | windows | x64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x64 el) | windows | x64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x64 en-CA) | windows | x64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x64 en-GB) | windows | x64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x64 en-US) | windows | x64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x64 es-AR) | windows | x64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x64 es-CL) | windows | x64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x64 es-ES) | windows | x64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x64 es-MX) | windows | x64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x64 fr) | windows | x64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x64 hu) | windows | x64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x64 it) | windows | x64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x64 ja) | windows | x64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x64 nl) | windows | x64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x64 pt-BR) | windows | x64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x64 pt-PT) | windows | x64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x64 sv-SE) | windows | x64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x64 tr) | windows | x64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x64 zh-CN) | windows | x64 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x86 cs) | windows | arm64, x64, x86 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x86 da) | windows | arm64, x64, x86 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x86 de) | windows | arm64, x64, x86 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x86 el) | windows | arm64, x64, x86 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x86 en-CA) | windows | arm64, x64, x86 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x86 en-GB) | windows | arm64, x64, x86 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x86 en-US) | windows | arm64, x64, x86 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x86 es-AR) | windows | arm64, x64, x86 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x86 es-CL) | windows | arm64, x64, x86 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x86 es-ES) | windows | arm64, x64, x86 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x86 es-MX) | windows | arm64, x64, x86 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x86 fr) | windows | arm64, x64, x86 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x86 hu) | windows | arm64, x64, x86 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x86 it) | windows | arm64, x64, x86 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x86 ja) | windows | arm64, x64, x86 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x86 nl) | windows | arm64, x64, x86 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x86 pt-BR) | windows | arm64, x64, x86 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x86 pt-PT) | windows | arm64, x64, x86 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x86 sv-SE) | windows | arm64, x64, x86 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x86 tr) | windows | arm64, x64, x86 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | Mozilla Firefox (x86 zh-CN) | windows | arm64, x64, x86 | 159.0 | 159.0.1 |
-| 03 Nov 19:30 | RealVNC RealVNC Connect | windows | arm64, x64 | 8.5.3.38 | 8.6.0.15 |
-| 03 Nov 19:30 | RealVNC RealVNC Server | windows | arm64, x64 | 7.18.1.23 | 7.19.0.13 |
-| 03 Nov 19:30 | RealVNC RealVNC Viewer | windows | arm64, x64 | 8.5.3.38 | 8.6.0.15 |
-| 03 Nov 19:30 | Vim Project Vim (arm64) | windows | arm64 | 9.2.1276 | 9.2.1286 |
-| 03 Nov 19:30 | Vim Project Vim (x64) | windows | x64 | 9.2.1276 | 9.2.1286 |
-| 03 Nov 19:30 | Zscaler Inc. Client Connector (32 bit) | windows | x64, x86 | 4.9.0.508 | 4.10.0.496 |
-| 03 Nov 19:30 | Zscaler Inc. Client Connector (64 bit) | windows | x64 | 4.9.0.508 | 4.10.0.496 |
 
 ## Other additions (previously seen products or supporting files)
 
@@ -191,13 +105,15 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 04 Nov 19:45 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
 | 04 Nov 00:36 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
-| 03 Nov 19:30 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
 
 ## Removed packages
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 04 Nov 19:45 | Cisco Webex (Active User) (x64) | windows | arm64, x64 | 46.11.0.36194 | — |
+| 04 Nov 19:45 | Cloudflare, Inc. Cloudflare One Client | windows | arm64, x64 | 26.8.2115.0 | — |
 | 04 Nov 12:08 | Postman Postman (ARM) | macos | arm64 | 12.35.1 | — |
 | 04 Nov 12:08 | Postman Postman (ARM) | macos | arm64 | 12.35.1 | — |
 | 04 Nov 12:08 | Postman Postman | macos | x64 | 12.35.1 | — |
@@ -205,7 +121,6 @@ None detected in this window.
 | 04 Nov 00:36 | Duo Security Duo Desktop | windows | arm64, x64, x86 | 7.22.0.0 | — |
 | 04 Nov 00:36 | Google Chrome x64 | windows | x64 | 156.0.8078.80 | — |
 | 04 Nov 00:36 | Google Chrome x64 | windows | x64 | 156.0.8078.80 | — |
-| 03 Nov 19:30 | Simon Tatham PuTTY (x86 en-US) | windows | arm64, x64, x86 | 0.85.0.0 | — |
 
 ## Renamed files
 
