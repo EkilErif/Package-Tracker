@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 05 Nov 2026 00:54 UTC  
-**Observation window:** 04 Nov 2026 00:54 UTC to 05 Nov 2026 00:54 UTC
+**Last successful check:** 05 Nov 2026 12:20 UTC  
+**Observation window:** 04 Nov 2026 12:20 UTC to 05 Nov 2026 12:20 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 50 | 7 | 4 | 6 | 0 |
+| 0 | 37 | 6 | 6 | 8 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,6 +22,27 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 05 Nov 12:20 | Aircall Aircall Workspace (ARM) | macos | arm64 | 1.18.28 | 1.18.30 |
+| 05 Nov 12:20 | Aircall Aircall Workspace (Intel) | macos | x64 | 1.18.28 | 1.18.30 |
+| 05 Nov 12:20 | JetBrains GoLand (ARM) | macos | arm64 | 2026.2.4 | 2026.3 |
+| 05 Nov 12:20 | JetBrains GoLand | macos | x64 | 2026.2.4 | 2026.3 |
+| 05 Nov 12:20 | JetBrains IntelliJ IDEA Ultimate Edition (ARM) | macos | arm64 | 2026.2.4 | 2026.3 |
+| 05 Nov 12:20 | JetBrains IntelliJ IDEA Ultimate Edition | macos | x64 | 2026.2.4 | 2026.3 |
+| 05 Nov 12:20 | JetBrains WebStorm (ARM) | macos | arm64 | 2026.2.4 | 2026.3 |
+| 05 Nov 12:20 | JetBrains WebStorm | macos | x64 | 2026.2.4 | 2026.3 |
+| 05 Nov 12:20 | Microsoft Office 2019 | macos | arm64, x64 | 16.114.3 | 16.114.4 |
+| 05 Nov 12:20 | Microsoft Office 2019 with Teams | macos | arm64, x64 | 16.114.3 | 16.114.4 |
+| 05 Nov 12:20 | Vivaldi Technologies Vivaldi | macos | arm64, x64 | 8.2.4133.96 | 8.3.4191.26 |
+| 05 Nov 12:20 | Aircall Aircall Workspace | windows | arm64, x64 | 1.18.28.77810 | 1.18.30.78266 |
+| 05 Nov 12:20 | JetBrains GoLand | windows | x64 | 2026.2.4 | 2026.3 |
+| 05 Nov 12:20 | JetBrains IntelliJ IDEA Ultimate Edition | windows | x64 | 2026.2.4 | 2026.3 |
+| 05 Nov 12:20 | JetBrains IntelliJ IDEA arm64 | windows | arm64 | 2026.2.4 | 2026.3 |
+| 05 Nov 12:20 | JetBrains WebStorm | windows | x64 | 2026.2.4 | 2026.3 |
+| 05 Nov 12:20 | JetBrains WebStorm arm64 | windows | arm64 | 2026.2.4 | 2026.3 |
+| 05 Nov 12:20 | Postman Postman | windows | arm64, x64, x86 | 12.35.2.0 | 12.35.3.0 |
+| 05 Nov 12:20 | Vivaldi Technologies Vivaldi (32-bit) | windows | x86 | 8.2.4133.96 | 8.3.4191.26 |
+| 05 Nov 12:20 | Vivaldi Technologies Vivaldi (64-bit) | windows | x64 | 8.2.4133.96 | 8.3.4191.26 |
+| 05 Nov 12:20 | Vivaldi Technologies Vivaldi (arm64) | windows | arm64 | 8.2.4133.96 | 8.3.4191.26 |
 | 05 Nov 00:54 | ETH Zürich Safe Exam Browser | macos | arm64, x64 | 3.7.1.1 | 3.7.2 |
 | 05 Nov 00:54 | OpenAI OpCo, LLC ChatGPT Codex | macos | arm64 | 26.1029.61003 | 26.1029.70936 |
 | 05 Nov 00:54 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.39.3.0 | 2.39.4.0 |
@@ -38,57 +59,24 @@ None detected in this window.
 | 04 Nov 19:45 | KeePass KeePass 2 | windows | x64, x86 | 2.61.1 | 2.62 |
 | 04 Nov 19:45 | Palo Alto Networks, Inc. Prisma Access Browser | windows | arm64, x64 | 156.17.9.80 | 157.19.4.39 |
 | 04 Nov 19:45 | Sober Lemur S.r.l. PDFsam Basic (64-bit) | windows | arm64, x64 | 6.0.9.0 | 6.0.10.0 |
-| 04 Nov 12:08 | Adobe Acrobat DC | macos | arm64, x64 | 26.002.22031 | 26.003.22075 |
-| 04 Nov 12:08 | Adobe Acrobat Reader DC (en-us) | macos | arm64, x64 | 26.002.22031 | 26.003.22075 |
-| 04 Nov 12:08 | Adobe Acrobat Reader | macos | arm64, x64 | 26.002.22031 | 26.003.22075 |
-| 04 Nov 12:08 | Adobe Acrobat | macos | arm64, x64 | 26.002.22031 | 26.003.22075 |
-| 04 Nov 12:08 | Aircall Aircall Workspace (ARM) | macos | arm64 | 1.18.25 | 1.18.28 |
-| 04 Nov 12:08 | Aircall Aircall Workspace (Intel) | macos | x64 | 1.18.25 | 1.18.28 |
-| 04 Nov 12:08 | George Nachman iTerm2 | macos | arm64, x64 | 3.7.6 | 3.7.7 |
-| 04 Nov 12:08 | Microsoft Visual Studio Code | macos | arm64, x64 | 1.144.0 | 1.145.0 |
-| 04 Nov 12:08 | Slack Slack | macos | arm64, x64 | 4.53.276 | 4.53.280 |
-| 04 Nov 12:08 | Termius Corporation Termius (ARM) | macos | arm64 | 10.3.0 | 10.4.0 |
-| 04 Nov 12:08 | Termius Corporation Termius (Intel) | macos | x64 | 10.3.0 | 10.4.0 |
-| 04 Nov 12:08 | Adobe Acrobat (64-bit) | windows | arm64, x64 | 26.002.22031 | 26.003.22075 |
-| 04 Nov 12:08 | Adobe Acrobat (Reduced Mode) | windows | arm64, x64 | 26.002.22031 | 26.003.22075 |
-| 04 Nov 12:08 | Adobe Acrobat DC (en-us) | windows | x64, x86 | 26.002.22031 | 26.003.22075 |
-| 04 Nov 12:08 | Adobe Acrobat Reader DC (MUI) (64-bit) | windows | arm64, x64 | 26.002.22031 | 26.003.22075 |
-| 04 Nov 12:08 | Adobe Acrobat Reader DC (MUI) | windows | x64, x86 | 26.002.22031 | 26.003.22075 |
-| 04 Nov 12:08 | Adobe Acrobat Reader DC (en-us) (64-bit) | windows | arm64, x64 | 26.002.22031 | 26.003.22075 |
-| 04 Nov 12:08 | Adobe Acrobat Reader DC (en-us) | windows | x64, x86 | 26.002.22031 | 26.003.22075 |
-| 04 Nov 12:08 | Aircall Aircall Workspace | windows | arm64, x64 | 1.18.25.76321 | 1.18.28.77810 |
-| 04 Nov 12:08 | Grammarly Grammarly (Active User) | windows | arm64, x64 | 1.2.309.1995 | 1.2.310.2001 |
-| 04 Nov 12:08 | Microsoft Office Click-to-Run Current Channel (x64) - Pre-Cache | windows | arm64, x64 | 16.0.20527.20112 | 16.0.20527.20150 |
-| 04 Nov 12:08 | Microsoft Office Click-to-Run Current Channel (x64) | windows | arm64, x64 | 16.0.20527.20112 | 16.0.20527.20150 |
-| 04 Nov 12:08 | Microsoft Office Click-to-Run Current Channel (x86) - Pre-Cache | windows | x64, x86 | 16.0.20527.20112 | 16.0.20527.20150 |
-| 04 Nov 12:08 | Microsoft Office Click-to-Run Current Channel (x86) | windows | x64, x86 | 16.0.20527.20112 | 16.0.20527.20150 |
-| 04 Nov 12:08 | Microsoft Visual Studio Code (x64 en-us) | windows | x64 | 1.144.1 | 1.145.0 |
-| 04 Nov 12:08 | OpenAI OpCo, LLC ChatGPT Codex (arm64) | windows | arm64 | 26.1027.6604.0 | 26.1029.7803.0 |
-| 04 Nov 12:08 | OpenAI OpCo, LLC ChatGPT Codex (x64) | windows | x64 | 26.1027.6604.0 | 26.1029.7803.0 |
-| 04 Nov 12:08 | Postman Postman | windows | arm64, x64, x86 | 12.35.1.0 | 12.35.2.0 |
-| 04 Nov 12:08 | Slack Slack ARM64 | windows | arm64 | 4.53.276.0 | 4.53.280.0 |
-| 04 Nov 12:08 | Slack Slack x64 | windows | x64 | 4.53.276.0 | 4.53.280.0 |
-| 04 Nov 12:08 | Termius Corporation Termius (Active User) | windows | x64, x86 | 10.3.0 | 10.4.0 |
-| 04 Nov 12:08 | Viber Media S.a.r.l. Viber (Active User) | windows | arm64, x64 | 29.3.0.0 | 29.4.0.0 |
-| 04 Nov 12:08 | XMind Ltd. Xmind (Active User) (x64) | windows | x64 | 27.1.5086 | 27.1.5087 |
-| 04 Nov 12:08 | gimp.org GIMP | windows | x64 | 3.2.6.0 | 3.2.8.0 |
 
 ## Other additions (previously seen products or supporting files)
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 05 Nov 12:20 | Postman Postman (ARM) | macos | arm64 | — | 12.35.3 |
+| 05 Nov 12:20 | Postman Postman (ARM) | macos | arm64 | — | 12.35.3 |
+| 05 Nov 12:20 | Postman Postman | macos | x64 | — | 12.35.3 |
+| 05 Nov 12:20 | Postman Postman | macos | x64 | — | 12.35.3 |
 | 05 Nov 00:54 | Cisco Webex (Active User) (x64) | windows | arm64, x64 | — | 46.11.0.36194 |
 | 05 Nov 00:54 | Cloudflare, Inc. Cloudflare One Client | windows | arm64, x64 | — | 26.8.2115.0 |
-| 04 Nov 12:08 | Postman Postman (ARM) | macos | arm64 | — | 12.35.2 |
-| 04 Nov 12:08 | Postman Postman (ARM) | macos | arm64 | — | 12.35.2 |
-| 04 Nov 12:08 | Postman Postman | macos | x64 | — | 12.35.2 |
-| 04 Nov 12:08 | Postman Postman | macos | x64 | — | 12.35.2 |
-| 04 Nov 12:08 | Duo Security Duo Desktop | windows | arm64, x64, x86 | — | 7.23.0.0 |
 
 ## Definition changes
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 05 Nov 12:20 | Microsoft Skype Desktop Client (x86) - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
+| 05 Nov 12:20 | Zoom Zoom - Active User - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
 | 05 Nov 00:54 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
 | 05 Nov 00:54 | Microsoft Skype Desktop Client (x86) - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
 | 05 Nov 00:54 | Zoom Zoom - Active User - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
@@ -98,12 +86,14 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 05 Nov 12:20 | Postman Postman (ARM) | macos | arm64 | 12.35.2 | — |
+| 05 Nov 12:20 | Postman Postman (ARM) | macos | arm64 | 12.35.2 | — |
+| 05 Nov 12:20 | Postman Postman | macos | x64 | 12.35.2 | — |
+| 05 Nov 12:20 | Postman Postman | macos | x64 | 12.35.2 | — |
+| 05 Nov 12:20 | Cisco Webex (All Users) (x64) | windows | arm64, x64 | 46.11.0.36194 | — |
+| 05 Nov 12:20 | Cisco Webex VDI Plugin (x64) | windows | arm64, x64 | 46.10.0.36183 | — |
 | 04 Nov 19:45 | Cisco Webex (Active User) (x64) | windows | arm64, x64 | 46.11.0.36194 | — |
 | 04 Nov 19:45 | Cloudflare, Inc. Cloudflare One Client | windows | arm64, x64 | 26.8.2115.0 | — |
-| 04 Nov 12:08 | Postman Postman (ARM) | macos | arm64 | 12.35.1 | — |
-| 04 Nov 12:08 | Postman Postman (ARM) | macos | arm64 | 12.35.1 | — |
-| 04 Nov 12:08 | Postman Postman | macos | x64 | 12.35.1 | — |
-| 04 Nov 12:08 | Postman Postman | macos | x64 | 12.35.1 | — |
 
 ## Renamed files
 
