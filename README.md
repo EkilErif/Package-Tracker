@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 05 Nov 2026 12:20 UTC  
-**Observation window:** 04 Nov 2026 12:20 UTC to 05 Nov 2026 12:20 UTC
+**Last successful check:** 05 Nov 2026 21:59 UTC  
+**Observation window:** 04 Nov 2026 21:59 UTC to 05 Nov 2026 21:59 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 37 | 6 | 6 | 8 | 0 |
+| 0 | 73 | 16 | 10 | 18 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,6 +22,49 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 05 Nov 21:59 | Microsoft Edge (DPKG) | linux | x64 | 156.0.4314.58 | 157.0.4341.42 |
+| 05 Nov 21:59 | Anthropic PBC Claude | macos | arm64, x64 | 4.16336.0 | 4.23118.0 |
+| 05 Nov 21:59 | Anysphere Cursor arm64 | macos | arm64 | 3.28.7 | 3.29.9 |
+| 05 Nov 21:59 | Anysphere Cursor x64 | macos | x64 | 3.28.7 | 3.29.9 |
+| 05 Nov 21:59 | Bitwarden, Inc. Bitwarden Desktop | macos | arm64, x64 | 2026.10.3 | 2026.10.4 |
+| 05 Nov 21:59 | Brave Software, Inc Brave Browser | macos | arm64, x64 | 1.98.63 | 1.99.55 |
+| 05 Nov 21:59 | Evernote Corporation Evernote | macos | arm64, x64 | 11.41.7 | 11.41.9 |
+| 05 Nov 21:59 | JetBrains DataGrip (ARM) | macos | arm64 | 2026.2.6.1 | 2026.3 |
+| 05 Nov 21:59 | JetBrains DataGrip | macos | x64 | 2026.2.6.1 | 2026.3 |
+| 05 Nov 21:59 | JetBrains PyCharm (ARM) | macos | arm64 | 2026.2.4 | 2026.3 |
+| 05 Nov 21:59 | JetBrains PyCharm | macos | x64 | 2026.2.4 | 2026.3 |
+| 05 Nov 21:59 | Signal Messenger, LLC Signal | macos | arm64, x64 | 8.33.0 | 8.34.0 |
+| 05 Nov 21:59 | TechSmith Camtasia 2024 | macos | arm64, x64 | 2024.1.12 | 2024.1.13 |
+| 05 Nov 21:59 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.39.4.0 | 2.39.5.0 |
+| 05 Nov 21:59 | Anthropic PBC Claude arm64 | windows | arm64 | 4.16336.0.0 | 4.23118.0.0 |
+| 05 Nov 21:59 | Anthropic PBC Claude x64 | windows | x64 | 4.16336.0.0 | 4.23118.0.0 |
+| 05 Nov 21:59 | Anysphere Cursor arm64 (Active User) | windows | arm64 | 3.28.7 | 3.29.9 |
+| 05 Nov 21:59 | Anysphere Cursor arm64 | windows | arm64 | 3.28.7 | 3.29.9 |
+| 05 Nov 21:59 | Anysphere Cursor x64 (Active User) | windows | x64 | 3.28.7 | 3.29.9 |
+| 05 Nov 21:59 | Anysphere Cursor x64 | windows | x64 | 3.28.7 | 3.29.9 |
+| 05 Nov 21:59 | Bitwarden, Inc. Bitwarden Desktop (arm64) | windows | arm64 | 2026.10.3 | 2026.10.4 |
+| 05 Nov 21:59 | Bitwarden, Inc. Bitwarden Desktop (x64) | windows | x64 | 2026.10.3 | 2026.10.4 |
+| 05 Nov 21:59 | Brave Software, Inc Brave Browser (Active User) (x64) | windows | x64 | 1.98.63 | 1.99.55 |
+| 05 Nov 21:59 | Brave Software, Inc Brave Browser (Active User) (x86) | windows | x86 | 1.98.63 | 1.99.55 |
+| 05 Nov 21:59 | Eclipse Adoptium Temurin 17 JDK with Hotspot 64-bit | windows | x64 | 17.0.21.9 | 17.0.20.101 |
+| 05 Nov 21:59 | Eclipse Adoptium Temurin 17 JRE with Hotspot 64-bit | windows | x64 | 17.0.21.9 | 17.0.20.101 |
+| 05 Nov 21:59 | Eclipse Adoptium Temurin 8 JDK with Hotspot 64-bit | windows | x64 | 8.0.504.1 | 8.0.512.9 |
+| 05 Nov 21:59 | Eclipse Adoptium Temurin 8 JRE with Hotspot 64-bit | windows | x64 | 8.0.504.1 | 8.0.512.9 |
+| 05 Nov 21:59 | Evernote Corporation Evernote (Active User) | windows | arm64, x64, x86 | 11.41.7.23279 | 11.41.9.17666 |
+| 05 Nov 21:59 | Evernote Corporation Evernote (All Users) | windows | arm64, x64, x86 | 11.41.7.23279 | 11.41.9.17666 |
+| 05 Nov 21:59 | JetBrains DataGrip | windows | x64 | 2026.2.6 | 2026.3 |
+| 05 Nov 21:59 | JetBrains PyCharm Professional Edition | windows | x64 | 2026.2.4 | 2026.3 |
+| 05 Nov 21:59 | JetBrains PyCharm arm64 | windows | arm64 | 2026.2.4 | 2026.3 |
+| 05 Nov 21:59 | Microsoft Edge arm64 | windows | arm64 | 156.0.4314.58 | 157.0.4341.42 |
+| 05 Nov 21:59 | Microsoft Edge x64 | windows | x64 | 156.0.4314.58 | 156.0.4314.70 |
+| 05 Nov 21:59 | Microsoft Edge x86 | windows | x86 | 156.0.4314.58 | 156.0.4314.70 |
+| 05 Nov 21:59 | Microsoft Remote Desktop Connection Manager | windows | arm64, x64 | 3.22.0.0 | 3.23.0.0 |
+| 05 Nov 21:59 | Perforce Helix Core Apps | windows | arm64, x64 | 242.63.1 | 242.63.2 |
+| 05 Nov 21:59 | Rocket.Chat Rocket.Chat (Active User) x64 | windows | x64 | 4.19.0 | 4.19.1 |
+| 05 Nov 21:59 | Rocket.Chat Rocket.Chat (Active User) x86 | windows | x86 | 4.19.0 | 4.19.1 |
+| 05 Nov 21:59 | Rocket.Chat Rocket.Chat (All Users) x64 | windows | x64 | 4.19.0 | 4.19.1 |
+| 05 Nov 21:59 | Rocket.Chat Rocket.Chat (All Users) x86 | windows | x86 | 4.19.0 | 4.19.1 |
+| 05 Nov 21:59 | Signal Messenger, LLC Signal (Active User) | windows | x64 | 8.33.0 | 8.34.0 |
 | 05 Nov 12:20 | Aircall Aircall Workspace (ARM) | macos | arm64 | 1.18.28 | 1.18.30 |
 | 05 Nov 12:20 | Aircall Aircall Workspace (Intel) | macos | x64 | 1.18.28 | 1.18.30 |
 | 05 Nov 12:20 | JetBrains GoLand (ARM) | macos | arm64 | 2026.2.4 | 2026.3 |
@@ -52,18 +95,21 @@ None detected in this window.
 | 05 Nov 00:54 | draw.io Ltd. draw.io (MSI) | windows | arm64, x64 | 32.6.1 | 32.6.10 |
 | 05 Nov 00:54 | draw.io Ltd. draw.io (arm64) | windows | arm64 | 32.6.1 | 32.6.10 |
 | 05 Nov 00:54 | draw.io Ltd. draw.io (x64) | windows | x64 | 32.6.1 | 32.6.10 |
-| 04 Nov 19:45 | Discord, Inc Discord | macos | arm64, x64 | 0.0.420 | 0.0.421 |
-| 04 Nov 19:45 | Grammarly Grammarly | macos | arm64, x64 | 1.206.0 | 1.207.0 |
-| 04 Nov 19:45 | Palo Alto Networks, Inc. Prisma Access Browser | macos | arm64 | 156.17.9.80 | 157.19.4.39 |
-| 04 Nov 19:45 | Devolutions Inc. Remote Desktop Manager | windows | x64 | 2026.3.16.0 | 2026.3.17.0 |
-| 04 Nov 19:45 | KeePass KeePass 2 | windows | x64, x86 | 2.61.1 | 2.62 |
-| 04 Nov 19:45 | Palo Alto Networks, Inc. Prisma Access Browser | windows | arm64, x64 | 156.17.9.80 | 157.19.4.39 |
-| 04 Nov 19:45 | Sober Lemur S.r.l. PDFsam Basic (64-bit) | windows | arm64, x64 | 6.0.9.0 | 6.0.10.0 |
 
 ## Other additions (previously seen products or supporting files)
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 05 Nov 21:59 | Microsoft Edge | macos | arm64, x64 | — | 157.0.4341.42 |
+| 05 Nov 21:59 | Microsoft Edge | macos | arm64, x64 | — | 157.0.4341.42 |
+| 05 Nov 21:59 | Cisco Webex (All Users) (x64) | windows | arm64, x64 | — | 46.11.0.36194 |
+| 05 Nov 21:59 | Cisco Webex VDI Plugin (x64) | windows | arm64, x64 | — | 46.10.0.36183 |
+| 05 Nov 21:59 | Microsoft Edge WebView2 arm64 | windows | arm64 | — | 157.0.4341.42 |
+| 05 Nov 21:59 | Microsoft Edge WebView2 arm64 | windows | arm64 | — | 157.0.4341.42 |
+| 05 Nov 21:59 | Microsoft Edge WebView2 x64 | windows | x64 | — | 157.0.4341.42 |
+| 05 Nov 21:59 | Microsoft Edge WebView2 x64 | windows | x64 | — | 157.0.4341.42 |
+| 05 Nov 21:59 | Microsoft Edge WebView2 x86 | windows | x86 | — | 157.0.4341.42 |
+| 05 Nov 21:59 | Microsoft Edge WebView2 x86 | windows | x86 | — | 157.0.4341.42 |
 | 05 Nov 12:20 | Postman Postman (ARM) | macos | arm64 | — | 12.35.3 |
 | 05 Nov 12:20 | Postman Postman (ARM) | macos | arm64 | — | 12.35.3 |
 | 05 Nov 12:20 | Postman Postman | macos | x64 | — | 12.35.3 |
@@ -75,25 +121,39 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 05 Nov 21:59 | Amazon Corretto 25 (x64) | windows | x64 | 25.0.5.0 | 25.0.5.0 |
+| 05 Nov 21:59 | RealVNC RealVNC Connect | windows | arm64, x64 | 8.6.0.15 | 8.6.0.15 |
+| 05 Nov 21:59 | RealVNC RealVNC Server | windows | arm64, x64 | 7.19.0.13 | 7.19.0.13 |
+| 05 Nov 21:59 | RealVNC RealVNC Viewer | windows | arm64, x64 | 8.6.0.15 | 8.6.0.15 |
+| 05 Nov 21:59 | VIPRE Security Group, Inc. VIPRE SafeSend | windows | x64, x86 | 6.0.5.2 | 6.0.5.2 |
 | 05 Nov 12:20 | Microsoft Skype Desktop Client (x86) - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
 | 05 Nov 12:20 | Zoom Zoom - Active User - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
 | 05 Nov 00:54 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
 | 05 Nov 00:54 | Microsoft Skype Desktop Client (x86) - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
 | 05 Nov 00:54 | Zoom Zoom - Active User - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
-| 04 Nov 19:45 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
 
 ## Removed packages
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 05 Nov 21:59 | Microsoft Edge | macos | arm64, x64 | 156.0.4314.58 | — |
+| 05 Nov 21:59 | Microsoft Edge | macos | arm64, x64 | 156.0.4314.58 | — |
+| 05 Nov 21:59 | iterate GmbH Cyberduck | macos | arm64, x64 | 9.5.4 | — |
+| 05 Nov 21:59 | Microsoft Edge WebView2 arm64 | windows | arm64 | 156.0.4314.58 | — |
+| 05 Nov 21:59 | Microsoft Edge WebView2 arm64 | windows | arm64 | 156.0.4314.58 | — |
+| 05 Nov 21:59 | Microsoft Edge WebView2 x64 | windows | x64 | 156.0.4314.58 | — |
+| 05 Nov 21:59 | Microsoft Edge WebView2 x64 | windows | x64 | 156.0.4314.58 | — |
+| 05 Nov 21:59 | Microsoft Edge WebView2 x86 | windows | x86 | 156.0.4314.58 | — |
+| 05 Nov 21:59 | Microsoft Edge WebView2 x86 | windows | x86 | 156.0.4314.58 | — |
+| 05 Nov 21:59 | UltraVNC company UltraVNC Viewer (x64) | windows | x64 | 1.8.3.1 | — |
+| 05 Nov 21:59 | UltraVNC company UltraVNC Viewer (x86) | windows | x86 | 1.8.3.1 | — |
+| 05 Nov 21:59 | iterate GmbH Cyberduck | windows | arm64, x64 | 9.5.4 | — |
 | 05 Nov 12:20 | Postman Postman (ARM) | macos | arm64 | 12.35.2 | — |
 | 05 Nov 12:20 | Postman Postman (ARM) | macos | arm64 | 12.35.2 | — |
 | 05 Nov 12:20 | Postman Postman | macos | x64 | 12.35.2 | — |
 | 05 Nov 12:20 | Postman Postman | macos | x64 | 12.35.2 | — |
 | 05 Nov 12:20 | Cisco Webex (All Users) (x64) | windows | arm64, x64 | 46.11.0.36194 | — |
 | 05 Nov 12:20 | Cisco Webex VDI Plugin (x64) | windows | arm64, x64 | 46.10.0.36183 | — |
-| 04 Nov 19:45 | Cisco Webex (Active User) (x64) | windows | arm64, x64 | 46.11.0.36194 | — |
-| 04 Nov 19:45 | Cloudflare, Inc. Cloudflare One Client | windows | arm64, x64 | 26.8.2115.0 | — |
 
 ## Renamed files
 
