@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 05 Nov 2026 21:59 UTC  
-**Observation window:** 04 Nov 2026 21:59 UTC to 05 Nov 2026 21:59 UTC
+**Last successful check:** 06 Nov 2026 06:45 UTC  
+**Observation window:** 05 Nov 2026 06:45 UTC to 06 Nov 2026 06:45 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 73 | 16 | 10 | 18 | 0 |
+| 0 | 82 | 18 | 7 | 26 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,6 +22,24 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 06 Nov 06:45 | Microsoft Teams | macos | arm64, x64 | 26276.505.5234.9924 | 26289.204.5281.6363 |
+| 06 Nov 06:45 | Microsoft Visual Studio Code | macos | arm64, x64 | 1.145.0 | 1.145.1 |
+| 06 Nov 06:45 | Notion Notion | macos | arm64, x64 | 7.42.1 | 7.42.3 |
+| 06 Nov 06:45 | OpenAI OpCo, LLC ChatGPT Codex | macos | arm64 | 26.1029.70936 | 26.1103.31037 |
+| 06 Nov 06:45 | RingCentral RingCentral (ARM) | macos | arm64 | 26.3.3012.1855 | 26.4.1012.1904 |
+| 06 Nov 06:45 | RingCentral RingCentral (Intel) | macos | x64 | 26.3.3012.1855 | 26.4.1012.1904 |
+| 06 Nov 06:45 | Slack Slack | macos | arm64, x64 | 4.53.280 | 4.53.283 |
+| 06 Nov 06:45 | Microsoft Edge x64 | windows | x64 | 156.0.4314.70 | 157.0.4341.42 |
+| 06 Nov 06:45 | Microsoft Edge x86 | windows | x86 | 156.0.4314.70 | 157.0.4341.42 |
+| 06 Nov 06:45 | Microsoft Visual Studio Code (x64 en-us) | windows | x64 | 1.145.0 | 1.145.1 |
+| 06 Nov 06:45 | Notion Notion arm64 (Active User) | windows | arm64 | 7.42.1.0 | 7.42.3.0 |
+| 06 Nov 06:45 | Notion Notion x64 (Active User) | windows | x64 | 7.42.1.0 | 7.42.3.0 |
+| 06 Nov 06:45 | OpenAI OpCo, LLC ChatGPT Codex (arm64) | windows | arm64 | 26.1029.7803.0 | 26.1103.3517.0 |
+| 06 Nov 06:45 | OpenAI OpCo, LLC ChatGPT Codex (x64) | windows | x64 | 26.1029.7803.0 | 26.1103.3517.0 |
+| 06 Nov 06:45 | Postman Postman | windows | arm64, x64, x86 | 12.35.3.0 | 12.35.4.0 |
+| 06 Nov 06:45 | RingCentral RingCentral | windows | x64 | 26.3.3012.1855 | 26.4.1012.1904 |
+| 06 Nov 06:45 | Vim Project Vim (arm64) | windows | arm64 | 9.2.1286 | 9.2.1302 |
+| 06 Nov 06:45 | Vim Project Vim (x64) | windows | x64 | 9.2.1286 | 9.2.1302 |
 | 05 Nov 21:59 | Microsoft Edge (DPKG) | linux | x64 | 156.0.4314.58 | 157.0.4341.42 |
 | 05 Nov 21:59 | Anthropic PBC Claude | macos | arm64, x64 | 4.16336.0 | 4.23118.0 |
 | 05 Nov 21:59 | Anysphere Cursor arm64 | macos | arm64 | 3.28.7 | 3.29.9 |
@@ -86,20 +104,15 @@ None detected in this window.
 | 05 Nov 12:20 | Vivaldi Technologies Vivaldi (32-bit) | windows | x86 | 8.2.4133.96 | 8.3.4191.26 |
 | 05 Nov 12:20 | Vivaldi Technologies Vivaldi (64-bit) | windows | x64 | 8.2.4133.96 | 8.3.4191.26 |
 | 05 Nov 12:20 | Vivaldi Technologies Vivaldi (arm64) | windows | arm64 | 8.2.4133.96 | 8.3.4191.26 |
-| 05 Nov 00:54 | ETH Zürich Safe Exam Browser | macos | arm64, x64 | 3.7.1.1 | 3.7.2 |
-| 05 Nov 00:54 | OpenAI OpCo, LLC ChatGPT Codex | macos | arm64 | 26.1029.61003 | 26.1029.70936 |
-| 05 Nov 00:54 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.39.3.0 | 2.39.4.0 |
-| 05 Nov 00:54 | Atlassian Sourcetree | windows | arm64, x64 | 3.4.32 | 3.4.33 |
-| 05 Nov 00:54 | Microsoft Microsoft Build of OpenJDK 11 (arm64) | windows | arm64 | 11.0.32.101 | 11.0.33.10 |
-| 05 Nov 00:54 | Microsoft Microsoft Build of OpenJDK 11 (x64) | windows | x64 | 11.0.32.101 | 11.0.33.10 |
-| 05 Nov 00:54 | draw.io Ltd. draw.io (MSI) | windows | arm64, x64 | 32.6.1 | 32.6.10 |
-| 05 Nov 00:54 | draw.io Ltd. draw.io (arm64) | windows | arm64 | 32.6.1 | 32.6.10 |
-| 05 Nov 00:54 | draw.io Ltd. draw.io (x64) | windows | x64 | 32.6.1 | 32.6.10 |
 
 ## Other additions (previously seen products or supporting files)
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 06 Nov 06:45 | Postman Postman (ARM) | macos | arm64 | — | 12.35.4 |
+| 06 Nov 06:45 | Postman Postman (ARM) | macos | arm64 | — | 12.35.4 |
+| 06 Nov 06:45 | Postman Postman | macos | x64 | — | 12.35.4 |
+| 06 Nov 06:45 | Postman Postman | macos | x64 | — | 12.35.4 |
 | 05 Nov 21:59 | Microsoft Edge | macos | arm64, x64 | — | 157.0.4341.42 |
 | 05 Nov 21:59 | Microsoft Edge | macos | arm64, x64 | — | 157.0.4341.42 |
 | 05 Nov 21:59 | Cisco Webex (All Users) (x64) | windows | arm64, x64 | — | 46.11.0.36194 |
@@ -114,8 +127,6 @@ None detected in this window.
 | 05 Nov 12:20 | Postman Postman (ARM) | macos | arm64 | — | 12.35.3 |
 | 05 Nov 12:20 | Postman Postman | macos | x64 | — | 12.35.3 |
 | 05 Nov 12:20 | Postman Postman | macos | x64 | — | 12.35.3 |
-| 05 Nov 00:54 | Cisco Webex (Active User) (x64) | windows | arm64, x64 | — | 46.11.0.36194 |
-| 05 Nov 00:54 | Cloudflare, Inc. Cloudflare One Client | windows | arm64, x64 | — | 26.8.2115.0 |
 
 ## Definition changes
 
@@ -128,14 +139,19 @@ None detected in this window.
 | 05 Nov 21:59 | VIPRE Security Group, Inc. VIPRE SafeSend | windows | x64, x86 | 6.0.5.2 | 6.0.5.2 |
 | 05 Nov 12:20 | Microsoft Skype Desktop Client (x86) - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
 | 05 Nov 12:20 | Zoom Zoom - Active User - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
-| 05 Nov 00:54 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
-| 05 Nov 00:54 | Microsoft Skype Desktop Client (x86) - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
-| 05 Nov 00:54 | Zoom Zoom - Active User - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
 
 ## Removed packages
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 06 Nov 06:45 | Postman Postman (ARM) | macos | arm64 | 12.35.3 | — |
+| 06 Nov 06:45 | Postman Postman (ARM) | macos | arm64 | 12.35.3 | — |
+| 06 Nov 06:45 | Postman Postman | macos | x64 | 12.35.3 | — |
+| 06 Nov 06:45 | Postman Postman | macos | x64 | 12.35.3 | — |
+| 06 Nov 06:45 | Dell Dell Command Update (ARM) | windows | arm64 | 5.7.1 | — |
+| 06 Nov 06:45 | Dell Dell Command Update | windows | x64 | 5.7.2 | — |
+| 06 Nov 06:45 | Dell Dell Command Update for Windows Universal (ARM) | windows | arm64 | 5.7.1 | — |
+| 06 Nov 06:45 | Dell Dell Command Update for Windows Universal | windows | x64 | 5.7.2 | — |
 | 05 Nov 21:59 | Microsoft Edge | macos | arm64, x64 | 156.0.4314.58 | — |
 | 05 Nov 21:59 | Microsoft Edge | macos | arm64, x64 | 156.0.4314.58 | — |
 | 05 Nov 21:59 | iterate GmbH Cyberduck | macos | arm64, x64 | 9.5.4 | — |
