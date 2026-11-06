@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 06 Nov 2026 06:45 UTC  
-**Observation window:** 05 Nov 2026 06:45 UTC to 06 Nov 2026 06:45 UTC
+**Last successful check:** 06 Nov 2026 15:55 UTC  
+**Observation window:** 05 Nov 2026 15:55 UTC to 06 Nov 2026 15:55 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 82 | 18 | 7 | 26 | 0 |
+| 0 | 77 | 24 | 6 | 24 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,6 +22,22 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 06 Nov 15:55 | Figma, Inc. Figma | macos | arm64 | 126.10.13 | 126.11.7 |
+| 06 Nov 15:55 | GN Audio Jabra Direct | macos | arm64, x64 | 8.3.26701 | 8.4.30601 |
+| 06 Nov 15:55 | Microsoft Visual Studio Code | macos | arm64, x64 | 1.145.1 | 1.145.2 |
+| 06 Nov 15:55 | Vivaldi Technologies Vivaldi | macos | arm64, x64 | 8.3.4191.26 | 8.3.4191.30 |
+| 06 Nov 15:55 | Eclipse Adoptium Temurin 17 JDK with Hotspot 64-bit | windows | x64 | 17.0.20.101 | 17.0.21.9 |
+| 06 Nov 15:55 | Eclipse Adoptium Temurin 17 JRE with Hotspot 64-bit | windows | x64 | 17.0.20.101 | 17.0.21.9 |
+| 06 Nov 15:55 | GN Audio Jabra Direct | windows | arm64, x64, x86 | 8.3.26701.0 | 8.4.30601.0 |
+| 06 Nov 15:55 | Microsoft PowerToys (arm64) | windows | arm64 | 0.102.3001 | 0.102.3101 |
+| 06 Nov 15:55 | Microsoft PowerToys (x64) | windows | x64 | 0.102.3001 | 0.102.3101 |
+| 06 Nov 15:55 | Microsoft Visual Studio Code (x64 en-us) | windows | x64 | 1.145.1 | 1.145.2 |
+| 06 Nov 15:55 | Postman Postman | windows | arm64, x64, x86 | 12.35.4.0 | 12.35.5.0 |
+| 06 Nov 15:55 | Stamps.com, Inc Stamps.com (x64) | windows | arm64, x64 | 20.27.0.10900 | 20.27.1.10917 |
+| 06 Nov 15:55 | Stamps.com, Inc Stamps.com (x86) | windows | arm64, x64, x86 | 20.27.0.10900 | 20.27.1.10917 |
+| 06 Nov 15:55 | Vivaldi Technologies Vivaldi (32-bit) | windows | x86 | 8.3.4191.26 | 8.3.4191.30 |
+| 06 Nov 15:55 | Vivaldi Technologies Vivaldi (64-bit) | windows | x64 | 8.3.4191.26 | 8.3.4191.30 |
+| 06 Nov 15:55 | Vivaldi Technologies Vivaldi (arm64) | windows | arm64 | 8.3.4191.26 | 8.3.4191.30 |
 | 06 Nov 06:45 | Microsoft Teams | macos | arm64, x64 | 26276.505.5234.9924 | 26289.204.5281.6363 |
 | 06 Nov 06:45 | Microsoft Visual Studio Code | macos | arm64, x64 | 1.145.0 | 1.145.1 |
 | 06 Nov 06:45 | Notion Notion | macos | arm64, x64 | 7.42.1 | 7.42.3 |
@@ -83,32 +99,21 @@ None detected in this window.
 | 05 Nov 21:59 | Rocket.Chat Rocket.Chat (All Users) x64 | windows | x64 | 4.19.0 | 4.19.1 |
 | 05 Nov 21:59 | Rocket.Chat Rocket.Chat (All Users) x86 | windows | x86 | 4.19.0 | 4.19.1 |
 | 05 Nov 21:59 | Signal Messenger, LLC Signal (Active User) | windows | x64 | 8.33.0 | 8.34.0 |
-| 05 Nov 12:20 | Aircall Aircall Workspace (ARM) | macos | arm64 | 1.18.28 | 1.18.30 |
-| 05 Nov 12:20 | Aircall Aircall Workspace (Intel) | macos | x64 | 1.18.28 | 1.18.30 |
-| 05 Nov 12:20 | JetBrains GoLand (ARM) | macos | arm64 | 2026.2.4 | 2026.3 |
-| 05 Nov 12:20 | JetBrains GoLand | macos | x64 | 2026.2.4 | 2026.3 |
-| 05 Nov 12:20 | JetBrains IntelliJ IDEA Ultimate Edition (ARM) | macos | arm64 | 2026.2.4 | 2026.3 |
-| 05 Nov 12:20 | JetBrains IntelliJ IDEA Ultimate Edition | macos | x64 | 2026.2.4 | 2026.3 |
-| 05 Nov 12:20 | JetBrains WebStorm (ARM) | macos | arm64 | 2026.2.4 | 2026.3 |
-| 05 Nov 12:20 | JetBrains WebStorm | macos | x64 | 2026.2.4 | 2026.3 |
-| 05 Nov 12:20 | Microsoft Office 2019 | macos | arm64, x64 | 16.114.3 | 16.114.4 |
-| 05 Nov 12:20 | Microsoft Office 2019 with Teams | macos | arm64, x64 | 16.114.3 | 16.114.4 |
-| 05 Nov 12:20 | Vivaldi Technologies Vivaldi | macos | arm64, x64 | 8.2.4133.96 | 8.3.4191.26 |
-| 05 Nov 12:20 | Aircall Aircall Workspace | windows | arm64, x64 | 1.18.28.77810 | 1.18.30.78266 |
-| 05 Nov 12:20 | JetBrains GoLand | windows | x64 | 2026.2.4 | 2026.3 |
-| 05 Nov 12:20 | JetBrains IntelliJ IDEA Ultimate Edition | windows | x64 | 2026.2.4 | 2026.3 |
-| 05 Nov 12:20 | JetBrains IntelliJ IDEA arm64 | windows | arm64 | 2026.2.4 | 2026.3 |
-| 05 Nov 12:20 | JetBrains WebStorm | windows | x64 | 2026.2.4 | 2026.3 |
-| 05 Nov 12:20 | JetBrains WebStorm arm64 | windows | arm64 | 2026.2.4 | 2026.3 |
-| 05 Nov 12:20 | Postman Postman | windows | arm64, x64, x86 | 12.35.2.0 | 12.35.3.0 |
-| 05 Nov 12:20 | Vivaldi Technologies Vivaldi (32-bit) | windows | x86 | 8.2.4133.96 | 8.3.4191.26 |
-| 05 Nov 12:20 | Vivaldi Technologies Vivaldi (64-bit) | windows | x64 | 8.2.4133.96 | 8.3.4191.26 |
-| 05 Nov 12:20 | Vivaldi Technologies Vivaldi (arm64) | windows | arm64 | 8.2.4133.96 | 8.3.4191.26 |
 
 ## Other additions (previously seen products or supporting files)
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 06 Nov 15:55 | Postman Postman (ARM) | macos | arm64 | — | 12.35.5 |
+| 06 Nov 15:55 | Postman Postman (ARM) | macos | arm64 | — | 12.35.5 |
+| 06 Nov 15:55 | Postman Postman | macos | x64 | — | 12.35.5 |
+| 06 Nov 15:55 | Postman Postman | macos | x64 | — | 12.35.5 |
+| 06 Nov 15:55 | Dell Dell Command Update (ARM) | windows | arm64 | — | 5.7.1 |
+| 06 Nov 15:55 | Dell Dell Command Update | windows | x64 | — | 5.7.2 |
+| 06 Nov 15:55 | Dell Dell Command Update for Windows Universal (ARM) | windows | arm64 | — | 5.7.1 |
+| 06 Nov 15:55 | Dell Dell Command Update for Windows Universal | windows | x64 | — | 5.7.2 |
+| 06 Nov 15:55 | UltraVNC company UltraVNC Viewer (x64) | windows | x64 | — | 1.8.3.2 |
+| 06 Nov 15:55 | UltraVNC company UltraVNC Viewer (x86) | windows | x86 | — | 1.8.3.2 |
 | 06 Nov 06:45 | Postman Postman (ARM) | macos | arm64 | — | 12.35.4 |
 | 06 Nov 06:45 | Postman Postman (ARM) | macos | arm64 | — | 12.35.4 |
 | 06 Nov 06:45 | Postman Postman | macos | x64 | — | 12.35.4 |
@@ -123,27 +128,26 @@ None detected in this window.
 | 05 Nov 21:59 | Microsoft Edge WebView2 x64 | windows | x64 | — | 157.0.4341.42 |
 | 05 Nov 21:59 | Microsoft Edge WebView2 x86 | windows | x86 | — | 157.0.4341.42 |
 | 05 Nov 21:59 | Microsoft Edge WebView2 x86 | windows | x86 | — | 157.0.4341.42 |
-| 05 Nov 12:20 | Postman Postman (ARM) | macos | arm64 | — | 12.35.3 |
-| 05 Nov 12:20 | Postman Postman (ARM) | macos | arm64 | — | 12.35.3 |
-| 05 Nov 12:20 | Postman Postman | macos | x64 | — | 12.35.3 |
-| 05 Nov 12:20 | Postman Postman | macos | x64 | — | 12.35.3 |
 
 ## Definition changes
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 06 Nov 15:55 | RingCentral RingCentral | windows | x64 | 26.4.1012.1904 | 26.4.1012.1904 |
 | 05 Nov 21:59 | Amazon Corretto 25 (x64) | windows | x64 | 25.0.5.0 | 25.0.5.0 |
 | 05 Nov 21:59 | RealVNC RealVNC Connect | windows | arm64, x64 | 8.6.0.15 | 8.6.0.15 |
 | 05 Nov 21:59 | RealVNC RealVNC Server | windows | arm64, x64 | 7.19.0.13 | 7.19.0.13 |
 | 05 Nov 21:59 | RealVNC RealVNC Viewer | windows | arm64, x64 | 8.6.0.15 | 8.6.0.15 |
 | 05 Nov 21:59 | VIPRE Security Group, Inc. VIPRE SafeSend | windows | x64, x86 | 6.0.5.2 | 6.0.5.2 |
-| 05 Nov 12:20 | Microsoft Skype Desktop Client (x86) - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
-| 05 Nov 12:20 | Zoom Zoom - Active User - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
 
 ## Removed packages
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 06 Nov 15:55 | Postman Postman (ARM) | macos | arm64 | 12.35.4 | — |
+| 06 Nov 15:55 | Postman Postman (ARM) | macos | arm64 | 12.35.4 | — |
+| 06 Nov 15:55 | Postman Postman | macos | x64 | 12.35.4 | — |
+| 06 Nov 15:55 | Postman Postman | macos | x64 | 12.35.4 | — |
 | 06 Nov 06:45 | Postman Postman (ARM) | macos | arm64 | 12.35.3 | — |
 | 06 Nov 06:45 | Postman Postman (ARM) | macos | arm64 | 12.35.3 | — |
 | 06 Nov 06:45 | Postman Postman | macos | x64 | 12.35.3 | — |
@@ -164,12 +168,6 @@ None detected in this window.
 | 05 Nov 21:59 | UltraVNC company UltraVNC Viewer (x64) | windows | x64 | 1.8.3.1 | — |
 | 05 Nov 21:59 | UltraVNC company UltraVNC Viewer (x86) | windows | x86 | 1.8.3.1 | — |
 | 05 Nov 21:59 | iterate GmbH Cyberduck | windows | arm64, x64 | 9.5.4 | — |
-| 05 Nov 12:20 | Postman Postman (ARM) | macos | arm64 | 12.35.2 | — |
-| 05 Nov 12:20 | Postman Postman (ARM) | macos | arm64 | 12.35.2 | — |
-| 05 Nov 12:20 | Postman Postman | macos | x64 | 12.35.2 | — |
-| 05 Nov 12:20 | Postman Postman | macos | x64 | 12.35.2 | — |
-| 05 Nov 12:20 | Cisco Webex (All Users) (x64) | windows | arm64, x64 | 46.11.0.36194 | — |
-| 05 Nov 12:20 | Cisco Webex VDI Plugin (x64) | windows | arm64, x64 | 46.10.0.36183 | — |
 
 ## Renamed files
 
