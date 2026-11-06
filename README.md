@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 06 Nov 2026 15:55 UTC  
-**Observation window:** 05 Nov 2026 15:55 UTC to 06 Nov 2026 15:55 UTC
+**Last successful check:** 06 Nov 2026 21:29 UTC  
+**Observation window:** 05 Nov 2026 21:29 UTC to 06 Nov 2026 21:29 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 77 | 24 | 6 | 24 | 0 |
+| 0 | 92 | 24 | 6 | 26 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,6 +22,21 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 06 Nov 21:29 | Google LLC Google Gemini | macos | arm64 | 1.138.0.1315 | 1.141.3.1394 |
+| 06 Nov 21:29 | OpenAI OpCo, LLC ChatGPT Codex | macos | arm64 | 26.1103.31037 | 26.1103.32239 |
+| 06 Nov 21:29 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.39.5.0 | 2.39.6.0 |
+| 06 Nov 21:29 | Azul Systems, Inc. Azul Zulu JDK 11 (x64) | windows | arm64, x64 | 11.92.109 | 11.92.113 |
+| 06 Nov 21:29 | Azul Systems, Inc. Azul Zulu JDK 11 (x86) | windows | arm64, x64, x86 | 11.92.109 | 11.92.113 |
+| 06 Nov 21:29 | Azul Systems, Inc. Azul Zulu JDK 8 (x64) | windows | arm64, x64 | 8.98.0.107 | 8.98.0.111 |
+| 06 Nov 21:29 | Azul Systems, Inc. Azul Zulu JDK 8 (x86) | windows | arm64, x64, x86 | 8.98.0.107 | 8.98.0.111 |
+| 06 Nov 21:29 | Azul Systems, Inc. Azul Zulu JRE 11 (x64) | windows | arm64, x64 | 11.92.109 | 11.92.113 |
+| 06 Nov 21:29 | Azul Systems, Inc. Azul Zulu JRE 11 (x86) | windows | arm64, x64, x86 | 11.92.109 | 11.92.113 |
+| 06 Nov 21:29 | Azul Systems, Inc. Azul Zulu JRE 8 (x64) | windows | arm64, x64 | 8.98.0.107 | 8.98.0.111 |
+| 06 Nov 21:29 | Azul Systems, Inc. Azul Zulu JRE 8 (x86) | windows | arm64, x64, x86 | 8.98.0.107 | 8.98.0.111 |
+| 06 Nov 21:29 | Codec Guide K-Lite Mega Codec Pack | windows | arm64, x64 | 20.1.6 | 20.2.0 |
+| 06 Nov 21:29 | Notepad++ Team Notepad++ 32-bit | windows | arm64, x64, x86 | 8.9.8.1 | 8.9.9 |
+| 06 Nov 21:29 | Notepad++ Team Notepad++ 64-bit | windows | arm64, x64 | 8.9.8.1 | 8.9.9 |
+| 06 Nov 21:29 | Notepad++ Team Notepad++ ARM | windows | arm64 | 8.9.8.1 | 8.9.9 |
 | 06 Nov 15:55 | Figma, Inc. Figma | macos | arm64 | 126.10.13 | 126.11.7 |
 | 06 Nov 15:55 | GN Audio Jabra Direct | macos | arm64, x64 | 8.3.26701 | 8.4.30601 |
 | 06 Nov 15:55 | Microsoft Visual Studio Code | macos | arm64, x64 | 1.145.1 | 1.145.2 |
@@ -144,6 +159,8 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 06 Nov 21:29 | UltraVNC company UltraVNC Viewer (x64) | windows | x64 | 1.8.3.2 | — |
+| 06 Nov 21:29 | UltraVNC company UltraVNC Viewer (x86) | windows | x86 | 1.8.3.2 | — |
 | 06 Nov 15:55 | Postman Postman (ARM) | macos | arm64 | 12.35.4 | — |
 | 06 Nov 15:55 | Postman Postman (ARM) | macos | arm64 | 12.35.4 | — |
 | 06 Nov 15:55 | Postman Postman | macos | x64 | 12.35.4 | — |
