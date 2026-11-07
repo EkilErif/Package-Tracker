@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 07 Nov 2026 05:57 UTC  
-**Observation window:** 06 Nov 2026 05:57 UTC to 07 Nov 2026 05:57 UTC
+**Last successful check:** 07 Nov 2026 14:54 UTC  
+**Observation window:** 06 Nov 2026 14:54 UTC to 07 Nov 2026 14:54 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 61 | 14 | 2 | 14 | 0 |
+| 0 | 43 | 10 | 2 | 6 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -65,24 +65,6 @@ None detected in this window.
 | 06 Nov 15:55 | Vivaldi Technologies Vivaldi (32-bit) | windows | x86 | 8.3.4191.26 | 8.3.4191.30 |
 | 06 Nov 15:55 | Vivaldi Technologies Vivaldi (64-bit) | windows | x64 | 8.3.4191.26 | 8.3.4191.30 |
 | 06 Nov 15:55 | Vivaldi Technologies Vivaldi (arm64) | windows | arm64 | 8.3.4191.26 | 8.3.4191.30 |
-| 06 Nov 06:45 | Microsoft Teams | macos | arm64, x64 | 26276.505.5234.9924 | 26289.204.5281.6363 |
-| 06 Nov 06:45 | Microsoft Visual Studio Code | macos | arm64, x64 | 1.145.0 | 1.145.1 |
-| 06 Nov 06:45 | Notion Notion | macos | arm64, x64 | 7.42.1 | 7.42.3 |
-| 06 Nov 06:45 | OpenAI OpCo, LLC ChatGPT Codex | macos | arm64 | 26.1029.70936 | 26.1103.31037 |
-| 06 Nov 06:45 | RingCentral RingCentral (ARM) | macos | arm64 | 26.3.3012.1855 | 26.4.1012.1904 |
-| 06 Nov 06:45 | RingCentral RingCentral (Intel) | macos | x64 | 26.3.3012.1855 | 26.4.1012.1904 |
-| 06 Nov 06:45 | Slack Slack | macos | arm64, x64 | 4.53.280 | 4.53.283 |
-| 06 Nov 06:45 | Microsoft Edge x64 | windows | x64 | 156.0.4314.70 | 157.0.4341.42 |
-| 06 Nov 06:45 | Microsoft Edge x86 | windows | x86 | 156.0.4314.70 | 157.0.4341.42 |
-| 06 Nov 06:45 | Microsoft Visual Studio Code (x64 en-us) | windows | x64 | 1.145.0 | 1.145.1 |
-| 06 Nov 06:45 | Notion Notion arm64 (Active User) | windows | arm64 | 7.42.1.0 | 7.42.3.0 |
-| 06 Nov 06:45 | Notion Notion x64 (Active User) | windows | x64 | 7.42.1.0 | 7.42.3.0 |
-| 06 Nov 06:45 | OpenAI OpCo, LLC ChatGPT Codex (arm64) | windows | arm64 | 26.1029.7803.0 | 26.1103.3517.0 |
-| 06 Nov 06:45 | OpenAI OpCo, LLC ChatGPT Codex (x64) | windows | x64 | 26.1029.7803.0 | 26.1103.3517.0 |
-| 06 Nov 06:45 | Postman Postman | windows | arm64, x64, x86 | 12.35.3.0 | 12.35.4.0 |
-| 06 Nov 06:45 | RingCentral RingCentral | windows | x64 | 26.3.3012.1855 | 26.4.1012.1904 |
-| 06 Nov 06:45 | Vim Project Vim (arm64) | windows | arm64 | 9.2.1286 | 9.2.1302 |
-| 06 Nov 06:45 | Vim Project Vim (x64) | windows | x64 | 9.2.1286 | 9.2.1302 |
 
 ## Other additions (previously seen products or supporting files)
 
@@ -98,10 +80,6 @@ None detected in this window.
 | 06 Nov 15:55 | Dell Dell Command Update for Windows Universal | windows | x64 | — | 5.7.2 |
 | 06 Nov 15:55 | UltraVNC company UltraVNC Viewer (x64) | windows | x64 | — | 1.8.3.2 |
 | 06 Nov 15:55 | UltraVNC company UltraVNC Viewer (x86) | windows | x86 | — | 1.8.3.2 |
-| 06 Nov 06:45 | Postman Postman (ARM) | macos | arm64 | — | 12.35.4 |
-| 06 Nov 06:45 | Postman Postman (ARM) | macos | arm64 | — | 12.35.4 |
-| 06 Nov 06:45 | Postman Postman | macos | x64 | — | 12.35.4 |
-| 06 Nov 06:45 | Postman Postman | macos | x64 | — | 12.35.4 |
 
 ## Definition changes
 
@@ -120,14 +98,6 @@ None detected in this window.
 | 06 Nov 15:55 | Postman Postman (ARM) | macos | arm64 | 12.35.4 | — |
 | 06 Nov 15:55 | Postman Postman | macos | x64 | 12.35.4 | — |
 | 06 Nov 15:55 | Postman Postman | macos | x64 | 12.35.4 | — |
-| 06 Nov 06:45 | Postman Postman (ARM) | macos | arm64 | 12.35.3 | — |
-| 06 Nov 06:45 | Postman Postman (ARM) | macos | arm64 | 12.35.3 | — |
-| 06 Nov 06:45 | Postman Postman | macos | x64 | 12.35.3 | — |
-| 06 Nov 06:45 | Postman Postman | macos | x64 | 12.35.3 | — |
-| 06 Nov 06:45 | Dell Dell Command Update (ARM) | windows | arm64 | 5.7.1 | — |
-| 06 Nov 06:45 | Dell Dell Command Update | windows | x64 | 5.7.2 | — |
-| 06 Nov 06:45 | Dell Dell Command Update for Windows Universal (ARM) | windows | arm64 | 5.7.1 | — |
-| 06 Nov 06:45 | Dell Dell Command Update for Windows Universal | windows | x64 | 5.7.2 | — |
 
 ## Renamed files
 
