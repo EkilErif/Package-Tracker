@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 07 Nov 2026 14:54 UTC  
-**Observation window:** 06 Nov 2026 14:54 UTC to 07 Nov 2026 14:54 UTC
+**Last successful check:** 07 Nov 2026 20:14 UTC  
+**Observation window:** 06 Nov 2026 20:14 UTC to 07 Nov 2026 20:14 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 43 | 10 | 2 | 6 | 0 |
+| 0 | 27 | 0 | 1 | 2 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -49,44 +49,16 @@ None detected in this window.
 | 06 Nov 21:29 | Notepad++ Team Notepad++ 32-bit | windows | arm64, x64, x86 | 8.9.8.1 | 8.9.9 |
 | 06 Nov 21:29 | Notepad++ Team Notepad++ 64-bit | windows | arm64, x64 | 8.9.8.1 | 8.9.9 |
 | 06 Nov 21:29 | Notepad++ Team Notepad++ ARM | windows | arm64 | 8.9.8.1 | 8.9.9 |
-| 06 Nov 15:55 | Figma, Inc. Figma | macos | arm64 | 126.10.13 | 126.11.7 |
-| 06 Nov 15:55 | GN Audio Jabra Direct | macos | arm64, x64 | 8.3.26701 | 8.4.30601 |
-| 06 Nov 15:55 | Microsoft Visual Studio Code | macos | arm64, x64 | 1.145.1 | 1.145.2 |
-| 06 Nov 15:55 | Vivaldi Technologies Vivaldi | macos | arm64, x64 | 8.3.4191.26 | 8.3.4191.30 |
-| 06 Nov 15:55 | Eclipse Adoptium Temurin 17 JDK with Hotspot 64-bit | windows | x64 | 17.0.20.101 | 17.0.21.9 |
-| 06 Nov 15:55 | Eclipse Adoptium Temurin 17 JRE with Hotspot 64-bit | windows | x64 | 17.0.20.101 | 17.0.21.9 |
-| 06 Nov 15:55 | GN Audio Jabra Direct | windows | arm64, x64, x86 | 8.3.26701.0 | 8.4.30601.0 |
-| 06 Nov 15:55 | Microsoft PowerToys (arm64) | windows | arm64 | 0.102.3001 | 0.102.3101 |
-| 06 Nov 15:55 | Microsoft PowerToys (x64) | windows | x64 | 0.102.3001 | 0.102.3101 |
-| 06 Nov 15:55 | Microsoft Visual Studio Code (x64 en-us) | windows | x64 | 1.145.1 | 1.145.2 |
-| 06 Nov 15:55 | Postman Postman | windows | arm64, x64, x86 | 12.35.4.0 | 12.35.5.0 |
-| 06 Nov 15:55 | Stamps.com, Inc Stamps.com (x64) | windows | arm64, x64 | 20.27.0.10900 | 20.27.1.10917 |
-| 06 Nov 15:55 | Stamps.com, Inc Stamps.com (x86) | windows | arm64, x64, x86 | 20.27.0.10900 | 20.27.1.10917 |
-| 06 Nov 15:55 | Vivaldi Technologies Vivaldi (32-bit) | windows | x86 | 8.3.4191.26 | 8.3.4191.30 |
-| 06 Nov 15:55 | Vivaldi Technologies Vivaldi (64-bit) | windows | x64 | 8.3.4191.26 | 8.3.4191.30 |
-| 06 Nov 15:55 | Vivaldi Technologies Vivaldi (arm64) | windows | arm64 | 8.3.4191.26 | 8.3.4191.30 |
 
 ## Other additions (previously seen products or supporting files)
 
-| Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
-|---|---|---|---|---|---|
-| 06 Nov 15:55 | Postman Postman (ARM) | macos | arm64 | — | 12.35.5 |
-| 06 Nov 15:55 | Postman Postman (ARM) | macos | arm64 | — | 12.35.5 |
-| 06 Nov 15:55 | Postman Postman | macos | x64 | — | 12.35.5 |
-| 06 Nov 15:55 | Postman Postman | macos | x64 | — | 12.35.5 |
-| 06 Nov 15:55 | Dell Dell Command Update (ARM) | windows | arm64 | — | 5.7.1 |
-| 06 Nov 15:55 | Dell Dell Command Update | windows | x64 | — | 5.7.2 |
-| 06 Nov 15:55 | Dell Dell Command Update for Windows Universal (ARM) | windows | arm64 | — | 5.7.1 |
-| 06 Nov 15:55 | Dell Dell Command Update for Windows Universal | windows | x64 | — | 5.7.2 |
-| 06 Nov 15:55 | UltraVNC company UltraVNC Viewer (x64) | windows | x64 | — | 1.8.3.2 |
-| 06 Nov 15:55 | UltraVNC company UltraVNC Viewer (x86) | windows | x86 | — | 1.8.3.2 |
+None detected in this window.
 
 ## Definition changes
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
 | 07 Nov 05:57 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
-| 06 Nov 15:55 | RingCentral RingCentral | windows | x64 | 26.4.1012.1904 | 26.4.1012.1904 |
 
 ## Removed packages
 
@@ -94,10 +66,6 @@ None detected in this window.
 |---|---|---|---|---|---|
 | 06 Nov 21:29 | UltraVNC company UltraVNC Viewer (x64) | windows | x64 | 1.8.3.2 | — |
 | 06 Nov 21:29 | UltraVNC company UltraVNC Viewer (x86) | windows | x86 | 1.8.3.2 | — |
-| 06 Nov 15:55 | Postman Postman (ARM) | macos | arm64 | 12.35.4 | — |
-| 06 Nov 15:55 | Postman Postman (ARM) | macos | arm64 | 12.35.4 | — |
-| 06 Nov 15:55 | Postman Postman | macos | x64 | 12.35.4 | — |
-| 06 Nov 15:55 | Postman Postman | macos | x64 | 12.35.4 | — |
 
 ## Renamed files
 
