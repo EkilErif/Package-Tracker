@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 09 Nov 2026 18:48 UTC  
-**Observation window:** 08 Nov 2026 18:48 UTC to 09 Nov 2026 18:48 UTC
+**Last successful check:** 10 Nov 2026 02:44 UTC  
+**Observation window:** 09 Nov 2026 02:44 UTC to 10 Nov 2026 02:44 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 69 | 26 | 3 | 24 | 0 |
+| 0 | 95 | 38 | 3 | 34 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,6 +22,32 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 10 Nov 02:44 | Microsoft Edge (DPKG) | linux | x64 | 157.0.4341.42 | 157.0.4341.46 |
+| 10 Nov 02:44 | Anthropic PBC Claude | macos | arm64, x64 | 4.23118.0 | 4.23118.1 |
+| 10 Nov 02:44 | Anysphere Cursor arm64 | macos | arm64 | 3.29.9 | 3.29.15 |
+| 10 Nov 02:44 | Anysphere Cursor x64 | macos | x64 | 3.29.9 | 3.29.15 |
+| 10 Nov 02:44 | Google Chrome | macos | arm64, x64 | 157.0.8103.39 | 157.0.8103.51 |
+| 10 Nov 02:44 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.39.6.0 | 2.39.7.0 |
+| 10 Nov 02:44 | Anthropic PBC Claude arm64 | windows | arm64 | 4.23118.0.0 | 4.23118.1.0 |
+| 10 Nov 02:44 | Anthropic PBC Claude x64 | windows | x64 | 4.23118.0.0 | 4.23118.1.0 |
+| 10 Nov 02:44 | Anysphere Cursor arm64 (Active User) | windows | arm64 | 3.29.9 | 3.29.15 |
+| 10 Nov 02:44 | Anysphere Cursor arm64 | windows | arm64 | 3.29.9 | 3.29.15 |
+| 10 Nov 02:44 | Anysphere Cursor x64 (Active User) | windows | x64 | 3.29.9 | 3.29.15 |
+| 10 Nov 02:44 | Anysphere Cursor x64 | windows | x64 | 3.29.9 | 3.29.15 |
+| 10 Nov 02:44 | Google Chrome ARM64 | windows | arm64 | 157.0.8103.39 | 157.0.8103.51 |
+| 10 Nov 02:44 | Google Chrome x86 | windows | x64, x86 | 157.0.8103.39 | 157.0.8103.51 |
+| 10 Nov 02:44 | Google Chrome x86 | windows | arm64, x64, x86 | 157.0.8103.39 | 157.0.8103.51 |
+| 10 Nov 02:44 | Microsoft Edge x86 | windows | x86 | 157.0.4341.42 | 157.0.4341.46 |
+| 10 Nov 02:44 | Microsoft Teams (DoD) | windows | x64 | 26276.513.5241.9675 | 26288.2004.5269.3420 |
+| 10 Nov 02:44 | Microsoft Teams x64 (GCC) | windows | x64 | 26276.513.5241.9675 | 26288.2004.5269.3420 |
+| 10 Nov 02:44 | Microsoft Teams x64 (GCC High) | windows | x64 | 26276.513.5241.9675 | 26288.2004.5269.3420 |
+| 10 Nov 02:44 | Microsoft Teams x64 | windows | x64 | 26276.513.5241.9675 | 26288.2004.5269.3420 |
+| 10 Nov 02:44 | Microsoft Windows Subsystem for Linux (arm64) | windows | arm64 | 3.0.3.0 | 3.0.5.0 |
+| 10 Nov 02:44 | Microsoft Windows Subsystem for Linux (x64) | windows | x64 | 3.0.3.0 | 3.0.5.0 |
+| 10 Nov 02:44 | OpenAI OpCo, LLC ChatGPT Codex (arm64) | windows | arm64 | 26.1103.4239.0 | 26.1103.7773.0 |
+| 10 Nov 02:44 | OpenAI OpCo, LLC ChatGPT Codex (x64) | windows | x64 | 26.1103.4239.0 | 26.1103.7773.0 |
+| 10 Nov 02:44 | Slack Slack ARM64 | windows | arm64 | 4.53.280.0 | 4.53.287.0 |
+| 10 Nov 02:44 | Slack Slack x64 | windows | x64 | 4.53.280.0 | 4.53.287.0 |
 | 09 Nov 18:48 | 3T Software Labs Ltd Studio 3T (Arm) | macos | arm64 | 2026.14.0 | 2026.15.0 |
 | 09 Nov 18:48 | 3T Software Labs Ltd Studio 3T (Intel) | macos | x64 | 2026.14.0 | 2026.15.0 |
 | 09 Nov 18:48 | Aircall Aircall Workspace (ARM) | macos | arm64 | 1.18.30 | 1.19.0 |
@@ -96,6 +122,18 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 10 Nov 02:44 | Microsoft Edge | macos | arm64, x64 | — | 157.0.4341.46 |
+| 10 Nov 02:44 | Microsoft Edge | macos | arm64, x64 | — | 157.0.4341.46 |
+| 10 Nov 02:44 | iterate GmbH Cyberduck | macos | arm64, x64 | — | 9.6.0 |
+| 10 Nov 02:44 | Google Chrome x64 | windows | x64 | — | 157.0.8103.51 |
+| 10 Nov 02:44 | Google Chrome x64 | windows | x64 | — | 157.0.8103.51 |
+| 10 Nov 02:44 | Microsoft Edge WebView2 arm64 | windows | arm64 | — | 157.0.4341.46 |
+| 10 Nov 02:44 | Microsoft Edge WebView2 arm64 | windows | arm64 | — | 157.0.4341.46 |
+| 10 Nov 02:44 | Microsoft Edge WebView2 x64 | windows | x64 | — | 157.0.4341.46 |
+| 10 Nov 02:44 | Microsoft Edge WebView2 x64 | windows | x64 | — | 157.0.4341.46 |
+| 10 Nov 02:44 | Microsoft Edge WebView2 x86 | windows | x86 | — | 157.0.4341.46 |
+| 10 Nov 02:44 | Microsoft Edge WebView2 x86 | windows | x86 | — | 157.0.4341.46 |
+| 10 Nov 02:44 | iterate GmbH Cyberduck | windows | arm64, x64 | — | 9.6.0 |
 | 09 Nov 18:48 | Postman Postman (ARM) | macos | arm64 | — | 12.36.0 |
 | 09 Nov 18:48 | Postman Postman (ARM) | macos | arm64 | — | 12.36.0 |
 | 09 Nov 18:48 | Postman Postman | macos | x64 | — | 12.36.0 |
@@ -135,6 +173,16 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 10 Nov 02:44 | Microsoft Edge | macos | arm64, x64 | 157.0.4341.42 | — |
+| 10 Nov 02:44 | Microsoft Edge | macos | arm64, x64 | 157.0.4341.42 | — |
+| 10 Nov 02:44 | Google Chrome x64 | windows | x64 | 157.0.8103.39 | — |
+| 10 Nov 02:44 | Google Chrome x64 | windows | x64 | 157.0.8103.39 | — |
+| 10 Nov 02:44 | Microsoft Edge WebView2 arm64 | windows | arm64 | 157.0.4341.42 | — |
+| 10 Nov 02:44 | Microsoft Edge WebView2 arm64 | windows | arm64 | 157.0.4341.42 | — |
+| 10 Nov 02:44 | Microsoft Edge WebView2 x64 | windows | x64 | 157.0.4341.42 | — |
+| 10 Nov 02:44 | Microsoft Edge WebView2 x64 | windows | x64 | 157.0.4341.42 | — |
+| 10 Nov 02:44 | Microsoft Edge WebView2 x86 | windows | x86 | 157.0.4341.42 | — |
+| 10 Nov 02:44 | Microsoft Edge WebView2 x86 | windows | x86 | 157.0.4341.42 | — |
 | 09 Nov 18:48 | Postman Postman (ARM) | macos | arm64 | 12.35.5 | — |
 | 09 Nov 18:48 | Postman Postman (ARM) | macos | arm64 | 12.35.5 | — |
 | 09 Nov 18:48 | Postman Postman | macos | x64 | 12.35.5 | — |
