@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 11 Nov 2026 06:19 UTC  
-**Observation window:** 10 Nov 2026 06:19 UTC to 11 Nov 2026 06:19 UTC
+**Last successful check:** 11 Nov 2026 16:10 UTC  
+**Observation window:** 10 Nov 2026 16:10 UTC to 11 Nov 2026 16:10 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 6 | 291 | 9 | 29 | 13 | 0 |
+| 2 | 278 | 5 | 2 | 13 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -20,15 +20,21 @@ First seen in the recorded gallery history, by vendor, product name and platform
 |---|---|---|---|---|---|
 | 10 Nov 21:48 | Citrix Systems, Inc. Citrix Workspace (arm64) | windows | arm64 | — | 26.10.0.31 |
 | 10 Nov 21:48 | Citrix Systems, Inc. Citrix Workspace (x64) | windows | x64 | — | 26.10.0.31 |
-| 10 Nov 12:39 | Microsoft .NET Hosting Bundle 10.0 | windows | arm64, x64, x86 | — | 10.0.14.26522 |
-| 10 Nov 12:39 | Microsoft .NET Hosting Bundle 8.0 | windows | arm64, x64, x86 | — | 8.0.33.26523 |
-| 10 Nov 12:39 | Microsoft .NET Hosting Bundle 9.0 | windows | arm64, x64, x86 | — | 9.0.22.26523 |
-| 10 Nov 12:39 | The Document Foundation LibreOffice (arm64) | windows | arm64 | — | 26.8.2.2 |
 
 ## Version changes
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 11 Nov 16:10 | Grammarly Grammarly | macos | arm64, x64 | 1.207.0 | 1.209.0 |
+| 11 Nov 16:10 | Microsoft Visual Studio Code | macos | arm64, x64 | 1.145.3 | 1.146.0 |
+| 11 Nov 16:10 | Cisco ThousandEyes Endpoint Agent | windows | x64 | 2.60.2 | 2.64.0 |
+| 11 Nov 16:10 | Grammarly Grammarly (Active User) | windows | arm64, x64 | 1.2.311.2002 | 1.2.312.2004 |
+| 11 Nov 16:10 | HashiCorp Terraform | windows | x64 | 1.17.1 | 1.17.2 |
+| 11 Nov 16:10 | Martin Prikryl WinSCP | windows | arm64, x64, x86 | 6.7.0.17845 | 6.7.1.17902 |
+| 11 Nov 16:10 | Microsoft Visual Studio Code (x64 en-us) | windows | x64 | 1.145.3 | 1.146.0 |
+| 11 Nov 16:10 | OpenAI OpCo, LLC ChatGPT Codex (arm64) | windows | arm64 | 26.1103.7773.0 | 26.1106.6628.0 |
+| 11 Nov 16:10 | OpenAI OpCo, LLC ChatGPT Codex (x64) | windows | x64 | 26.1103.7773.0 | 26.1106.6628.0 |
+| 11 Nov 16:10 | Viber Media S.a.r.l. Viber (Active User) | windows | arm64, x64 | 29.4.0.0 | 29.5.0.0 |
 | 11 Nov 06:19 | Anthropic PBC Claude | macos | arm64, x64 | 5.1231.0 | 5.1231.2 |
 | 11 Nov 06:19 | Microsoft Office 2019 | macos | arm64, x64 | 16.114.4 | 16.115 |
 | 11 Nov 06:19 | Microsoft Office 2019 with Teams | macos | arm64, x64 | 16.114.4 | 16.115 |
@@ -297,29 +303,6 @@ First seen in the recorded gallery history, by vendor, product name and platform
 | 10 Nov 21:48 | RealVNC RealVNC Connect | windows | arm64, x64 | 8.5.3.38 | 8.6.1.17 |
 | 10 Nov 21:48 | RealVNC RealVNC Viewer | windows | arm64, x64 | 8.5.3.38 | 8.6.1.17 |
 | 10 Nov 21:48 | Scooter Software Beyond Compare 5 | windows | arm64, x64, x86 | 5.2.7.32913 | 5.2.8.33052 |
-| 10 Nov 12:39 | Cognition Devin Desktop | macos | arm64 | 3.12.32 | 3.12.43 |
-| 10 Nov 12:39 | Evernote Corporation Evernote | macos | arm64, x64 | 11.41.9 | 11.42.3 |
-| 10 Nov 12:39 | Vivaldi Technologies Vivaldi | macos | arm64, x64 | 8.3.4191.30 | 8.3.4191.35 |
-| 10 Nov 12:39 | Evernote Corporation Evernote (Active User) | windows | arm64, x64, x86 | 11.41.9.17666 | 11.42.3.15674 |
-| 10 Nov 12:39 | Evernote Corporation Evernote (All Users) | windows | arm64, x64, x86 | 11.41.9.17666 | 11.42.3.15674 |
-| 10 Nov 12:39 | Logitech, Inc. Logi Options+ | windows | arm64, x64 | 2.9.994631 | 2.9.1013853 |
-| 10 Nov 12:39 | Microsoft Edge arm64 | windows | arm64 | 157.0.4341.42 | 157.0.4341.46 |
-| 10 Nov 12:39 | Microsoft Edge x64 | windows | x64 | 157.0.4341.42 | 157.0.4341.46 |
-| 10 Nov 12:39 | Microsoft Power Automate for desktop | windows | x64 | 2.73.155.26278 | 2.74.191.26302 |
-| 10 Nov 12:39 | PDF-XChange Co Ltd PDF-XChange PRO (arm64) | windows | arm64 | 11.1.1.0 | 11.1.2.0 |
-| 10 Nov 12:39 | PDF-XChange Co Ltd PDF-XChange PRO (x64) | windows | x64 | 11.1.1.0 | 11.1.2.0 |
-| 10 Nov 12:39 | Postman Postman | windows | arm64, x64, x86 | 12.36.0.0 | 12.36.1.0 |
-| 10 Nov 12:39 | RealVNC RealVNC Connect | windows | arm64, x64 | 8.6.0.15 | 8.5.3.38 |
-| 10 Nov 12:39 | RealVNC RealVNC Viewer | windows | arm64, x64 | 8.6.0.15 | 8.5.3.38 |
-| 10 Nov 12:39 | Rocket.Chat Rocket.Chat (Active User) x64 | windows | x64 | 4.19.1 | 4.19.2 |
-| 10 Nov 12:39 | Rocket.Chat Rocket.Chat (Active User) x86 | windows | x86 | 4.19.1 | 4.19.2 |
-| 10 Nov 12:39 | Rocket.Chat Rocket.Chat (All Users) x64 | windows | x64 | 4.19.1 | 4.19.2 |
-| 10 Nov 12:39 | Rocket.Chat Rocket.Chat (All Users) x86 | windows | x86 | 4.19.1 | 4.19.2 |
-| 10 Nov 12:39 | Vim Project Vim (arm64) | windows | arm64 | 9.2.1310 | 9.2.1316 |
-| 10 Nov 12:39 | Vim Project Vim (x64) | windows | x64 | 9.2.1310 | 9.2.1316 |
-| 10 Nov 12:39 | Vivaldi Technologies Vivaldi (32-bit) | windows | x86 | 8.3.4191.30 | 8.3.4191.35 |
-| 10 Nov 12:39 | Vivaldi Technologies Vivaldi (64-bit) | windows | x64 | 8.3.4191.30 | 8.3.4191.35 |
-| 10 Nov 12:39 | Vivaldi Technologies Vivaldi (arm64) | windows | arm64 | 8.3.4191.30 | 8.3.4191.35 |
 
 ## Other additions (previously seen products or supporting files)
 
@@ -330,49 +313,22 @@ First seen in the recorded gallery history, by vendor, product name and platform
 | 11 Nov 06:19 | Postman Postman | macos | x64 | — | 12.36.2 |
 | 11 Nov 06:19 | Postman Postman | macos | x64 | — | 12.36.2 |
 | 10 Nov 21:48 | Citrix Systems, Inc. Citrix Workspace | windows | x86 | — | 26.7.1.4 |
-| 10 Nov 12:39 | Postman Postman (ARM) | macos | arm64 | — | 12.36.1 |
-| 10 Nov 12:39 | Postman Postman (ARM) | macos | arm64 | — | 12.36.1 |
-| 10 Nov 12:39 | Postman Postman | macos | x64 | — | 12.36.1 |
-| 10 Nov 12:39 | Postman Postman | macos | x64 | — | 12.36.1 |
 
 ## Definition changes
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 11 Nov 16:10 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
 | 11 Nov 06:19 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
-| 10 Nov 12:39 | Microsoft .NET Desktop Runtime 6.0 (x64) | windows | x64 | 6.0.36.34217 | 6.0.36.34217 |
-| 10 Nov 12:39 | Microsoft .NET Desktop Runtime 7.0 (x64) | windows | x64 | 7.0.20.33720 | 7.0.20.33720 |
-| 10 Nov 12:39 | Microsoft .NET Desktop Runtime 8.0 (x64) | windows | x64 | 8.0.33.36622 | 8.0.33.36622 |
-| 10 Nov 12:39 | Microsoft .NET Runtime 10.0 (arm64) | windows | arm64 | 10.0.14.36622 | 10.0.14.36622 |
-| 10 Nov 12:39 | Microsoft .NET Runtime 10.0 (x64) | windows | arm64, x64 | 10.0.14.36622 | 10.0.14.36622 |
-| 10 Nov 12:39 | Microsoft .NET Runtime 10.0 (x86) | windows | arm64, x64, x86 | 10.0.14.36622 | 10.0.14.36622 |
-| 10 Nov 12:39 | Microsoft .NET Runtime 6.0 (x64) | windows | x64 | 6.0.36.34214 | 6.0.36.34214 |
-| 10 Nov 12:39 | Microsoft .NET Runtime 6.0 (x86) | windows | arm64, x64, x86 | 6.0.36.34214 | 6.0.36.34214 |
-| 10 Nov 12:39 | Microsoft .NET Runtime 7.0 (x64) | windows | x64 | 7.0.20.33717 | 7.0.20.33717 |
-| 10 Nov 12:39 | Microsoft .NET Runtime 7.0 (x86) | windows | arm64, x64, x86 | 7.0.20.33717 | 7.0.20.33717 |
-| 10 Nov 12:39 | Microsoft .NET Runtime 8.0 (arm64) | windows | arm64 | 8.0.33.36622 | 8.0.33.36622 |
-| 10 Nov 12:39 | Microsoft .NET Runtime 8.0 (x64) | windows | x64 | 8.0.33.36622 | 8.0.33.36622 |
-| 10 Nov 12:39 | Microsoft .NET Runtime 8.0 (x86) | windows | arm64, x64, x86 | 8.0.33.36622 | 8.0.33.36622 |
-| 10 Nov 12:39 | Microsoft .NET Runtime 9.0 (arm64) | windows | arm64 | 9.0.22.36622 | 9.0.22.36622 |
-| 10 Nov 12:39 | Microsoft .NET Runtime 9.0 (x64) | windows | x64 | 9.0.22.36622 | 9.0.22.36622 |
-| 10 Nov 12:39 | Microsoft .NET Runtime 9.0 (x86) | windows | x64, x86 | 9.0.22.36622 | 9.0.22.36622 |
-| 10 Nov 12:39 | Microsoft ASP.NET Core Runtime 10.0 (arm64) | windows | arm64 | 10.0.14.36622 | 10.0.14.36622 |
-| 10 Nov 12:39 | Microsoft ASP.NET Core Runtime 10.0 (x64) | windows | arm64, x64 | 10.0.14.36622 | 10.0.14.36622 |
-| 10 Nov 12:39 | Microsoft ASP.NET Core Runtime 10.0 (x86) | windows | arm64, x64, x86 | 10.0.14.36622 | 10.0.14.36622 |
-| 10 Nov 12:39 | Microsoft ASP.NET Core Runtime 7.0 (x64) | windows | x64 | 7.0.20.24269 | 7.0.20.24269 |
-| 10 Nov 12:39 | Microsoft ASP.NET Core Runtime 7.0 (x86) | windows | arm64, x64, x86 | 7.0.20.24269 | 7.0.20.24269 |
-| 10 Nov 12:39 | Microsoft ASP.NET Core Runtime 8.0 (arm64) | windows | arm64 | 8.0.33.26523 | 8.0.33.26523 |
-| 10 Nov 12:39 | Microsoft ASP.NET Core Runtime 8.0 (x64) | windows | x64 | 8.0.33.26523 | 8.0.33.26523 |
-| 10 Nov 12:39 | Microsoft ASP.NET Core Runtime 8.0 (x86) | windows | arm64, x64, x86 | 8.0.33.26523 | 8.0.33.26523 |
-| 10 Nov 12:39 | Microsoft ASP.NET Core Runtime 9.0 (arm64) | windows | arm64 | 9.0.22.26523 | 9.0.22.26523 |
-| 10 Nov 12:39 | Microsoft ASP.NET Core Runtime 9.0 (x64) | windows | x64 | 9.0.22.26523 | 9.0.22.26523 |
-| 10 Nov 12:39 | Microsoft ASP.NET Core Runtime 9.0 (x86) | windows | x64, x86 | 9.0.22.26523 | 9.0.22.26523 |
-| 10 Nov 12:39 | The Document Foundation LibreOffice (x64) | windows | x64 | 26.8.2.2 | 26.8.2.2 |
 
 ## Removed packages
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 11 Nov 16:10 | Blender Foundation Blender | macos | arm64 | 5.3.0 | — |
+| 11 Nov 16:10 | TeamViewer Host | macos | arm64, x64 | 15.83.3 | — |
+| 11 Nov 16:10 | TeamViewer TeamViewer | macos | arm64, x64 | 15.83.3 | — |
+| 11 Nov 16:10 | Dell Dell Command Update | windows | x64 | 5.7.2 | — |
 | 11 Nov 06:19 | Postman Postman (ARM) | macos | arm64 | 12.36.1 | — |
 | 11 Nov 06:19 | Postman Postman (ARM) | macos | arm64 | 12.36.1 | — |
 | 11 Nov 06:19 | Postman Postman | macos | x64 | 12.36.1 | — |
@@ -382,10 +338,6 @@ First seen in the recorded gallery history, by vendor, product name and platform
 | 10 Nov 21:48 | Microsoft Powershell (x64) | windows | x64 | 7.6.9.0 | — |
 | 10 Nov 21:48 | dotPDN LLC Paint.NET (arm64) | windows | arm64 | 5.1.12 | — |
 | 10 Nov 21:48 | dotPDN LLC Paint.NET (x64) | windows | x64 | 5.1.12 | — |
-| 10 Nov 12:39 | Postman Postman (ARM) | macos | arm64 | 12.36.0 | — |
-| 10 Nov 12:39 | Postman Postman (ARM) | macos | arm64 | 12.36.0 | — |
-| 10 Nov 12:39 | Postman Postman | macos | x64 | 12.36.0 | — |
-| 10 Nov 12:39 | Postman Postman | macos | x64 | 12.36.0 | — |
 
 ## Renamed files
 
