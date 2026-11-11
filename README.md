@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 10 Nov 2026 21:48 UTC  
-**Observation window:** 09 Nov 2026 21:48 UTC to 10 Nov 2026 21:48 UTC
+**Last successful check:** 11 Nov 2026 06:19 UTC  
+**Observation window:** 10 Nov 2026 06:19 UTC to 11 Nov 2026 06:19 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 6 | 303 | 17 | 28 | 18 | 0 |
+| 6 | 291 | 9 | 29 | 13 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -29,6 +29,20 @@ First seen in the recorded gallery history, by vendor, product name and platform
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 11 Nov 06:19 | Anthropic PBC Claude | macos | arm64, x64 | 5.1231.0 | 5.1231.2 |
+| 11 Nov 06:19 | Microsoft Office 2019 | macos | arm64, x64 | 16.114.4 | 16.115 |
+| 11 Nov 06:19 | Microsoft Office 2019 with Teams | macos | arm64, x64 | 16.114.4 | 16.115 |
+| 11 Nov 06:19 | OpenAI OpCo, LLC ChatGPT Codex | macos | arm64 | 26.1103.60933 | 26.1106.51428 |
+| 11 Nov 06:19 | Adobe After Effects CC -- AUDIT ONLY | windows | arm64, x64, x86 | 26.5 | 27.0 |
+| 11 Nov 06:19 | Adobe Audition CC -- AUDIT ONLY | windows | arm64, x64, x86 | 26.5 | 27.0 |
+| 11 Nov 06:19 | Adobe Premiere Pro CC -- AUDIT ONLY | windows | arm64, x64, x86 | 26.5.2 | 27.0 |
+| 11 Nov 06:19 | Anthropic PBC Claude arm64 | windows | arm64 | 5.1231.0.0 | 5.1231.2.0 |
+| 11 Nov 06:19 | Anthropic PBC Claude x64 | windows | x64 | 5.1231.0.0 | 5.1231.2.0 |
+| 11 Nov 06:19 | Git Git (x64) | windows | x64 | 2.56.0.4 | 2.56.1 |
+| 11 Nov 06:19 | Microsoft Windows Terminal | windows | arm64, x64, x86 | 1.25.2733.0 | 1.25.3131.0 |
+| 11 Nov 06:19 | Postman Postman | windows | arm64, x64, x86 | 12.36.1.0 | 12.36.2.0 |
+| 11 Nov 06:19 | Vim Project Vim (arm64) | windows | arm64 | 9.2.1316 | 9.2.1320 |
+| 11 Nov 06:19 | Vim Project Vim (x64) | windows | x64 | 9.2.1316 | 9.2.1320 |
 | 10 Nov 21:48 | Anthropic PBC Claude | macos | arm64, x64 | 4.23118.1 | 5.1231.0 |
 | 10 Nov 21:48 | Blender Foundation Blender | macos | arm64 | 5.2.3 | 5.3.0 |
 | 10 Nov 21:48 | Brave Software, Inc Brave Browser | macos | arm64, x64 | 1.99.55 | 1.99.56 |
@@ -306,59 +320,26 @@ First seen in the recorded gallery history, by vendor, product name and platform
 | 10 Nov 12:39 | Vivaldi Technologies Vivaldi (32-bit) | windows | x86 | 8.3.4191.30 | 8.3.4191.35 |
 | 10 Nov 12:39 | Vivaldi Technologies Vivaldi (64-bit) | windows | x64 | 8.3.4191.30 | 8.3.4191.35 |
 | 10 Nov 12:39 | Vivaldi Technologies Vivaldi (arm64) | windows | arm64 | 8.3.4191.30 | 8.3.4191.35 |
-| 10 Nov 02:44 | Microsoft Edge (DPKG) | linux | x64 | 157.0.4341.42 | 157.0.4341.46 |
-| 10 Nov 02:44 | Anthropic PBC Claude | macos | arm64, x64 | 4.23118.0 | 4.23118.1 |
-| 10 Nov 02:44 | Anysphere Cursor arm64 | macos | arm64 | 3.29.9 | 3.29.15 |
-| 10 Nov 02:44 | Anysphere Cursor x64 | macos | x64 | 3.29.9 | 3.29.15 |
-| 10 Nov 02:44 | Google Chrome | macos | arm64, x64 | 157.0.8103.39 | 157.0.8103.51 |
-| 10 Nov 02:44 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.39.6.0 | 2.39.7.0 |
-| 10 Nov 02:44 | Anthropic PBC Claude arm64 | windows | arm64 | 4.23118.0.0 | 4.23118.1.0 |
-| 10 Nov 02:44 | Anthropic PBC Claude x64 | windows | x64 | 4.23118.0.0 | 4.23118.1.0 |
-| 10 Nov 02:44 | Anysphere Cursor arm64 (Active User) | windows | arm64 | 3.29.9 | 3.29.15 |
-| 10 Nov 02:44 | Anysphere Cursor arm64 | windows | arm64 | 3.29.9 | 3.29.15 |
-| 10 Nov 02:44 | Anysphere Cursor x64 (Active User) | windows | x64 | 3.29.9 | 3.29.15 |
-| 10 Nov 02:44 | Anysphere Cursor x64 | windows | x64 | 3.29.9 | 3.29.15 |
-| 10 Nov 02:44 | Google Chrome ARM64 | windows | arm64 | 157.0.8103.39 | 157.0.8103.51 |
-| 10 Nov 02:44 | Google Chrome x86 | windows | x64, x86 | 157.0.8103.39 | 157.0.8103.51 |
-| 10 Nov 02:44 | Google Chrome x86 | windows | arm64, x64, x86 | 157.0.8103.39 | 157.0.8103.51 |
-| 10 Nov 02:44 | Microsoft Edge x86 | windows | x86 | 157.0.4341.42 | 157.0.4341.46 |
-| 10 Nov 02:44 | Microsoft Teams (DoD) | windows | x64 | 26276.513.5241.9675 | 26288.2004.5269.3420 |
-| 10 Nov 02:44 | Microsoft Teams x64 (GCC) | windows | x64 | 26276.513.5241.9675 | 26288.2004.5269.3420 |
-| 10 Nov 02:44 | Microsoft Teams x64 (GCC High) | windows | x64 | 26276.513.5241.9675 | 26288.2004.5269.3420 |
-| 10 Nov 02:44 | Microsoft Teams x64 | windows | x64 | 26276.513.5241.9675 | 26288.2004.5269.3420 |
-| 10 Nov 02:44 | Microsoft Windows Subsystem for Linux (arm64) | windows | arm64 | 3.0.3.0 | 3.0.5.0 |
-| 10 Nov 02:44 | Microsoft Windows Subsystem for Linux (x64) | windows | x64 | 3.0.3.0 | 3.0.5.0 |
-| 10 Nov 02:44 | OpenAI OpCo, LLC ChatGPT Codex (arm64) | windows | arm64 | 26.1103.4239.0 | 26.1103.7773.0 |
-| 10 Nov 02:44 | OpenAI OpCo, LLC ChatGPT Codex (x64) | windows | x64 | 26.1103.4239.0 | 26.1103.7773.0 |
-| 10 Nov 02:44 | Slack Slack ARM64 | windows | arm64 | 4.53.280.0 | 4.53.287.0 |
-| 10 Nov 02:44 | Slack Slack x64 | windows | x64 | 4.53.280.0 | 4.53.287.0 |
 
 ## Other additions (previously seen products or supporting files)
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 11 Nov 06:19 | Postman Postman (ARM) | macos | arm64 | — | 12.36.2 |
+| 11 Nov 06:19 | Postman Postman (ARM) | macos | arm64 | — | 12.36.2 |
+| 11 Nov 06:19 | Postman Postman | macos | x64 | — | 12.36.2 |
+| 11 Nov 06:19 | Postman Postman | macos | x64 | — | 12.36.2 |
 | 10 Nov 21:48 | Citrix Systems, Inc. Citrix Workspace | windows | x86 | — | 26.7.1.4 |
 | 10 Nov 12:39 | Postman Postman (ARM) | macos | arm64 | — | 12.36.1 |
 | 10 Nov 12:39 | Postman Postman (ARM) | macos | arm64 | — | 12.36.1 |
 | 10 Nov 12:39 | Postman Postman | macos | x64 | — | 12.36.1 |
 | 10 Nov 12:39 | Postman Postman | macos | x64 | — | 12.36.1 |
-| 10 Nov 02:44 | Microsoft Edge | macos | arm64, x64 | — | 157.0.4341.46 |
-| 10 Nov 02:44 | Microsoft Edge | macos | arm64, x64 | — | 157.0.4341.46 |
-| 10 Nov 02:44 | iterate GmbH Cyberduck | macos | arm64, x64 | — | 9.6.0 |
-| 10 Nov 02:44 | Google Chrome x64 | windows | x64 | — | 157.0.8103.51 |
-| 10 Nov 02:44 | Google Chrome x64 | windows | x64 | — | 157.0.8103.51 |
-| 10 Nov 02:44 | Microsoft Edge WebView2 arm64 | windows | arm64 | — | 157.0.4341.46 |
-| 10 Nov 02:44 | Microsoft Edge WebView2 arm64 | windows | arm64 | — | 157.0.4341.46 |
-| 10 Nov 02:44 | Microsoft Edge WebView2 x64 | windows | x64 | — | 157.0.4341.46 |
-| 10 Nov 02:44 | Microsoft Edge WebView2 x64 | windows | x64 | — | 157.0.4341.46 |
-| 10 Nov 02:44 | Microsoft Edge WebView2 x86 | windows | x86 | — | 157.0.4341.46 |
-| 10 Nov 02:44 | Microsoft Edge WebView2 x86 | windows | x86 | — | 157.0.4341.46 |
-| 10 Nov 02:44 | iterate GmbH Cyberduck | windows | arm64, x64 | — | 9.6.0 |
 
 ## Definition changes
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 11 Nov 06:19 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
 | 10 Nov 12:39 | Microsoft .NET Desktop Runtime 6.0 (x64) | windows | x64 | 6.0.36.34217 | 6.0.36.34217 |
 | 10 Nov 12:39 | Microsoft .NET Desktop Runtime 7.0 (x64) | windows | x64 | 7.0.20.33720 | 7.0.20.33720 |
 | 10 Nov 12:39 | Microsoft .NET Desktop Runtime 8.0 (x64) | windows | x64 | 8.0.33.36622 | 8.0.33.36622 |
@@ -392,6 +373,11 @@ First seen in the recorded gallery history, by vendor, product name and platform
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 11 Nov 06:19 | Postman Postman (ARM) | macos | arm64 | 12.36.1 | — |
+| 11 Nov 06:19 | Postman Postman (ARM) | macos | arm64 | 12.36.1 | — |
+| 11 Nov 06:19 | Postman Postman | macos | x64 | 12.36.1 | — |
+| 11 Nov 06:19 | Postman Postman | macos | x64 | 12.36.1 | — |
+| 11 Nov 06:19 | Adobe InDesign CC -- AUDIT ONLY | windows | arm64, x64, x86 | 21.6 | — |
 | 10 Nov 21:48 | Microsoft Powershell (arm64) | windows | arm64 | 7.6.9.0 | — |
 | 10 Nov 21:48 | Microsoft Powershell (x64) | windows | x64 | 7.6.9.0 | — |
 | 10 Nov 21:48 | dotPDN LLC Paint.NET (arm64) | windows | arm64 | 5.1.12 | — |
@@ -400,16 +386,6 @@ First seen in the recorded gallery history, by vendor, product name and platform
 | 10 Nov 12:39 | Postman Postman (ARM) | macos | arm64 | 12.36.0 | — |
 | 10 Nov 12:39 | Postman Postman | macos | x64 | 12.36.0 | — |
 | 10 Nov 12:39 | Postman Postman | macos | x64 | 12.36.0 | — |
-| 10 Nov 02:44 | Microsoft Edge | macos | arm64, x64 | 157.0.4341.42 | — |
-| 10 Nov 02:44 | Microsoft Edge | macos | arm64, x64 | 157.0.4341.42 | — |
-| 10 Nov 02:44 | Google Chrome x64 | windows | x64 | 157.0.8103.39 | — |
-| 10 Nov 02:44 | Google Chrome x64 | windows | x64 | 157.0.8103.39 | — |
-| 10 Nov 02:44 | Microsoft Edge WebView2 arm64 | windows | arm64 | 157.0.4341.42 | — |
-| 10 Nov 02:44 | Microsoft Edge WebView2 arm64 | windows | arm64 | 157.0.4341.42 | — |
-| 10 Nov 02:44 | Microsoft Edge WebView2 x64 | windows | x64 | 157.0.4341.42 | — |
-| 10 Nov 02:44 | Microsoft Edge WebView2 x64 | windows | x64 | 157.0.4341.42 | — |
-| 10 Nov 02:44 | Microsoft Edge WebView2 x86 | windows | x86 | 157.0.4341.42 | — |
-| 10 Nov 02:44 | Microsoft Edge WebView2 x86 | windows | x86 | 157.0.4341.42 | — |
 
 ## Renamed files
 
