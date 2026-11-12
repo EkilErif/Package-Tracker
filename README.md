@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 11 Nov 2026 22:41 UTC  
-**Observation window:** 10 Nov 2026 22:41 UTC to 11 Nov 2026 22:41 UTC
+**Last successful check:** 12 Nov 2026 07:10 UTC  
+**Observation window:** 11 Nov 2026 07:10 UTC to 12 Nov 2026 07:10 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 45 | 7 | 2 | 11 | 0 |
+| 0 | 38 | 3 | 1 | 6 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,6 +22,13 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 12 Nov 07:10 | Signal Messenger, LLC Signal | macos | arm64, x64 | 8.34.0 | 8.35.0 |
+| 12 Nov 07:10 | Slack Slack | macos | arm64, x64 | 4.53.283 | 4.53.287 |
+| 12 Nov 07:10 | Notepad++ Team Notepad++ 32-bit | windows | arm64, x64, x86 | 8.9.9 | 8.9.9.1 |
+| 12 Nov 07:10 | Notepad++ Team Notepad++ 64-bit | windows | arm64, x64 | 8.9.9 | 8.9.9.1 |
+| 12 Nov 07:10 | Notepad++ Team Notepad++ ARM | windows | arm64 | 8.9.9 | 8.9.9.1 |
+| 12 Nov 07:10 | Signal Messenger, LLC Signal (Active User) | windows | x64 | 8.34.0 | 8.35.0 |
+| 12 Nov 07:10 | XMind Ltd. Xmind (Active User) (x64) | windows | x64 | 27.1.5087 | 27.1.5088 |
 | 11 Nov 22:41 | Google Chrome | macos | arm64, x64 | 157.0.8103.51 | 157.0.8103.79 |
 | 11 Nov 22:41 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.40.0.0 | 2.40.1.0 |
 | 11 Nov 22:41 | Devolutions Inc. Remote Desktop Manager | windows | x64 | 2026.3.17.0 | 2026.3.18.0 |
@@ -53,20 +60,6 @@ None detected in this window.
 | 11 Nov 16:10 | OpenAI OpCo, LLC ChatGPT Codex (arm64) | windows | arm64 | 26.1103.7773.0 | 26.1106.6628.0 |
 | 11 Nov 16:10 | OpenAI OpCo, LLC ChatGPT Codex (x64) | windows | x64 | 26.1103.7773.0 | 26.1106.6628.0 |
 | 11 Nov 16:10 | Viber Media S.a.r.l. Viber (Active User) | windows | arm64, x64 | 29.4.0.0 | 29.5.0.0 |
-| 11 Nov 06:19 | Anthropic PBC Claude | macos | arm64, x64 | 5.1231.0 | 5.1231.2 |
-| 11 Nov 06:19 | Microsoft Office 2019 | macos | arm64, x64 | 16.114.4 | 16.115 |
-| 11 Nov 06:19 | Microsoft Office 2019 with Teams | macos | arm64, x64 | 16.114.4 | 16.115 |
-| 11 Nov 06:19 | OpenAI OpCo, LLC ChatGPT Codex | macos | arm64 | 26.1103.60933 | 26.1106.51428 |
-| 11 Nov 06:19 | Adobe After Effects CC -- AUDIT ONLY | windows | arm64, x64, x86 | 26.5 | 27.0 |
-| 11 Nov 06:19 | Adobe Audition CC -- AUDIT ONLY | windows | arm64, x64, x86 | 26.5 | 27.0 |
-| 11 Nov 06:19 | Adobe Premiere Pro CC -- AUDIT ONLY | windows | arm64, x64, x86 | 26.5.2 | 27.0 |
-| 11 Nov 06:19 | Anthropic PBC Claude arm64 | windows | arm64 | 5.1231.0.0 | 5.1231.2.0 |
-| 11 Nov 06:19 | Anthropic PBC Claude x64 | windows | x64 | 5.1231.0.0 | 5.1231.2.0 |
-| 11 Nov 06:19 | Git Git (x64) | windows | x64 | 2.56.0.4 | 2.56.1 |
-| 11 Nov 06:19 | Microsoft Windows Terminal | windows | arm64, x64, x86 | 1.25.2733.0 | 1.25.3131.0 |
-| 11 Nov 06:19 | Postman Postman | windows | arm64, x64, x86 | 12.36.1.0 | 12.36.2.0 |
-| 11 Nov 06:19 | Vim Project Vim (arm64) | windows | arm64 | 9.2.1316 | 9.2.1320 |
-| 11 Nov 06:19 | Vim Project Vim (x64) | windows | x64 | 9.2.1316 | 9.2.1320 |
 
 ## Other additions (previously seen products or supporting files)
 
@@ -75,17 +68,12 @@ None detected in this window.
 | 11 Nov 22:41 | Dell Dell Command Update | windows | x64 | — | 5.7.2 |
 | 11 Nov 22:41 | Google Chrome x64 | windows | x64 | — | 157.0.8103.79 |
 | 11 Nov 22:41 | Google Chrome x64 | windows | x64 | — | 157.0.8103.79 |
-| 11 Nov 06:19 | Postman Postman (ARM) | macos | arm64 | — | 12.36.2 |
-| 11 Nov 06:19 | Postman Postman (ARM) | macos | arm64 | — | 12.36.2 |
-| 11 Nov 06:19 | Postman Postman | macos | x64 | — | 12.36.2 |
-| 11 Nov 06:19 | Postman Postman | macos | x64 | — | 12.36.2 |
 
 ## Definition changes
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
 | 11 Nov 16:10 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
-| 11 Nov 06:19 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
 
 ## Removed packages
 
@@ -97,11 +85,6 @@ None detected in this window.
 | 11 Nov 16:10 | TeamViewer Host | macos | arm64, x64 | 15.83.3 | — |
 | 11 Nov 16:10 | TeamViewer TeamViewer | macos | arm64, x64 | 15.83.3 | — |
 | 11 Nov 16:10 | Dell Dell Command Update | windows | x64 | 5.7.2 | — |
-| 11 Nov 06:19 | Postman Postman (ARM) | macos | arm64 | 12.36.1 | — |
-| 11 Nov 06:19 | Postman Postman (ARM) | macos | arm64 | 12.36.1 | — |
-| 11 Nov 06:19 | Postman Postman | macos | x64 | 12.36.1 | — |
-| 11 Nov 06:19 | Postman Postman | macos | x64 | 12.36.1 | — |
-| 11 Nov 06:19 | Adobe InDesign CC -- AUDIT ONLY | windows | arm64, x64, x86 | 21.6 | — |
 
 ## Renamed files
 
