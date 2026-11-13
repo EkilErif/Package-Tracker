@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 13 Nov 2026 01:05 UTC  
-**Observation window:** 12 Nov 2026 01:05 UTC to 13 Nov 2026 01:05 UTC
+**Last successful check:** 13 Nov 2026 12:12 UTC  
+**Observation window:** 12 Nov 2026 12:12 UTC to 13 Nov 2026 12:12 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 70 | 49 | 11 | 2 | 39 | 0 |
+| 70 | 60 | 59 | 3 | 51 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -93,6 +93,24 @@ First seen in the recorded gallery history, by vendor, product name and platform
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 13 Nov 12:12 | Microsoft Edge (DPKG) | linux | x64 | 157.0.4341.46 | 157.0.4341.57 |
+| 13 Nov 12:12 | Anthropic PBC Claude | macos | arm64, x64 | 5.11492.0 | 5.11492.2 |
+| 13 Nov 12:12 | Cognition Devin Desktop | macos | arm64 | 3.12.57 | 3.12.59 |
+| 13 Nov 12:12 | Notion Notion | macos | arm64, x64 | 7.43.0 | 7.43.2 |
+| 13 Nov 12:12 | OpenAI OpCo, LLC ChatGPT Codex | macos | arm64 | 26.1106.51428 | 26.1111.21308 |
+| 13 Nov 12:12 | Vivaldi Technologies Vivaldi | macos | arm64, x64 | 8.3.4191.35 | 8.3.4191.44 |
+| 13 Nov 12:12 | WhatsApp LLC WhatsApp | macos | arm64, x64 | 26.45.21 | 26.45.23 |
+| 13 Nov 12:12 | Anthropic PBC Claude arm64 | windows | arm64 | 5.11492.0.0 | 5.11492.2.0 |
+| 13 Nov 12:12 | Anthropic PBC Claude x64 | windows | x64 | 5.11492.0.0 | 5.11492.2.0 |
+| 13 Nov 12:12 | Microsoft Edge arm64 | windows | arm64 | 157.0.4341.46 | 157.0.4341.57 |
+| 13 Nov 12:12 | Microsoft Edge x64 | windows | x64 | 157.0.4341.46 | 157.0.4341.57 |
+| 13 Nov 12:12 | Microsoft Edge x86 | windows | x86 | 157.0.4341.46 | 157.0.4341.57 |
+| 13 Nov 12:12 | Notion Notion arm64 (Active User) | windows | arm64 | 7.43.1.0 | 7.43.2.0 |
+| 13 Nov 12:12 | Notion Notion x64 (Active User) | windows | x64 | 7.43.1.0 | 7.43.2.0 |
+| 13 Nov 12:12 | Postman Postman | windows | arm64, x64, x86 | 12.36.3.0 | 12.36.4.0 |
+| 13 Nov 12:12 | Vivaldi Technologies Vivaldi (32-bit) | windows | x86 | 8.3.4191.35 | 8.3.4191.44 |
+| 13 Nov 12:12 | Vivaldi Technologies Vivaldi (64-bit) | windows | x64 | 8.3.4191.35 | 8.3.4191.44 |
+| 13 Nov 12:12 | Vivaldi Technologies Vivaldi (arm64) | windows | arm64 | 8.3.4191.35 | 8.3.4191.44 |
 | 13 Nov 01:05 | Anysphere Cursor arm64 | macos | arm64 | 3.29.15 | 3.30.8 |
 | 13 Nov 01:05 | Anysphere Cursor x64 | macos | x64 | 3.29.15 | 3.30.8 |
 | 13 Nov 01:05 | Brave Software, Inc Brave Browser | macos | arm64, x64 | 1.99.56 | 1.99.57 |
@@ -135,18 +153,59 @@ First seen in the recorded gallery history, by vendor, product name and platform
 | 12 Nov 16:47 | Postman Postman | windows | arm64, x64, x86 | 12.36.2.0 | 12.36.3.0 |
 | 12 Nov 16:47 | The Document Foundation LibreOffice (arm64) | windows | arm64 | 26.8.2.2 | 26.8.3.1 |
 | 12 Nov 16:47 | The Document Foundation LibreOffice (x64) | windows | x64 | 26.8.2.2 | 26.8.3.1 |
-| 12 Nov 07:10 | Signal Messenger, LLC Signal | macos | arm64, x64 | 8.34.0 | 8.35.0 |
-| 12 Nov 07:10 | Slack Slack | macos | arm64, x64 | 4.53.283 | 4.53.287 |
-| 12 Nov 07:10 | Notepad++ Team Notepad++ 32-bit | windows | arm64, x64, x86 | 8.9.9 | 8.9.9.1 |
-| 12 Nov 07:10 | Notepad++ Team Notepad++ 64-bit | windows | arm64, x64 | 8.9.9 | 8.9.9.1 |
-| 12 Nov 07:10 | Notepad++ Team Notepad++ ARM | windows | arm64 | 8.9.9 | 8.9.9.1 |
-| 12 Nov 07:10 | Signal Messenger, LLC Signal (Active User) | windows | x64 | 8.34.0 | 8.35.0 |
-| 12 Nov 07:10 | XMind Ltd. Xmind (Active User) (x64) | windows | x64 | 27.1.5087 | 27.1.5088 |
 
 ## Other additions (previously seen products or supporting files)
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 13 Nov 12:12 | Microsoft Edge | macos | arm64, x64 | — | 157.0.4341.57 |
+| 13 Nov 12:12 | Microsoft Edge | macos | arm64, x64 | — | 157.0.4341.57 |
+| 13 Nov 12:12 | Postman Postman (ARM) | macos | arm64 | — | 12.36.4 |
+| 13 Nov 12:12 | Postman Postman (ARM) | macos | arm64 | — | 12.36.4 |
+| 13 Nov 12:12 | Postman Postman | macos | x64 | — | 12.36.4 |
+| 13 Nov 12:12 | Postman Postman | macos | x64 | — | 12.36.4 |
+| 13 Nov 12:12 | Dell Dell Command Update | windows | x64 | — | 5.7.2 |
+| 13 Nov 12:12 | Microsoft Edge WebView2 arm64 | windows | arm64 | — | 157.0.4341.57 |
+| 13 Nov 12:12 | Microsoft Edge WebView2 arm64 | windows | arm64 | — | 157.0.4341.57 |
+| 13 Nov 12:12 | Microsoft Edge WebView2 x64 | windows | x64 | — | 157.0.4341.57 |
+| 13 Nov 12:12 | Microsoft Edge WebView2 x64 | windows | x64 | — | 157.0.4341.57 |
+| 13 Nov 12:12 | Microsoft Edge WebView2 x86 | windows | x86 | — | 157.0.4341.57 |
+| 13 Nov 12:12 | Microsoft Edge WebView2 x86 | windows | x86 | — | 157.0.4341.57 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Current Channel (x64) - Pre-Cache | windows | arm64, x64 | — | 16.0.20527.20196 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Current Channel (x64) | windows | arm64, x64 | — | 16.0.20527.20196 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Current Channel (x86) - Pre-Cache | windows | x64, x86 | — | 16.0.20527.20196 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Current Channel (x86) | windows | x64, x86 | — | 16.0.20527.20196 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x64) (N-1) - Pre-Cache | windows | arm64, x64 | — | 16.0.20430.20264 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x64) (N-1) | windows | arm64, x64 | — | 16.0.20430.20264 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x64) (N-2) - Pre-Cache | windows | arm64, x64 | — | 16.0.20326.20320 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x64) (N-2) | windows | arm64, x64 | — | 16.0.20326.20320 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x64) - Pre-Cache | windows | arm64, x64 | — | 16.0.20527.20194 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x64) | windows | arm64, x64 | — | 16.0.20527.20194 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x86) (N-1) - Pre-Cache | windows | x64, x86 | — | 16.0.20430.20264 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x86) (N-1) | windows | x64, x86 | — | 16.0.20430.20264 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x86) (N-2) - Pre-Cache | windows | x64, x86 | — | 16.0.20326.20320 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x86) (N-2) | windows | x64, x86 | — | 16.0.20326.20320 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x86) - Pre-Cache | windows | x64, x86 | — | 16.0.20527.20194 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x86) | windows | x64, x86 | — | 16.0.20527.20194 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Office 2019 Perpetual Enterprise (x64) - Pre-Cache | windows | arm64, x64 | — | 16.0.10417.20236 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Office 2019 Perpetual Enterprise (x64) | windows | arm64, x64 | — | 16.0.10417.20236 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Office 2019 Perpetual Enterprise (x86) - Pre-Cache | windows | x64, x86 | — | 16.0.10417.20236 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Office 2019 Perpetual Enterprise (x86) | windows | x64, x86 | — | 16.0.10417.20236 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Office 2021 Perpetual Enterprise (x64) - Pre-Cache | windows | arm64, x64 | — | 16.0.14334.21048 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Office 2021 Perpetual Enterprise (x64) | windows | arm64, x64 | — | 16.0.14334.21048 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Office 2021 Perpetual Enterprise (x86) - Pre-Cache | windows | x64, x86 | — | 16.0.14334.21048 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Office 2021 Perpetual Enterprise (x86) | windows | x64, x86 | — | 16.0.14334.21048 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Office 2024 Perpetual Enterprise (x64) - Pre-Cache | windows | arm64, x64 | — | 16.0.17932.21140 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Office 2024 Perpetual Enterprise (x64) | windows | arm64, x64 | — | 16.0.17932.21140 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Office 2024 Perpetual Enterprise (x86) - Pre-Cache | windows | x64, x86 | — | 16.0.17932.21140 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Office 2024 Perpetual Enterprise (x86) | windows | x64, x86 | — | 16.0.17932.21140 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Semi-Annual Enterprise Channel (x64) - Pre-Cache | windows | arm64, x64 | — | 16.0.20527.20192 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Semi-Annual Enterprise Channel (x64) | windows | arm64, x64 | — | 16.0.20527.20192 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Semi-Annual Enterprise Channel (x86) - Pre-Cache | windows | x64, x86 | — | 16.0.20527.20192 |
+| 13 Nov 12:12 | Microsoft Office Click-to-Run Semi-Annual Enterprise Channel (x86) | windows | x64, x86 | — | 16.0.20527.20192 |
+| 13 Nov 12:12 | Microsoft Powershell (arm64) | windows | arm64 | — | 7.6.10.0 |
+| 13 Nov 12:12 | Microsoft Powershell (x64) | windows | x64 | — | 7.6.10.0 |
+| 13 Nov 12:12 | Microsoft Powershell (x86) | windows | x86 | — | 7.6.10.0 |
 | 13 Nov 01:05 | Dell Dell Command Update for Windows Universal (ARM) | windows | arm64 | — | 5.7.1 |
 | 13 Nov 01:05 | OBS Studio OBS Studio | windows | x64 | — | 33.0.1 |
 | 12 Nov 16:47 | Blender Foundation Blender | macos | arm64 | — | 5.3.0 |
@@ -163,6 +222,7 @@ First seen in the recorded gallery history, by vendor, product name and platform
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 13 Nov 12:12 | Microsoft Latest Cumulative Update for Windows 11 Version 26H1 for arm64-based Systems | windows | arm64 | 28000.3501 | 28000.3501 |
 | 12 Nov 16:47 | Brave Software, Inc Brave Browser (Active User) (x64) | windows | x64 | 1.99.56 | 1.99.56 |
 | 12 Nov 16:47 | Brave Software, Inc Brave Browser (Active User) (x86) | windows | x86 | 1.99.56 | 1.99.56 |
 
@@ -170,6 +230,18 @@ First seen in the recorded gallery history, by vendor, product name and platform
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 13 Nov 12:12 | Microsoft Edge | macos | arm64, x64 | 157.0.4341.46 | — |
+| 13 Nov 12:12 | Microsoft Edge | macos | arm64, x64 | 157.0.4341.46 | — |
+| 13 Nov 12:12 | Postman Postman (ARM) | macos | arm64 | 12.36.3 | — |
+| 13 Nov 12:12 | Postman Postman (ARM) | macos | arm64 | 12.36.3 | — |
+| 13 Nov 12:12 | Postman Postman | macos | x64 | 12.36.3 | — |
+| 13 Nov 12:12 | Postman Postman | macos | x64 | 12.36.3 | — |
+| 13 Nov 12:12 | Microsoft Edge WebView2 arm64 | windows | arm64 | 157.0.4341.46 | — |
+| 13 Nov 12:12 | Microsoft Edge WebView2 arm64 | windows | arm64 | 157.0.4341.46 | — |
+| 13 Nov 12:12 | Microsoft Edge WebView2 x64 | windows | x64 | 157.0.4341.46 | — |
+| 13 Nov 12:12 | Microsoft Edge WebView2 x64 | windows | x64 | 157.0.4341.46 | — |
+| 13 Nov 12:12 | Microsoft Edge WebView2 x86 | windows | x86 | 157.0.4341.46 | — |
+| 13 Nov 12:12 | Microsoft Edge WebView2 x86 | windows | x86 | 157.0.4341.46 | — |
 | 13 Nov 01:05 | Dell Dell Command Update | windows | x64 | 5.7.2 | — |
 | 13 Nov 01:05 | Microsoft Office Click-to-Run Current Channel (x64) - Pre-Cache | windows | arm64, x64 | 16.0.20527.20196 | — |
 | 13 Nov 01:05 | Microsoft Office Click-to-Run Current Channel (x64) | windows | arm64, x64 | 16.0.20527.20196 | — |
