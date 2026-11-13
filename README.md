@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 12 Nov 2026 16:48 UTC  
-**Observation window:** 11 Nov 2026 16:48 UTC to 12 Nov 2026 16:48 UTC
+**Last successful check:** 13 Nov 2026 01:05 UTC  
+**Observation window:** 12 Nov 2026 01:05 UTC to 13 Nov 2026 01:05 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 70 | 42 | 12 | 2 | 8 | 0 |
+| 70 | 49 | 11 | 2 | 39 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -93,6 +93,34 @@ First seen in the recorded gallery history, by vendor, product name and platform
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 13 Nov 01:05 | Anysphere Cursor arm64 | macos | arm64 | 3.29.15 | 3.30.8 |
+| 13 Nov 01:05 | Anysphere Cursor x64 | macos | x64 | 3.29.15 | 3.30.8 |
+| 13 Nov 01:05 | Brave Software, Inc Brave Browser | macos | arm64, x64 | 1.99.56 | 1.99.57 |
+| 13 Nov 01:05 | Cognition Devin Desktop | macos | arm64 | 3.12.43 | 3.12.57 |
+| 13 Nov 01:05 | Figma, Inc. Figma | macos | arm64 | 126.11.8 | 126.11.9 |
+| 13 Nov 01:05 | Posit Software, PBC RStudio Desktop Pro | macos | arm64, x64 | 2026.10.1+239.pro3 | 2026.11.0+203.pro4 |
+| 13 Nov 01:05 | Posit Software, PBC RStudio | macos | arm64, x64 | 2026.10.1+239 | 2026.11.0+203 |
+| 13 Nov 01:05 | ScreenMeet ScreenMeet Remote Support | macos | arm64, x64 | 3.132 | 3.141 |
+| 13 Nov 01:05 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.40.1.0 | 2.40.2.0 |
+| 13 Nov 01:05 | Anysphere Cursor arm64 (Active User) | windows | arm64 | 3.29.15 | 3.30.8 |
+| 13 Nov 01:05 | Anysphere Cursor arm64 | windows | arm64 | 3.29.15 | 3.30.8 |
+| 13 Nov 01:05 | Anysphere Cursor x64 (Active User) | windows | x64 | 3.29.15 | 3.30.8 |
+| 13 Nov 01:05 | Anysphere Cursor x64 | windows | x64 | 3.29.15 | 3.30.8 |
+| 13 Nov 01:05 | Brave Software, Inc Brave Browser (Active User) (arm64) | windows | arm64 | 1.99.56 | 1.99.57 |
+| 13 Nov 01:05 | Brave Software, Inc Brave Browser (Active User) (x64) | windows | x64 | 1.99.56 | 1.99.57 |
+| 13 Nov 01:05 | Brave Software, Inc Brave Browser (Active User) (x86) | windows | x86 | 1.99.56 | 1.99.57 |
+| 13 Nov 01:05 | Cognition Devin Desktop (arm64) | windows | arm64 | 3.12.43 | 3.12.59 |
+| 13 Nov 01:05 | Cognition Devin Desktop (x64) | windows | x64 | 3.12.43 | 3.12.59 |
+| 13 Nov 01:05 | Figma, Inc. Figma (Active User) | windows | arm64, x64 | 126.10.13 | 126.11.9 |
+| 13 Nov 01:05 | Figma, Inc. Figma | windows | arm64, x64 | 126.10.13 | 126.11.9 |
+| 13 Nov 01:05 | GitHub GitHub CLI (arm64) | windows | arm64 | 2.103.3 | 2.104.0 |
+| 13 Nov 01:05 | GitHub GitHub CLI (x64) | windows | x64 | 2.103.3 | 2.104.0 |
+| 13 Nov 01:05 | Posit Software, PBC RStudio Desktop Pro | windows | x64 | 2026.10.1+239.pro3 | 2026.11.0+203.pro4 |
+| 13 Nov 01:05 | Posit Software, PBC RStudio | windows | x64 | 2026.10.1+239 | 2026.11.0+203 |
+| 13 Nov 01:05 | Rocket.Chat Rocket.Chat (Active User) x64 | windows | x64 | 4.19.2 | 4.19.3 |
+| 13 Nov 01:05 | Rocket.Chat Rocket.Chat (Active User) x86 | windows | x86 | 4.19.2 | 4.19.3 |
+| 13 Nov 01:05 | Rocket.Chat Rocket.Chat (All Users) x64 | windows | x64 | 4.19.2 | 4.19.3 |
+| 13 Nov 01:05 | Rocket.Chat Rocket.Chat (All Users) x86 | windows | x86 | 4.19.2 | 4.19.3 |
 | 12 Nov 16:47 | Aircall Aircall Workspace (ARM) | macos | arm64 | 1.19.0 | 1.19.1 |
 | 12 Nov 16:47 | Aircall Aircall Workspace (Intel) | macos | x64 | 1.19.0 | 1.19.1 |
 | 12 Nov 16:47 | Anthropic PBC Claude | macos | arm64, x64 | 5.1231.2 | 5.11492.0 |
@@ -114,32 +142,13 @@ First seen in the recorded gallery history, by vendor, product name and platform
 | 12 Nov 07:10 | Notepad++ Team Notepad++ ARM | windows | arm64 | 8.9.9 | 8.9.9.1 |
 | 12 Nov 07:10 | Signal Messenger, LLC Signal (Active User) | windows | x64 | 8.34.0 | 8.35.0 |
 | 12 Nov 07:10 | XMind Ltd. Xmind (Active User) (x64) | windows | x64 | 27.1.5087 | 27.1.5088 |
-| 11 Nov 22:41 | Google Chrome | macos | arm64, x64 | 157.0.8103.51 | 157.0.8103.79 |
-| 11 Nov 22:41 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.40.0.0 | 2.40.1.0 |
-| 11 Nov 22:41 | Devolutions Inc. Remote Desktop Manager | windows | x64 | 2026.3.17.0 | 2026.3.18.0 |
-| 11 Nov 22:41 | Freeplane Freeplane | windows | x64 | 1.13.4 | 1.13.5 |
-| 11 Nov 22:41 | Google Chrome ARM64 | windows | arm64 | 157.0.8103.51 | 157.0.8103.79 |
-| 11 Nov 22:41 | Google Chrome x86 | windows | x64, x86 | 157.0.8103.51 | 157.0.8103.79 |
-| 11 Nov 22:41 | Google Chrome x86 | windows | arm64, x64, x86 | 157.0.8103.51 | 157.0.8103.79 |
-| 11 Nov 22:41 | Node.js Foundation Node.js 22 (arm64) | windows | arm64 | 22.23.4 | 22.23.5 |
-| 11 Nov 22:41 | Node.js Foundation Node.js 22 (x64) | windows | x64 | 22.23.4 | 22.23.5 |
-| 11 Nov 22:41 | Node.js Foundation Node.js 22 (x86) | windows | x64, x86 | 22.23.4 | 22.23.5 |
-| 11 Nov 22:41 | Node.js Foundation Node.js 24 (arm64) | windows | arm64 | 24.22.2 | 24.22.3 |
-| 11 Nov 22:41 | Node.js Foundation Node.js 24 (x64) | windows | x64 | 24.22.2 | 24.22.3 |
-| 11 Nov 22:41 | Node.js Foundation Node.js 26 (arm64) | windows | arm64 | 26.13.0 | 26.13.1 |
-| 11 Nov 22:41 | Node.js Foundation Node.js 26 (x64) | windows | x64 | 26.13.0 | 26.13.1 |
-| 11 Nov 22:41 | Node.js Foundation Node.js Current arm64 | windows | arm64 | 26.13.0 | 26.13.1 |
-| 11 Nov 22:41 | Node.js Foundation Node.js Current x64 | windows | x64 | 26.13.0 | 26.13.1 |
-| 11 Nov 22:41 | Node.js Foundation Node.js LTS arm64 | windows | arm64 | 26.13.0 | 26.13.1 |
-| 11 Nov 22:41 | Node.js Foundation Node.js LTS x64 | windows | x64 | 26.13.0 | 26.13.1 |
-| 11 Nov 22:41 | Node.js Foundation Node.js LTS x86 | windows | x64, x86 | 22.23.4 | 22.23.5 |
-| 11 Nov 22:41 | Notion Notion arm64 (Active User) | windows | arm64 | 7.43.0.0 | 7.43.1.0 |
-| 11 Nov 22:41 | Notion Notion x64 (Active User) | windows | x64 | 7.43.0.0 | 7.43.1.0 |
 
 ## Other additions (previously seen products or supporting files)
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 13 Nov 01:05 | Dell Dell Command Update for Windows Universal (ARM) | windows | arm64 | — | 5.7.1 |
+| 13 Nov 01:05 | OBS Studio OBS Studio | windows | x64 | — | 33.0.1 |
 | 12 Nov 16:47 | Blender Foundation Blender | macos | arm64 | — | 5.3.0 |
 | 12 Nov 16:47 | Postman Postman (ARM) | macos | arm64 | — | 12.36.3 |
 | 12 Nov 16:47 | Postman Postman (ARM) | macos | arm64 | — | 12.36.3 |
@@ -149,9 +158,6 @@ First seen in the recorded gallery history, by vendor, product name and platform
 | 12 Nov 16:47 | TeamViewer TeamViewer | macos | arm64, x64 | — | 15.83.3 |
 | 12 Nov 16:47 | dotPDN LLC Paint.NET (arm64) | windows | arm64 | — | 5.2 |
 | 12 Nov 16:47 | dotPDN LLC Paint.NET (x64) | windows | x64 | — | 5.2 |
-| 11 Nov 22:41 | Dell Dell Command Update | windows | x64 | — | 5.7.2 |
-| 11 Nov 22:41 | Google Chrome x64 | windows | x64 | — | 157.0.8103.79 |
-| 11 Nov 22:41 | Google Chrome x64 | windows | x64 | — | 157.0.8103.79 |
 
 ## Definition changes
 
@@ -164,14 +170,45 @@ First seen in the recorded gallery history, by vendor, product name and platform
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 13 Nov 01:05 | Dell Dell Command Update | windows | x64 | 5.7.2 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Current Channel (x64) - Pre-Cache | windows | arm64, x64 | 16.0.20527.20196 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Current Channel (x64) | windows | arm64, x64 | 16.0.20527.20196 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Current Channel (x86) - Pre-Cache | windows | x64, x86 | 16.0.20527.20196 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Current Channel (x86) | windows | x64, x86 | 16.0.20527.20196 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x64) (N-1) - Pre-Cache | windows | arm64, x64 | 16.0.20430.20264 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x64) (N-1) | windows | arm64, x64 | 16.0.20430.20264 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x64) (N-2) - Pre-Cache | windows | arm64, x64 | 16.0.20326.20320 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x64) (N-2) | windows | arm64, x64 | 16.0.20326.20320 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x64) - Pre-Cache | windows | arm64, x64 | 16.0.20527.20194 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x64) | windows | arm64, x64 | 16.0.20527.20194 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x86) (N-1) - Pre-Cache | windows | x64, x86 | 16.0.20430.20264 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x86) (N-1) | windows | x64, x86 | 16.0.20430.20264 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x86) (N-2) - Pre-Cache | windows | x64, x86 | 16.0.20326.20320 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x86) (N-2) | windows | x64, x86 | 16.0.20326.20320 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x86) - Pre-Cache | windows | x64, x86 | 16.0.20527.20194 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Monthly Enterprise Channel (x86) | windows | x64, x86 | 16.0.20527.20194 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Office 2019 Perpetual Enterprise (x64) - Pre-Cache | windows | arm64, x64 | 16.0.10417.20236 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Office 2019 Perpetual Enterprise (x64) | windows | arm64, x64 | 16.0.10417.20236 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Office 2019 Perpetual Enterprise (x86) - Pre-Cache | windows | x64, x86 | 16.0.10417.20236 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Office 2019 Perpetual Enterprise (x86) | windows | x64, x86 | 16.0.10417.20236 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Office 2021 Perpetual Enterprise (x64) - Pre-Cache | windows | arm64, x64 | 16.0.14334.21048 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Office 2021 Perpetual Enterprise (x64) | windows | arm64, x64 | 16.0.14334.21048 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Office 2021 Perpetual Enterprise (x86) - Pre-Cache | windows | x64, x86 | 16.0.14334.21048 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Office 2021 Perpetual Enterprise (x86) | windows | x64, x86 | 16.0.14334.21048 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Office 2024 Perpetual Enterprise (x64) - Pre-Cache | windows | arm64, x64 | 16.0.17932.21140 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Office 2024 Perpetual Enterprise (x64) | windows | arm64, x64 | 16.0.17932.21140 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Office 2024 Perpetual Enterprise (x86) - Pre-Cache | windows | x64, x86 | 16.0.17932.21140 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Office 2024 Perpetual Enterprise (x86) | windows | x64, x86 | 16.0.17932.21140 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Semi-Annual Enterprise Channel (x64) - Pre-Cache | windows | arm64, x64 | 16.0.20527.20192 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Semi-Annual Enterprise Channel (x64) | windows | arm64, x64 | 16.0.20527.20192 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Semi-Annual Enterprise Channel (x86) - Pre-Cache | windows | x64, x86 | 16.0.20527.20192 | — |
+| 13 Nov 01:05 | Microsoft Office Click-to-Run Semi-Annual Enterprise Channel (x86) | windows | x64, x86 | 16.0.20527.20192 | — |
 | 12 Nov 16:47 | Postman Postman (ARM) | macos | arm64 | 12.36.2 | — |
 | 12 Nov 16:47 | Postman Postman (ARM) | macos | arm64 | 12.36.2 | — |
 | 12 Nov 16:47 | Postman Postman | macos | x64 | 12.36.2 | — |
 | 12 Nov 16:47 | Postman Postman | macos | x64 | 12.36.2 | — |
 | 12 Nov 16:47 | Dell Dell Command Update for Windows Universal (ARM) | windows | arm64 | 5.7.1 | — |
 | 12 Nov 16:47 | OBS Studio OBS Studio | windows | x64 | 33.0.1 | — |
-| 11 Nov 22:41 | Google Chrome x64 | windows | x64 | 157.0.8103.51 | — |
-| 11 Nov 22:41 | Google Chrome x64 | windows | x64 | 157.0.8103.51 | — |
 
 ## Renamed files
 
