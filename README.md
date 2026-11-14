@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 14 Nov 2026 18:00 UTC  
-**Observation window:** 13 Nov 2026 18:00 UTC to 14 Nov 2026 18:00 UTC
+**Last successful check:** 14 Nov 2026 23:54 UTC  
+**Observation window:** 13 Nov 2026 23:54 UTC to 14 Nov 2026 23:54 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 30 | 4 | 9 | 4 | 0 |
+| 0 | 23 | 4 | 10 | 4 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -45,13 +45,6 @@ None detected in this window.
 | 14 Nov 00:53 | Microsoft Edge arm64 | windows | arm64 | 157.0.4341.57 | 157.0.4341.60 |
 | 14 Nov 00:53 | Microsoft Edge x64 | windows | x64 | 157.0.4341.57 | 157.0.4341.60 |
 | 14 Nov 00:53 | Microsoft Edge x86 | windows | x86 | 157.0.4341.57 | 157.0.4341.60 |
-| 13 Nov 19:43 | Discord, Inc Discord | macos | arm64, x64 | 0.0.421 | 0.0.422 |
-| 13 Nov 19:43 | Microsoft Latest Cumulative Update for Windows 11 Version 23H2 for arm64-based Systems | windows | arm64 | 22631.7711 | 22631.7714 |
-| 13 Nov 19:43 | Microsoft Latest Cumulative Update for Windows 11 Version 23H2 for x64-based Systems | windows | x64 | 22631.7711 | 22631.7714 |
-| 13 Nov 19:43 | Microsoft Latest Cumulative Update for Windows Server 2019 for x64-based Systems | windows | x64 | 17763.9487 | 17763.9488 |
-| 13 Nov 19:43 | Microsoft Latest Cumulative Update for Windows Server 2022 for x64-based Systems | windows | x64 | 20348.5870 | 20348.5873 |
-| 13 Nov 19:43 | Microsoft Latest Cumulative Update for Windows Server 2025 for x64-based Systems | windows | x64 | 26100.33822 | 26100.33828 |
-| 13 Nov 19:43 | Royal Apps GmbH Royal TS | windows | x64 | 7.4.50922.0 | 7.4.51113.0 |
 
 ## Other additions (previously seen products or supporting files)
 
@@ -66,6 +59,7 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 14 Nov 23:54 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
 | 14 Nov 11:28 | Microsoft Skype Desktop Client (x86) - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
 | 14 Nov 11:28 | Zoom Zoom - Active User - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
 | 14 Nov 00:53 | Microsoft Edge WebView2 x64 | windows | x64 | 157.0.4341.57 | 157.0.4341.57 |
