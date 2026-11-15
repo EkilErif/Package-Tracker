@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 14 Nov 2026 23:54 UTC  
-**Observation window:** 13 Nov 2026 23:54 UTC to 14 Nov 2026 23:54 UTC
+**Last successful check:** 15 Nov 2026 06:31 UTC  
+**Observation window:** 14 Nov 2026 06:31 UTC to 15 Nov 2026 06:31 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 23 | 4 | 10 | 4 | 0 |
+| 0 | 4 | 0 | 4 | 0 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -26,58 +26,23 @@ None detected in this window.
 | 14 Nov 11:28 | OpenAI OpCo, LLC ChatGPT Codex (x64) | windows | x64 | 26.1106.6628.0 | 26.1111.2228.0 |
 | 14 Nov 11:28 | Vim Project Vim (arm64) | windows | arm64 | 9.2.1320 | 9.2.1345 |
 | 14 Nov 11:28 | Vim Project Vim (x64) | windows | x64 | 9.2.1320 | 9.2.1345 |
-| 14 Nov 00:53 | Microsoft Edge (DPKG) | linux | x64 | 157.0.4341.57 | 157.0.4341.60 |
-| 14 Nov 00:53 | Anthropic PBC Claude | macos | arm64, x64 | 5.11492.2 | 5.11492.5 |
-| 14 Nov 00:53 | Anysphere Cursor arm64 | macos | arm64 | 3.30.8 | 3.30.14 |
-| 14 Nov 00:53 | Anysphere Cursor x64 | macos | x64 | 3.30.8 | 3.30.14 |
-| 14 Nov 00:53 | Google LLC Google Gemini | macos | arm64 | 1.141.3.1394 | 1.144.4.1467 |
-| 14 Nov 00:53 | Microsoft Windows App | macos | arm64, x64 | 11.4.4 | 11.4.5 |
-| 14 Nov 00:53 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.40.2.0 | 2.40.3.0 |
-| 14 Nov 00:53 | Anthropic PBC Claude arm64 | windows | arm64 | 5.11492.2.0 | 5.11492.5.0 |
-| 14 Nov 00:53 | Anthropic PBC Claude x64 | windows | x64 | 5.11492.2.0 | 5.11492.5.0 |
-| 14 Nov 00:53 | Anysphere Cursor arm64 (Active User) | windows | arm64 | 3.30.8 | 3.30.14 |
-| 14 Nov 00:53 | Anysphere Cursor arm64 | windows | arm64 | 3.30.8 | 3.30.14 |
-| 14 Nov 00:53 | Anysphere Cursor x64 (Active User) | windows | x64 | 3.30.8 | 3.30.14 |
-| 14 Nov 00:53 | Anysphere Cursor x64 | windows | x64 | 3.30.8 | 3.30.14 |
-| 14 Nov 00:53 | Apache Tomcat 9.0 | windows | arm64, x64, x86 | 9.0.123 | 9.0.124 |
-| 14 Nov 00:53 | FileZilla Project FileZilla Client (x64) | windows | arm64, x64 | 3.71.1 | 3.72.0 |
-| 14 Nov 00:53 | FileZilla Project FileZilla Client (x86) | windows | arm64, x64, x86 | 3.71.1 | 3.72.0 |
-| 14 Nov 00:53 | Microsoft Edge arm64 | windows | arm64 | 157.0.4341.57 | 157.0.4341.60 |
-| 14 Nov 00:53 | Microsoft Edge x64 | windows | x64 | 157.0.4341.57 | 157.0.4341.60 |
-| 14 Nov 00:53 | Microsoft Edge x86 | windows | x86 | 157.0.4341.57 | 157.0.4341.60 |
 
 ## Other additions (previously seen products or supporting files)
 
-| Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
-|---|---|---|---|---|---|
-| 14 Nov 00:53 | Microsoft Edge | macos | arm64, x64 | — | 157.0.4341.60 |
-| 14 Nov 00:53 | Microsoft Edge | macos | arm64, x64 | — | 157.0.4341.60 |
-| 14 Nov 00:53 | Microsoft Edge WebView2 arm64 | windows | arm64 | — | 157.0.4341.60 |
-| 14 Nov 00:53 | Microsoft Edge WebView2 arm64 | windows | arm64 | — | 157.0.4341.60 |
+None detected in this window.
 
 ## Definition changes
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 15 Nov 06:31 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
 | 14 Nov 23:54 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
 | 14 Nov 11:28 | Microsoft Skype Desktop Client (x86) - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
 | 14 Nov 11:28 | Zoom Zoom - Active User - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
-| 14 Nov 00:53 | Microsoft Edge WebView2 x64 | windows | x64 | 157.0.4341.57 | 157.0.4341.57 |
-| 14 Nov 00:53 | Microsoft Edge WebView2 x64 | windows | x64 | 157.0.4341.57 | 157.0.4341.57 |
-| 14 Nov 00:53 | Microsoft Edge WebView2 x86 | windows | x86 | 157.0.4341.57 | 157.0.4341.57 |
-| 14 Nov 00:53 | Microsoft Edge WebView2 x86 | windows | x86 | 157.0.4341.57 | 157.0.4341.57 |
-| 14 Nov 00:53 | Microsoft Latest Cumulative Update for Windows 11 Version 26H1 for arm64-based Systems | windows | arm64 | 28000.3501 | 28000.3501 |
-| 14 Nov 00:53 | Microsoft Skype Desktop Client (x86) - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
-| 14 Nov 00:53 | Zoom Zoom - Active User - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
 
 ## Removed packages
 
-| Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
-|---|---|---|---|---|---|
-| 14 Nov 00:53 | Microsoft Edge | macos | arm64, x64 | 157.0.4341.57 | — |
-| 14 Nov 00:53 | Microsoft Edge | macos | arm64, x64 | 157.0.4341.57 | — |
-| 14 Nov 00:53 | Microsoft Edge WebView2 arm64 | windows | arm64 | 157.0.4341.57 | — |
-| 14 Nov 00:53 | Microsoft Edge WebView2 arm64 | windows | arm64 | 157.0.4341.57 | — |
+None detected in this window.
 
 ## Renamed files
 
