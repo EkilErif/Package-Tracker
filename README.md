@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 15 Nov 2026 06:31 UTC  
-**Observation window:** 14 Nov 2026 06:31 UTC to 15 Nov 2026 06:31 UTC
+**Last successful check:** 15 Nov 2026 15:40 UTC  
+**Observation window:** 14 Nov 2026 15:40 UTC to 15 Nov 2026 15:40 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 4 | 0 | 4 | 0 | 0 |
+| 0 | 2 | 0 | 2 | 0 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,10 +22,8 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
-| 14 Nov 11:28 | OpenAI OpCo, LLC ChatGPT Codex (arm64) | windows | arm64 | 26.1106.6628.0 | 26.1111.2228.0 |
-| 14 Nov 11:28 | OpenAI OpCo, LLC ChatGPT Codex (x64) | windows | x64 | 26.1106.6628.0 | 26.1111.2228.0 |
-| 14 Nov 11:28 | Vim Project Vim (arm64) | windows | arm64 | 9.2.1320 | 9.2.1345 |
-| 14 Nov 11:28 | Vim Project Vim (x64) | windows | x64 | 9.2.1320 | 9.2.1345 |
+| 15 Nov 15:40 | Apache Maven | windows | arm64, x64 | 3.10.0 | 3.10.1 |
+| 15 Nov 15:40 | Karakun AG OpenWebStart | windows | arm64, x64 | 1.14.0 | 1.14.1 |
 
 ## Other additions (previously seen products or supporting files)
 
@@ -37,8 +35,6 @@ None detected in this window.
 |---|---|---|---|---|---|
 | 15 Nov 06:31 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
 | 14 Nov 23:54 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
-| 14 Nov 11:28 | Microsoft Skype Desktop Client (x86) - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
-| 14 Nov 11:28 | Zoom Zoom - Active User - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
 
 ## Removed packages
 
