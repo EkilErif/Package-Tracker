@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 15 Nov 2026 21:02 UTC  
-**Observation window:** 14 Nov 2026 21:02 UTC to 15 Nov 2026 21:02 UTC
+**Last successful check:** 16 Nov 2026 06:29 UTC  
+**Observation window:** 15 Nov 2026 06:29 UTC to 16 Nov 2026 06:29 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 4 | 0 | 2 | 0 | 0 |
+| 0 | 8 | 0 | 1 | 0 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,6 +22,10 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 16 Nov 06:29 | Notion Notion | macos | arm64, x64 | 7.43.2 | 7.44.0 |
+| 16 Nov 06:29 | Microsoft Microsoft Azure CLI (32-bit) | windows | x64, x86 | 2.92.0 | 2.93.0 |
+| 16 Nov 06:29 | Microsoft Microsoft Azure CLI (64-bit) | windows | arm64, x64 | 2.92.0 | 2.93.0 |
+| 16 Nov 06:29 | Notion Notion x64 (Active User) | windows | x64 | 7.43.2.0 | 7.44.0.0 |
 | 15 Nov 21:02 | DBeaver Corp DBeaver Community (arm64) | windows | arm64 | 26.2.4 | 26.2.5 |
 | 15 Nov 21:02 | DBeaver Corp DBeaver Community (x64) | windows | x64 | 26.2.4 | 26.2.5 |
 | 15 Nov 15:40 | Apache Maven | windows | arm64, x64 | 3.10.0 | 3.10.1 |
@@ -36,7 +40,6 @@ None detected in this window.
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
 | 15 Nov 06:31 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
-| 14 Nov 23:54 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
 
 ## Removed packages
 
