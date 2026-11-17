@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 16 Nov 2026 18:32 UTC  
-**Observation window:** 15 Nov 2026 18:32 UTC to 16 Nov 2026 18:32 UTC
+**Last successful check:** 17 Nov 2026 02:55 UTC  
+**Observation window:** 16 Nov 2026 02:55 UTC to 17 Nov 2026 02:55 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 24 | 4 | 0 | 4 | 0 |
+| 0 | 26 | 4 | 0 | 4 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,6 +22,10 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 17 Nov 02:55 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.40.3.0 | 2.40.4.0 |
+| 17 Nov 02:55 | Meltytech, LLC Shotcut (arm64) | windows | arm64 | 26.9.27 | 26.11.15 |
+| 17 Nov 02:55 | Meltytech, LLC Shotcut (x64) | windows | x64 | 26.9.27 | 26.11.15 |
+| 17 Nov 02:55 | XMind Ltd. Xmind (Active User) (x64) | windows | x64 | 27.1.5088 | 27.1.5089 |
 | 16 Nov 18:32 | Cognition Devin Desktop | macos | arm64 | 3.12.59 | 3.13.3 |
 | 16 Nov 18:32 | Grammarly Grammarly | macos | arm64, x64 | 1.209.0 | 1.210.0 |
 | 16 Nov 18:32 | LucidLink LucidLink | macos | arm64, x64 | 3.9.9104 | 3.9.9132 |
@@ -44,8 +48,6 @@ None detected in this window.
 | 16 Nov 06:29 | Microsoft Microsoft Azure CLI (32-bit) | windows | x64, x86 | 2.92.0 | 2.93.0 |
 | 16 Nov 06:29 | Microsoft Microsoft Azure CLI (64-bit) | windows | arm64, x64 | 2.92.0 | 2.93.0 |
 | 16 Nov 06:29 | Notion Notion x64 (Active User) | windows | x64 | 7.43.2.0 | 7.44.0.0 |
-| 15 Nov 21:02 | DBeaver Corp DBeaver Community (arm64) | windows | arm64 | 26.2.4 | 26.2.5 |
-| 15 Nov 21:02 | DBeaver Corp DBeaver Community (x64) | windows | x64 | 26.2.4 | 26.2.5 |
 
 ## Other additions (previously seen products or supporting files)
 
