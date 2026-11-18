@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 18 Nov 2026 07:27 UTC  
-**Observation window:** 17 Nov 2026 07:27 UTC to 18 Nov 2026 07:27 UTC
+**Last successful check:** 18 Nov 2026 17:15 UTC  
+**Observation window:** 17 Nov 2026 17:15 UTC to 18 Nov 2026 17:15 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 151 | 11 | 35 | 15 | 0 |
+| 0 | 184 | 17 | 64 | 14 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,6 +22,49 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 18 Nov 17:15 | Adobe Acrobat DC | macos | arm64, x64 | 26.003.22075 | 26.003.22110 |
+| 18 Nov 17:15 | Adobe Acrobat Reader DC (en-us) | macos | arm64, x64 | 26.003.22075 | 26.003.22110 |
+| 18 Nov 17:15 | Adobe Acrobat Reader | macos | arm64, x64 | 26.003.22075 | 26.003.22110 |
+| 18 Nov 17:15 | Adobe Acrobat | macos | arm64, x64 | 26.003.22075 | 26.003.22110 |
+| 18 Nov 17:15 | Aircall Aircall Workspace (ARM) | macos | arm64 | 1.19.1 | 1.19.3 |
+| 18 Nov 17:15 | Aircall Aircall Workspace (Intel) | macos | x64 | 1.19.1 | 1.19.3 |
+| 18 Nov 17:15 | Asana, Inc. Asana | macos | arm64, x64 | 2.11.0 | 2.11.1 |
+| 18 Nov 17:15 | Google Drive | macos | arm64, x64 | 133.0.2.0 | 134.0.1.0 |
+| 18 Nov 17:15 | Grammarly Grammarly | macos | arm64, x64 | 1.210.0 | 1.211.0 |
+| 18 Nov 17:15 | Microsoft Visual Studio Code | macos | arm64, x64 | 1.146.0 | 1.147.0 |
+| 18 Nov 17:15 | Vivaldi Technologies Vivaldi | macos | arm64, x64 | 8.3.4191.44 | 8.3.4191.45 |
+| 18 Nov 17:15 | WhatsApp LLC WhatsApp | macos | arm64, x64 | 26.46.15 | 26.46.17 |
+| 18 Nov 17:15 | Adobe Acrobat (64-bit) | windows | arm64, x64 | 26.003.22075 | 26.003.22110 |
+| 18 Nov 17:15 | Adobe Acrobat DC (en-us) | windows | x64, x86 | 26.003.22075 | 26.003.22110 |
+| 18 Nov 17:15 | Adobe Acrobat Reader DC (MUI) (64-bit) | windows | arm64, x64 | 26.003.22075 | 26.003.22110 |
+| 18 Nov 17:15 | Adobe Acrobat Reader DC (MUI) | windows | x64, x86 | 26.003.22075 | 26.003.22110 |
+| 18 Nov 17:15 | Adobe Acrobat Reader DC (en-us) (64-bit) | windows | arm64, x64 | 26.003.22075 | 26.003.22110 |
+| 18 Nov 17:15 | Adobe Acrobat Reader DC (en-us) | windows | x64, x86 | 26.003.22075 | 26.003.22110 |
+| 18 Nov 17:15 | Aircall Aircall Workspace | windows | arm64, x64 | 1.19.1.79697 | 1.19.3.81480 |
+| 18 Nov 17:15 | Apache Tomcat 10.1 | windows | arm64, x64, x86 | 10.1.61 | 10.1.62 |
+| 18 Nov 17:15 | Grammarly Grammarly (Active User) | windows | arm64, x64 | 1.2.313.2008 | 1.2.314.2009 |
+| 18 Nov 17:15 | Microsoft Microsoft Build of OpenJDK 11 (arm64) | windows | arm64 | 11.0.33.10 | 11.0.33.101 |
+| 18 Nov 17:15 | Microsoft Microsoft Build of OpenJDK 11 (x64) | windows | x64 | 11.0.33.10 | 11.0.33.101 |
+| 18 Nov 17:15 | Microsoft Microsoft Build of OpenJDK 17 (arm64) | windows | arm64 | 17.0.21.21 | 17.0.21.102 |
+| 18 Nov 17:15 | Microsoft Microsoft Build of OpenJDK 17 (x64) | windows | x64 | 17.0.21.21 | 17.0.21.102 |
+| 18 Nov 17:15 | Microsoft Microsoft Build of OpenJDK 21 (arm64) | windows | arm64 | 21.0.13.21 | 21.0.13.102 |
+| 18 Nov 17:15 | Microsoft Microsoft Build of OpenJDK 21 (x64) | windows | x64 | 21.0.13.21 | 21.0.13.102 |
+| 18 Nov 17:15 | Microsoft Microsoft Build of OpenJDK 25 (arm64) | windows | arm64 | 25.0.5.21 | 25.0.5.102 |
+| 18 Nov 17:15 | Microsoft Microsoft Build of OpenJDK 25 (x64) | windows | x64 | 25.0.5.21 | 25.0.5.102 |
+| 18 Nov 17:15 | Microsoft SQL Server Management Studio 22 | windows | arm64, x64 | 22.12.0 | 22.12.1 |
+| 18 Nov 17:15 | Microsoft Visual Studio Code (x64 en-us) | windows | x64 | 1.146.0 | 1.147.0 |
+| 18 Nov 17:15 | Omnissa Horizon Client | windows | x64 | 8.20.0.0 | 8.20.1.0 |
+| 18 Nov 17:15 | Ping Identity PingID | windows | arm64, x64 | 1.8.0 | 1.8.3 |
+| 18 Nov 17:15 | Piriform Software CCleaner Standard | windows | arm64, x64, x86 | 7.13.1591.2041 | 7.14.1609.2066 |
+| 18 Nov 17:15 | Postman Postman | windows | arm64, x64, x86 | 12.35.5.0 | 12.37.2.0 |
+| 18 Nov 17:15 | SonicWall Inc. NetExtender (Stable) (x64) | windows | x64 | 10.3.5 | 10.3.6 |
+| 18 Nov 17:15 | SonicWall Inc. NetExtender (Stable) (x86) | windows | x86 | 10.3.5 | 10.3.6 |
+| 18 Nov 17:15 | SonicWall Inc. NetExtender (arm64) | windows | arm64 | 10.3.5 | 10.3.6 |
+| 18 Nov 17:15 | SonicWall Inc. NetExtender (x64) | windows | x64 | 10.3.5 | 10.3.6 |
+| 18 Nov 17:15 | SonicWall Inc. NetExtender (x86) | windows | x86 | 10.3.5 | 10.3.6 |
+| 18 Nov 17:15 | Vivaldi Technologies Vivaldi (32-bit) | windows | x86 | 8.3.4191.44 | 8.3.4191.45 |
+| 18 Nov 17:15 | Vivaldi Technologies Vivaldi (64-bit) | windows | x64 | 8.3.4191.44 | 8.3.4191.45 |
+| 18 Nov 17:15 | Vivaldi Technologies Vivaldi (arm64) | windows | arm64 | 8.3.4191.44 | 8.3.4191.45 |
 | 18 Nov 07:27 | Tableau Desktop 2026 | macos | arm64, x64 | 2026.3.0 | 2026.3.1 |
 | 18 Nov 07:27 | Adobe Acrobat (Reduced Mode) | windows | arm64, x64 | 26.003.22075 | 26.003.22110 |
 | 18 Nov 07:27 | Amazon Corretto 8 JDK (x64) | windows | x64 | 8.512.09.1 | 8.514.01.1 |
@@ -163,21 +206,21 @@ None detected in this window.
 | 17 Nov 23:30 | draw.io Ltd. draw.io (MSI) | windows | arm64, x64 | 32.6.10 | 32.7.4 |
 | 17 Nov 23:30 | draw.io Ltd. draw.io (arm64) | windows | arm64 | 32.6.10 | 32.7.4 |
 | 17 Nov 23:30 | draw.io Ltd. draw.io (x64) | windows | x64 | 32.6.10 | 32.7.4 |
-| 17 Nov 13:26 | Antibody Software Limited WizTreeMac | macos | arm64, x64 | 1.0.0 | 1.1.0 |
-| 17 Nov 13:26 | Cognition Devin Desktop | macos | arm64 | 3.13.3 | 3.13.4 |
-| 17 Nov 13:26 | WhatsApp LLC WhatsApp | macos | arm64, x64 | 26.46.12 | 26.46.15 |
-| 17 Nov 13:26 | AgileBits 1Password 8 (MSIX) | windows | arm64, x64 | 8.12.44.33 | 8.12.46.29 |
-| 17 Nov 13:26 | AgileBits 1Password 8 (x64) | windows | x64 | 8.12.44 | 8.12.46 |
-| 17 Nov 13:26 | Antibody Software Limited WizTree | windows | arm64, x64, x86 | 4.33 | 4.34 |
-| 17 Nov 13:26 | Cognition Devin Desktop (arm64) | windows | arm64 | 3.13.3 | 3.13.4 |
-| 17 Nov 13:26 | Cognition Devin Desktop (x64) | windows | x64 | 3.13.3 | 3.13.4 |
-| 17 Nov 13:26 | Postman Postman | windows | arm64, x64, x86 | 12.37.0.0 | 12.37.1.0 |
-| 17 Nov 13:26 | PrinterLogic Printer Installer Client | windows | x64, x86 | 25.1.0.1750 | 25.1.0.1778 |
 
 ## Other additions (previously seen products or supporting files)
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 18 Nov 17:15 | Blender Foundation Blender | macos | arm64 | — | 5.3.0 |
+| 18 Nov 17:15 | Postman Postman (ARM) | macos | arm64 | — | 12.37.2 |
+| 18 Nov 17:15 | Postman Postman (ARM) | macos | arm64 | — | 12.37.2 |
+| 18 Nov 17:15 | Postman Postman | macos | x64 | — | 12.37.2 |
+| 18 Nov 17:15 | Postman Postman | macos | x64 | — | 12.37.2 |
+| 18 Nov 17:15 | Google Drive File Stream | windows | x64 | — | 134.0.1.0 |
+| 18 Nov 17:15 | Google Drive File Stream | windows | x64 | — | 134.0.1.0 |
+| 18 Nov 17:15 | Microsoft Windows App (32-bit) | windows | x86 | — | 2.0.1601.0 |
+| 18 Nov 17:15 | Microsoft Windows App (64-bit) | windows | x64 | — | 2.0.1601.0 |
+| 18 Nov 17:15 | Microsoft Windows App (Arm64) | windows | arm64 | — | 2.0.1601.0 |
 | 18 Nov 07:27 | Postman Postman (ARM) | macos | arm64 | — | 12.35.5 |
 | 18 Nov 07:27 | Postman Postman (ARM) | macos | arm64 | — | 12.35.5 |
 | 18 Nov 07:27 | Postman Postman | macos | x64 | — | 12.35.5 |
@@ -185,15 +228,40 @@ None detected in this window.
 | 17 Nov 23:30 | AgileBits 1Password 8 | macos | arm64, x64 | — | 8.12.46 |
 | 17 Nov 23:30 | Google Chrome x64 | windows | x64 | — | 158.0.8127.37 |
 | 17 Nov 23:30 | Google Chrome x64 | windows | x64 | — | 158.0.8127.37 |
-| 17 Nov 13:26 | Postman Postman (ARM) | macos | arm64 | — | 12.37.1 |
-| 17 Nov 13:26 | Postman Postman (ARM) | macos | arm64 | — | 12.37.1 |
-| 17 Nov 13:26 | Postman Postman | macos | x64 | — | 12.37.1 |
-| 17 Nov 13:26 | Postman Postman | macos | x64 | — | 12.37.1 |
 
 ## Definition changes
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 18 Nov 17:15 | GN Audio Jabra Direct | windows | arm64, x64, x86 | 8.4.30601.0 | 8.4.30601.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 1809 - Phase1 - Direct-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 1809 x64 - Phase1 - Pre-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 1809 x64 - Phase2 - Re-Scan | windows | x64 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 1809 x86 - Phase1 - Pre-Cache | windows | x86 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 1809 x86 - Phase2 - Re-Scan | windows | x86 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 21H2 - Phase1 - Direct-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 21H2 x64 - Phase1 - Pre-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 21H2 x64 - Phase2 - Re-Scan | windows | x64 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 21H2 x86 - Phase1 - Pre-Cache | windows | x86 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 21H2 x86 - Phase2 - Re-Scan | windows | x86 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 22H2 - Phase1 - Direct-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 22H2 x64 - Phase1 - Pre-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 22H2 x64 - Phase2 - Re-Scan | windows | x64 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 22H2 x86 - Phase1 - Pre-Cache | windows | x86 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 22H2 x86 - Phase2 - Re-Scan | windows | x86 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 22H2 - Phase1 - Direct-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 22H2 - Phase1 - Pre-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 22H2 - Phase2 - Re-Scan | windows | x64 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 23H2 - Phase1 - Direct-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 23H2 - Phase1 - Pre-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 23H2 - Phase2 - Re-Scan | windows | x64 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 24H2 - Phase1 - Direct-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 24H2 - Phase1 - Pre-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 24H2 - Phase2 - Re-Scan | windows | x64 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 25H2 - Phase1 - Pre-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 25H2 - Phase2 - Re-Scan | windows | x64 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 26H2 - Phase1 - Pre-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
+| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 26H2 - Phase2 - Re-Scan | windows | x64 | 1.1.0.0 | 1.1.0.0 |
 | 18 Nov 07:27 | Microsoft Office Click-to-Run Current Channel (x64) - Pre-Cache | windows | arm64, x64 | 16.0.20625.20108 | 16.0.20625.20108 |
 | 18 Nov 07:27 | Microsoft Office Click-to-Run Current Channel (x64) | windows | arm64, x64 | 16.0.20625.20108 | 16.0.20625.20108 |
 | 18 Nov 07:27 | Microsoft Office Click-to-Run Current Channel (x86) - Pre-Cache | windows | x64, x86 | 16.0.20625.20108 | 16.0.20625.20108 |
@@ -234,6 +302,13 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 18 Nov 17:15 | Postman Postman (ARM) | macos | arm64 | 12.35.5 | — |
+| 18 Nov 17:15 | Postman Postman (ARM) | macos | arm64 | 12.35.5 | — |
+| 18 Nov 17:15 | Postman Postman | macos | x64 | 12.35.5 | — |
+| 18 Nov 17:15 | Postman Postman | macos | x64 | 12.35.5 | — |
+| 18 Nov 17:15 | Running with Crayons Ltd Alfred 5 | macos | arm64, x64 | 5.8.1 | — |
+| 18 Nov 17:15 | Google Drive File Stream | windows | x64 | 133.0.2.0 | — |
+| 18 Nov 17:15 | Google Drive File Stream | windows | x64 | 133.0.2.0 | — |
 | 18 Nov 07:27 | Blender Foundation Blender | macos | arm64 | 5.3.0 | — |
 | 18 Nov 07:27 | Postman Postman (ARM) | macos | arm64 | 12.37.1 | — |
 | 18 Nov 07:27 | Postman Postman (ARM) | macos | arm64 | 12.37.1 | — |
@@ -241,14 +316,6 @@ None detected in this window.
 | 18 Nov 07:27 | Postman Postman | macos | x64 | 12.37.1 | — |
 | 17 Nov 23:30 | Google Chrome x64 | windows | x64 | 157.0.8103.79 | — |
 | 17 Nov 23:30 | Google Chrome x64 | windows | x64 | 157.0.8103.79 | — |
-| 17 Nov 13:26 | AgileBits 1Password 8 | macos | arm64, x64 | 8.12.44 | — |
-| 17 Nov 13:26 | Postman Postman (ARM) | macos | arm64 | 12.37.0 | — |
-| 17 Nov 13:26 | Postman Postman (ARM) | macos | arm64 | 12.37.0 | — |
-| 17 Nov 13:26 | Postman Postman | macos | x64 | 12.37.0 | — |
-| 17 Nov 13:26 | Postman Postman | macos | x64 | 12.37.0 | — |
-| 17 Nov 13:26 | Microsoft Windows App (32-bit) | windows | x86 | 2.0.1489.0 | — |
-| 17 Nov 13:26 | Microsoft Windows App (64-bit) | windows | x64 | 2.0.1489.0 | — |
-| 17 Nov 13:26 | Microsoft Windows App (Arm64) | windows | arm64 | 2.0.1489.0 | — |
 
 ## Renamed files
 
