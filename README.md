@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 19 Nov 2026 13:06 UTC  
-**Observation window:** 18 Nov 2026 13:06 UTC to 19 Nov 2026 13:06 UTC
+**Last successful check:** 19 Nov 2026 23:03 UTC  
+**Observation window:** 18 Nov 2026 23:03 UTC to 19 Nov 2026 23:03 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 73 | 14 | 29 | 11 | 0 |
+| 0 | 58 | 14 | 0 | 18 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,6 +22,34 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 19 Nov 23:03 | Microsoft Edge (DPKG) | linux | x64 | 157.0.4341.60 | 158.0.4370.33 |
+| 19 Nov 23:03 | Splunk Universal Forwarder (x64 DPKG) | linux | x64 | 10.6.1.1 | 10.6.2.5 |
+| 19 Nov 23:03 | Splunk Universal Forwarder (x64 RPM) | linux | x64 | 10.6.1.1 | 10.6.2.5 |
+| 19 Nov 23:03 | Bitwarden, Inc. Bitwarden Desktop | macos | arm64, x64 | 2026.10.4 | 2026.11.0 |
+| 19 Nov 23:03 | Discord, Inc Discord | macos | arm64, x64 | 0.0.422 | 0.0.423 |
+| 19 Nov 23:03 | Docker Inc. Docker Desktop (ARM) | macos | arm64 | 4.99.0 | 4.100.0 |
+| 19 Nov 23:03 | Docker Inc. Docker Desktop (Intel) | macos | x64 | 4.99.0 | 4.100.0 |
+| 19 Nov 23:03 | Google LLC Google Gemini | macos | arm64 | 1.144.9.1499 | 1.147.5.1526 |
+| 19 Nov 23:03 | JetBrains PyCharm (ARM) | macos | arm64 | 2026.3 | 2026.3.0.1 |
+| 19 Nov 23:03 | JetBrains PyCharm | macos | x64 | 2026.3 | 2026.3.0.1 |
+| 19 Nov 23:03 | Signal Messenger, LLC Signal | macos | arm64, x64 | 8.35.0 | 8.36.0 |
+| 19 Nov 23:03 | Tableau Desktop 2025 | macos | arm64, x64 | 2025.3.11 | 2025.3.12 |
+| 19 Nov 23:03 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.41.1.0 | 2.41.2.0 |
+| 19 Nov 23:03 | Docker Inc. Docker Desktop (arm64) | windows | arm64 | 4.99.0.0 | 4.100.0.0 |
+| 19 Nov 23:03 | JetBrains PyCharm Professional Edition | windows | x64 | 2026.3 | 2026.3.0.1 |
+| 19 Nov 23:03 | JetBrains PyCharm arm64 | windows | arm64 | 2026.3 | 2026.3.0.1 |
+| 19 Nov 23:03 | Microsoft Edge arm64 | windows | arm64 | 157.0.4341.60 | 158.0.4370.33 |
+| 19 Nov 23:03 | Microsoft Edge x64 | windows | x64 | 157.0.4341.60 | 158.0.4370.33 |
+| 19 Nov 23:03 | Microsoft Edge x86 | windows | x86 | 157.0.4341.60 | 158.0.4370.33 |
+| 19 Nov 23:03 | OpenVPN, Inc. OpenVPN (arm64) | windows | arm64 | 2.7.901 | 2.7.902 |
+| 19 Nov 23:03 | OpenVPN, Inc. OpenVPN (x64) | windows | x64 | 2.7.901 | 2.7.902 |
+| 19 Nov 23:03 | OpenVPN, Inc. OpenVPN (x86) | windows | x86 | 2.7.901 | 2.7.902 |
+| 19 Nov 23:03 | RealVNC RealVNC Server | windows | arm64, x64 | 7.19.0.13 | 7.19.1.15 |
+| 19 Nov 23:03 | ScreenMeet ScreenMeet Remote Support | windows | arm64, x64 | 3.132.30.0 | 3.139.32.0 |
+| 19 Nov 23:03 | Signal Messenger, LLC Signal (Active User) | windows | x64 | 8.35.0 | 8.36.0 |
+| 19 Nov 23:03 | Sober Lemur S.r.l. PDFsam Basic (64-bit) | windows | arm64, x64 | 6.0.10.0 | 6.0.11.0 |
+| 19 Nov 23:03 | Splunk Universal Forwarder x64 | windows | arm64, x64 | 10.6.1.1 | 10.6.2.5 |
+| 19 Nov 23:03 | Tableau Desktop 2025 | windows | x64 | 2025.3.11 | 2025.3.12 |
 | 19 Nov 13:06 | Grammarly Grammarly (Active User) | windows | arm64, x64 | 1.2.314.2009 | 1.2.314.2010 |
 | 19 Nov 13:06 | OpenAI OpCo, LLC ChatGPT Codex (arm64) | windows | arm64 | 26.1111.2228.0 | 26.1111.9664.0 |
 | 19 Nov 13:06 | OpenAI OpCo, LLC ChatGPT Codex (x64) | windows | x64 | 26.1111.2228.0 | 26.1111.9664.0 |
@@ -52,118 +80,52 @@ None detected in this window.
 | 19 Nov 01:52 | Tableau Tableau Public | windows | x64 | 2026.3.0 | 2026.3.1 |
 | 19 Nov 01:52 | The Wireshark developer community Wireshark 64-bit | windows | x64 | 4.6.9 | 4.6.10 |
 | 19 Nov 01:52 | The Wireshark developer community Wireshark arm64 | windows | arm64 | 4.6.9 | 4.6.10 |
-| 18 Nov 17:15 | Adobe Acrobat DC | macos | arm64, x64 | 26.003.22075 | 26.003.22110 |
-| 18 Nov 17:15 | Adobe Acrobat Reader DC (en-us) | macos | arm64, x64 | 26.003.22075 | 26.003.22110 |
-| 18 Nov 17:15 | Adobe Acrobat Reader | macos | arm64, x64 | 26.003.22075 | 26.003.22110 |
-| 18 Nov 17:15 | Adobe Acrobat | macos | arm64, x64 | 26.003.22075 | 26.003.22110 |
-| 18 Nov 17:15 | Aircall Aircall Workspace (ARM) | macos | arm64 | 1.19.1 | 1.19.3 |
-| 18 Nov 17:15 | Aircall Aircall Workspace (Intel) | macos | x64 | 1.19.1 | 1.19.3 |
-| 18 Nov 17:15 | Asana, Inc. Asana | macos | arm64, x64 | 2.11.0 | 2.11.1 |
-| 18 Nov 17:15 | Google Drive | macos | arm64, x64 | 133.0.2.0 | 134.0.1.0 |
-| 18 Nov 17:15 | Grammarly Grammarly | macos | arm64, x64 | 1.210.0 | 1.211.0 |
-| 18 Nov 17:15 | Microsoft Visual Studio Code | macos | arm64, x64 | 1.146.0 | 1.147.0 |
-| 18 Nov 17:15 | Vivaldi Technologies Vivaldi | macos | arm64, x64 | 8.3.4191.44 | 8.3.4191.45 |
-| 18 Nov 17:15 | WhatsApp LLC WhatsApp | macos | arm64, x64 | 26.46.15 | 26.46.17 |
-| 18 Nov 17:15 | Adobe Acrobat (64-bit) | windows | arm64, x64 | 26.003.22075 | 26.003.22110 |
-| 18 Nov 17:15 | Adobe Acrobat DC (en-us) | windows | x64, x86 | 26.003.22075 | 26.003.22110 |
-| 18 Nov 17:15 | Adobe Acrobat Reader DC (MUI) (64-bit) | windows | arm64, x64 | 26.003.22075 | 26.003.22110 |
-| 18 Nov 17:15 | Adobe Acrobat Reader DC (MUI) | windows | x64, x86 | 26.003.22075 | 26.003.22110 |
-| 18 Nov 17:15 | Adobe Acrobat Reader DC (en-us) (64-bit) | windows | arm64, x64 | 26.003.22075 | 26.003.22110 |
-| 18 Nov 17:15 | Adobe Acrobat Reader DC (en-us) | windows | x64, x86 | 26.003.22075 | 26.003.22110 |
-| 18 Nov 17:15 | Aircall Aircall Workspace | windows | arm64, x64 | 1.19.1.79697 | 1.19.3.81480 |
-| 18 Nov 17:15 | Apache Tomcat 10.1 | windows | arm64, x64, x86 | 10.1.61 | 10.1.62 |
-| 18 Nov 17:15 | Grammarly Grammarly (Active User) | windows | arm64, x64 | 1.2.313.2008 | 1.2.314.2009 |
-| 18 Nov 17:15 | Microsoft Microsoft Build of OpenJDK 11 (arm64) | windows | arm64 | 11.0.33.10 | 11.0.33.101 |
-| 18 Nov 17:15 | Microsoft Microsoft Build of OpenJDK 11 (x64) | windows | x64 | 11.0.33.10 | 11.0.33.101 |
-| 18 Nov 17:15 | Microsoft Microsoft Build of OpenJDK 17 (arm64) | windows | arm64 | 17.0.21.21 | 17.0.21.102 |
-| 18 Nov 17:15 | Microsoft Microsoft Build of OpenJDK 17 (x64) | windows | x64 | 17.0.21.21 | 17.0.21.102 |
-| 18 Nov 17:15 | Microsoft Microsoft Build of OpenJDK 21 (arm64) | windows | arm64 | 21.0.13.21 | 21.0.13.102 |
-| 18 Nov 17:15 | Microsoft Microsoft Build of OpenJDK 21 (x64) | windows | x64 | 21.0.13.21 | 21.0.13.102 |
-| 18 Nov 17:15 | Microsoft Microsoft Build of OpenJDK 25 (arm64) | windows | arm64 | 25.0.5.21 | 25.0.5.102 |
-| 18 Nov 17:15 | Microsoft Microsoft Build of OpenJDK 25 (x64) | windows | x64 | 25.0.5.21 | 25.0.5.102 |
-| 18 Nov 17:15 | Microsoft SQL Server Management Studio 22 | windows | arm64, x64 | 22.12.0 | 22.12.1 |
-| 18 Nov 17:15 | Microsoft Visual Studio Code (x64 en-us) | windows | x64 | 1.146.0 | 1.147.0 |
-| 18 Nov 17:15 | Omnissa Horizon Client | windows | x64 | 8.20.0.0 | 8.20.1.0 |
-| 18 Nov 17:15 | Ping Identity PingID | windows | arm64, x64 | 1.8.0 | 1.8.3 |
-| 18 Nov 17:15 | Piriform Software CCleaner Standard | windows | arm64, x64, x86 | 7.13.1591.2041 | 7.14.1609.2066 |
-| 18 Nov 17:15 | Postman Postman | windows | arm64, x64, x86 | 12.35.5.0 | 12.37.2.0 |
-| 18 Nov 17:15 | SonicWall Inc. NetExtender (Stable) (x64) | windows | x64 | 10.3.5 | 10.3.6 |
-| 18 Nov 17:15 | SonicWall Inc. NetExtender (Stable) (x86) | windows | x86 | 10.3.5 | 10.3.6 |
-| 18 Nov 17:15 | SonicWall Inc. NetExtender (arm64) | windows | arm64 | 10.3.5 | 10.3.6 |
-| 18 Nov 17:15 | SonicWall Inc. NetExtender (x64) | windows | x64 | 10.3.5 | 10.3.6 |
-| 18 Nov 17:15 | SonicWall Inc. NetExtender (x86) | windows | x86 | 10.3.5 | 10.3.6 |
-| 18 Nov 17:15 | Vivaldi Technologies Vivaldi (32-bit) | windows | x86 | 8.3.4191.44 | 8.3.4191.45 |
-| 18 Nov 17:15 | Vivaldi Technologies Vivaldi (64-bit) | windows | x64 | 8.3.4191.44 | 8.3.4191.45 |
-| 18 Nov 17:15 | Vivaldi Technologies Vivaldi (arm64) | windows | arm64 | 8.3.4191.44 | 8.3.4191.45 |
 
 ## Other additions (previously seen products or supporting files)
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 19 Nov 23:03 | Microsoft Edge | macos | arm64, x64 | — | 158.0.4370.33 |
+| 19 Nov 23:03 | Microsoft Edge | macos | arm64, x64 | — | 158.0.4370.33 |
+| 19 Nov 23:03 | Docker Inc. Docker Desktop (x64) | windows | x64 | — | 4.100.0.0 |
+| 19 Nov 23:03 | Docker Inc. Docker Desktop (x64) | windows | x64 | — | 4.100.0.0 |
+| 19 Nov 23:03 | Microsoft Edge WebView2 arm64 | windows | arm64 | — | 158.0.4370.33 |
+| 19 Nov 23:03 | Microsoft Edge WebView2 arm64 | windows | arm64 | — | 158.0.4370.33 |
+| 19 Nov 23:03 | Microsoft Edge WebView2 x64 | windows | x64 | — | 158.0.4370.33 |
+| 19 Nov 23:03 | Microsoft Edge WebView2 x64 | windows | x64 | — | 158.0.4370.33 |
+| 19 Nov 23:03 | Microsoft Edge WebView2 x86 | windows | x86 | — | 158.0.4370.33 |
+| 19 Nov 23:03 | Microsoft Edge WebView2 x86 | windows | x86 | — | 158.0.4370.33 |
 | 19 Nov 13:06 | Postman Postman (ARM) | macos | arm64 | — | 12.37.3 |
 | 19 Nov 13:06 | Postman Postman (ARM) | macos | arm64 | — | 12.37.3 |
 | 19 Nov 13:06 | Postman Postman | macos | x64 | — | 12.37.3 |
 | 19 Nov 13:06 | Postman Postman | macos | x64 | — | 12.37.3 |
-| 18 Nov 17:15 | Blender Foundation Blender | macos | arm64 | — | 5.3.0 |
-| 18 Nov 17:15 | Postman Postman (ARM) | macos | arm64 | — | 12.37.2 |
-| 18 Nov 17:15 | Postman Postman (ARM) | macos | arm64 | — | 12.37.2 |
-| 18 Nov 17:15 | Postman Postman | macos | x64 | — | 12.37.2 |
-| 18 Nov 17:15 | Postman Postman | macos | x64 | — | 12.37.2 |
-| 18 Nov 17:15 | Google Drive File Stream | windows | x64 | — | 134.0.1.0 |
-| 18 Nov 17:15 | Google Drive File Stream | windows | x64 | — | 134.0.1.0 |
-| 18 Nov 17:15 | Microsoft Windows App (32-bit) | windows | x86 | — | 2.0.1601.0 |
-| 18 Nov 17:15 | Microsoft Windows App (64-bit) | windows | x64 | — | 2.0.1601.0 |
-| 18 Nov 17:15 | Microsoft Windows App (Arm64) | windows | arm64 | — | 2.0.1601.0 |
 
 ## Definition changes
 
-| Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
-|---|---|---|---|---|---|
-| 18 Nov 17:15 | GN Audio Jabra Direct | windows | arm64, x64, x86 | 8.4.30601.0 | 8.4.30601.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 1809 - Phase1 - Direct-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 1809 x64 - Phase1 - Pre-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 1809 x64 - Phase2 - Re-Scan | windows | x64 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 1809 x86 - Phase1 - Pre-Cache | windows | x86 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 1809 x86 - Phase2 - Re-Scan | windows | x86 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 21H2 - Phase1 - Direct-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 21H2 x64 - Phase1 - Pre-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 21H2 x64 - Phase2 - Re-Scan | windows | x64 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 21H2 x86 - Phase1 - Pre-Cache | windows | x86 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 21H2 x86 - Phase2 - Re-Scan | windows | x86 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 22H2 - Phase1 - Direct-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 22H2 x64 - Phase1 - Pre-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 22H2 x64 - Phase2 - Re-Scan | windows | x64 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 22H2 x86 - Phase1 - Pre-Cache | windows | x86 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 10 Version 22H2 x86 - Phase2 - Re-Scan | windows | x86 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 22H2 - Phase1 - Direct-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 22H2 - Phase1 - Pre-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 22H2 - Phase2 - Re-Scan | windows | x64 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 23H2 - Phase1 - Direct-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 23H2 - Phase1 - Pre-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 23H2 - Phase2 - Re-Scan | windows | x64 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 24H2 - Phase1 - Direct-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 24H2 - Phase1 - Pre-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 24H2 - Phase2 - Re-Scan | windows | x64 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 25H2 - Phase1 - Pre-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 25H2 - Phase2 - Re-Scan | windows | x64 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 26H2 - Phase1 - Pre-Cache | windows | x64 | 1.1.0.0 | 1.1.0.0 |
-| 18 Nov 17:15 | Microsoft InPlace Upgrade to Windows 11 Version 26H2 - Phase2 - Re-Scan | windows | x64 | 1.1.0.0 | 1.1.0.0 |
+None detected in this window.
 
 ## Removed packages
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 19 Nov 23:03 | Microsoft Edge | macos | arm64, x64 | 157.0.4341.60 | — |
+| 19 Nov 23:03 | Microsoft Edge | macos | arm64, x64 | 157.0.4341.60 | — |
+| 19 Nov 23:03 | Bitwarden, Inc. Bitwarden Desktop (arm64) | windows | arm64 | 2026.10.4 | — |
+| 19 Nov 23:03 | Bitwarden, Inc. Bitwarden Desktop (x64) | windows | x64 | 2026.10.4 | — |
+| 19 Nov 23:03 | Cisco Network Recording Player | windows | arm64, x64, x86 | 41.5.7.11 | — |
+| 19 Nov 23:03 | Cisco Webex Recorder and Player | windows | arm64, x64, x86 | 45.6.4.8 | — |
+| 19 Nov 23:03 | Docker Inc. Docker Desktop (x64) | windows | x64 | 4.99.0.0 | — |
+| 19 Nov 23:03 | Docker Inc. Docker Desktop (x64) | windows | x64 | 4.99.0.0 | — |
+| 19 Nov 23:03 | Microsoft Edge WebView2 arm64 | windows | arm64 | 157.0.4341.60 | — |
+| 19 Nov 23:03 | Microsoft Edge WebView2 arm64 | windows | arm64 | 157.0.4341.60 | — |
+| 19 Nov 23:03 | Microsoft Edge WebView2 x64 | windows | x64 | 157.0.4341.57 | — |
+| 19 Nov 23:03 | Microsoft Edge WebView2 x64 | windows | x64 | 157.0.4341.57 | — |
+| 19 Nov 23:03 | Microsoft Edge WebView2 x86 | windows | x86 | 157.0.4341.57 | — |
+| 19 Nov 23:03 | Microsoft Edge WebView2 x86 | windows | x86 | 157.0.4341.57 | — |
 | 19 Nov 13:06 | Postman Postman (ARM) | macos | arm64 | 12.37.2 | — |
 | 19 Nov 13:06 | Postman Postman (ARM) | macos | arm64 | 12.37.2 | — |
 | 19 Nov 13:06 | Postman Postman | macos | x64 | 12.37.2 | — |
 | 19 Nov 13:06 | Postman Postman | macos | x64 | 12.37.2 | — |
-| 18 Nov 17:15 | Postman Postman (ARM) | macos | arm64 | 12.35.5 | — |
-| 18 Nov 17:15 | Postman Postman (ARM) | macos | arm64 | 12.35.5 | — |
-| 18 Nov 17:15 | Postman Postman | macos | x64 | 12.35.5 | — |
-| 18 Nov 17:15 | Postman Postman | macos | x64 | 12.35.5 | — |
-| 18 Nov 17:15 | Running with Crayons Ltd Alfred 5 | macos | arm64, x64 | 5.8.1 | — |
-| 18 Nov 17:15 | Google Drive File Stream | windows | x64 | 133.0.2.0 | — |
-| 18 Nov 17:15 | Google Drive File Stream | windows | x64 | 133.0.2.0 | — |
 
 ## Renamed files
 
