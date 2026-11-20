@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 20 Nov 2026 07:14 UTC  
-**Observation window:** 19 Nov 2026 07:14 UTC to 20 Nov 2026 07:14 UTC
+**Last successful check:** 20 Nov 2026 16:57 UTC  
+**Observation window:** 19 Nov 2026 16:57 UTC to 20 Nov 2026 16:57 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 51 | 14 | 0 | 18 | 0 |
+| 0 | 65 | 10 | 1 | 17 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,6 +22,30 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 20 Nov 16:57 | Knollsoft Rectangle | macos | arm64, x64 | 2.0.4 | 2.0.5 |
+| 20 Nov 16:57 | Palo Alto Networks, Inc. Prisma Access Browser | macos | arm64 | 157.19.6.79 | 158.19.3.37 |
+| 20 Nov 16:57 | Vivaldi Technologies Vivaldi | macos | arm64, x64 | 8.3.4191.45 | 8.3.4191.47 |
+| 20 Nov 16:57 | WhatsApp LLC WhatsApp | macos | arm64, x64 | 26.46.17 | 26.46.21 |
+| 20 Nov 16:57 | appmakes Typora | macos | arm64, x64 | 1.14.10 | 1.14.15 |
+| 20 Nov 16:57 | Amazon Web Services, Inc. Amazon Redshift ODBC Driver (x64) | windows | x64 | 2.3.0.0 | 2.3.1.0 |
+| 20 Nov 16:57 | Eclipse Adoptium Temurin 17 JDK with Hotspot 64-bit | windows | x64 | 17.0.21.9 | 17.0.21.10002 |
+| 20 Nov 16:57 | Eclipse Adoptium Temurin 17 JRE with Hotspot 64-bit | windows | x64 | 17.0.21.9 | 17.0.21.10002 |
+| 20 Nov 16:57 | Eclipse Adoptium Temurin 21 JDK with Hotspot 64-bit | windows | x64 | 21.0.13.9 | 21.0.13.10002 |
+| 20 Nov 16:57 | Eclipse Adoptium Temurin 21 JRE with Hotspot 64-bit | windows | x64 | 21.0.13.9 | 21.0.13.10002 |
+| 20 Nov 16:57 | Eclipse Adoptium Temurin 25 JDK with Hotspot 64-bit | windows | x64 | 25.0.5.8 | 25.0.5.10002 |
+| 20 Nov 16:57 | Eclipse Adoptium Temurin 25 JRE with Hotspot 64-bit | windows | x64 | 25.0.5.8 | 25.0.5.10002 |
+| 20 Nov 16:57 | OpenAI OpCo, LLC ChatGPT Codex (arm64) | windows | arm64 | 26.1111.9664.0 | 26.1117.3838.0 |
+| 20 Nov 16:57 | OpenAI OpCo, LLC ChatGPT Codex (x64) | windows | x64 | 26.1111.9664.0 | 26.1117.3838.0 |
+| 20 Nov 16:57 | Palo Alto Networks, Inc. Prisma Access Browser | windows | arm64, x64 | 157.19.6.79 | 158.19.3.37 |
+| 20 Nov 16:57 | Sahara Presentation Systems PLC Clevershare | windows | x64, x86 | 5.6.3497 | 5.14.1.4404 |
+| 20 Nov 16:57 | SmartBear Software SoapUI (x64) | windows | arm64, x64 | 5.10.0 | 5.10.1 |
+| 20 Nov 16:57 | Vivaldi Technologies Vivaldi (32-bit) | windows | x86 | 8.3.4191.45 | 8.3.4191.47 |
+| 20 Nov 16:57 | Vivaldi Technologies Vivaldi (64-bit) | windows | x64 | 8.3.4191.45 | 8.3.4191.47 |
+| 20 Nov 16:57 | Vivaldi Technologies Vivaldi (arm64) | windows | arm64 | 8.3.4191.45 | 8.3.4191.47 |
+| 20 Nov 16:57 | appmakes Typora x64 (Active User) | windows | x64 | 1.14.10 | 1.14.15 |
+| 20 Nov 16:57 | appmakes Typora x64 (All Users) | windows | x64 | 1.14.10 | 1.14.15 |
+| 20 Nov 16:57 | appmakes Typora x86 (Active User) | windows | x86 | 1.14.10 | 1.14.15 |
+| 20 Nov 16:57 | appmakes Typora x86 (All Users) | windows | x86 | 1.14.10 | 1.14.15 |
 | 20 Nov 07:14 | Anthropic PBC Claude | macos | arm64, x64 | 6.6395.1 | 6.28899.2 |
 | 20 Nov 07:14 | Anysphere Cursor arm64 | macos | arm64 | 3.30.14 | 3.31.11 |
 | 20 Nov 07:14 | Anysphere Cursor x64 | macos | x64 | 3.30.14 | 3.31.11 |
@@ -63,16 +87,6 @@ None detected in this window.
 | 19 Nov 23:03 | Sober Lemur S.r.l. PDFsam Basic (64-bit) | windows | arm64, x64 | 6.0.10.0 | 6.0.11.0 |
 | 19 Nov 23:03 | Splunk Universal Forwarder x64 | windows | arm64, x64 | 10.6.1.1 | 10.6.2.5 |
 | 19 Nov 23:03 | Tableau Desktop 2025 | windows | x64 | 2025.3.11 | 2025.3.12 |
-| 19 Nov 13:06 | Grammarly Grammarly (Active User) | windows | arm64, x64 | 1.2.314.2009 | 1.2.314.2010 |
-| 19 Nov 13:06 | OpenAI OpCo, LLC ChatGPT Codex (arm64) | windows | arm64 | 26.1111.2228.0 | 26.1111.9664.0 |
-| 19 Nov 13:06 | OpenAI OpCo, LLC ChatGPT Codex (x64) | windows | x64 | 26.1111.2228.0 | 26.1111.9664.0 |
-| 19 Nov 13:06 | Postman Postman | windows | arm64, x64, x86 | 12.37.2.0 | 12.37.3.0 |
-| 19 Nov 13:06 | RealVNC RealVNC Connect | windows | arm64, x64 | 8.6.1.17 | 8.6.2.18 |
-| 19 Nov 13:06 | RealVNC RealVNC Viewer | windows | arm64, x64 | 8.6.1.17 | 8.6.2.18 |
-| 19 Nov 13:06 | VMware VMware Tools (64-bit) | windows | x64 | 13.1.5.25544008 | 13.1.6.25833820 |
-| 19 Nov 13:06 | VMware VMware Tools (ARM64) | windows | arm64 | 13.1.5.25544008 | 13.1.6.25833820 |
-| 19 Nov 13:06 | Vim Project Vim (arm64) | windows | arm64 | 9.2.1345 | 9.2.1373 |
-| 19 Nov 13:06 | Vim Project Vim (x64) | windows | x64 | 9.2.1345 | 9.2.1373 |
 
 ## Other additions (previously seen products or supporting files)
 
@@ -88,19 +102,20 @@ None detected in this window.
 | 19 Nov 23:03 | Microsoft Edge WebView2 x64 | windows | x64 | — | 158.0.4370.33 |
 | 19 Nov 23:03 | Microsoft Edge WebView2 x86 | windows | x86 | — | 158.0.4370.33 |
 | 19 Nov 23:03 | Microsoft Edge WebView2 x86 | windows | x86 | — | 158.0.4370.33 |
-| 19 Nov 13:06 | Postman Postman (ARM) | macos | arm64 | — | 12.37.3 |
-| 19 Nov 13:06 | Postman Postman (ARM) | macos | arm64 | — | 12.37.3 |
-| 19 Nov 13:06 | Postman Postman | macos | x64 | — | 12.37.3 |
-| 19 Nov 13:06 | Postman Postman | macos | x64 | — | 12.37.3 |
 
 ## Definition changes
 
-None detected in this window.
+| Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
+|---|---|---|---|---|---|
+| 20 Nov 16:57 | RealVNC RealVNC Server | windows | arm64, x64 | 7.19.1.15 | 7.19.1.15 |
 
 ## Removed packages
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 20 Nov 16:57 | Ubiquiti WiFiman Desktop (arm64) | macos | arm64 | 1.3.0 | — |
+| 20 Nov 16:57 | Ubiquiti WiFiman Desktop (x64) | macos | x64 | 1.3.0 | — |
+| 20 Nov 16:57 | Ubiquiti WiFiman Desktop (arm64) | windows | arm64 | 1.3.0 | — |
 | 19 Nov 23:03 | Microsoft Edge | macos | arm64, x64 | 157.0.4341.60 | — |
 | 19 Nov 23:03 | Microsoft Edge | macos | arm64, x64 | 157.0.4341.60 | — |
 | 19 Nov 23:03 | Bitwarden, Inc. Bitwarden Desktop (arm64) | windows | arm64 | 2026.10.4 | — |
@@ -115,10 +130,6 @@ None detected in this window.
 | 19 Nov 23:03 | Microsoft Edge WebView2 x64 | windows | x64 | 157.0.4341.57 | — |
 | 19 Nov 23:03 | Microsoft Edge WebView2 x86 | windows | x86 | 157.0.4341.57 | — |
 | 19 Nov 23:03 | Microsoft Edge WebView2 x86 | windows | x86 | 157.0.4341.57 | — |
-| 19 Nov 13:06 | Postman Postman (ARM) | macos | arm64 | 12.37.2 | — |
-| 19 Nov 13:06 | Postman Postman (ARM) | macos | arm64 | 12.37.2 | — |
-| 19 Nov 13:06 | Postman Postman | macos | x64 | 12.37.2 | — |
-| 19 Nov 13:06 | Postman Postman | macos | x64 | 12.37.2 | — |
 
 ## Renamed files
 
