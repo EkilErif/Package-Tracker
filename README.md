@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 19 Nov 2026 23:03 UTC  
-**Observation window:** 18 Nov 2026 23:03 UTC to 19 Nov 2026 23:03 UTC
+**Last successful check:** 20 Nov 2026 07:14 UTC  
+**Observation window:** 19 Nov 2026 07:14 UTC to 20 Nov 2026 07:14 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 58 | 14 | 0 | 18 | 0 |
+| 0 | 51 | 14 | 0 | 18 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,6 +22,19 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 20 Nov 07:14 | Anthropic PBC Claude | macos | arm64, x64 | 6.6395.1 | 6.28899.2 |
+| 20 Nov 07:14 | Anysphere Cursor arm64 | macos | arm64 | 3.30.14 | 3.31.11 |
+| 20 Nov 07:14 | Anysphere Cursor x64 | macos | x64 | 3.30.14 | 3.31.11 |
+| 20 Nov 07:14 | Notion Notion | macos | arm64, x64 | 7.44.0 | 7.44.1 |
+| 20 Nov 07:14 | OpenAI OpCo, LLC ChatGPT Codex | macos | arm64 | 26.1111.71704 | 26.1117.31558 |
+| 20 Nov 07:14 | Anthropic PBC Claude arm64 | windows | arm64 | 6.6395.1.0 | 6.28899.2.0 |
+| 20 Nov 07:14 | Anthropic PBC Claude x64 | windows | x64 | 6.6395.1.0 | 6.28899.2.0 |
+| 20 Nov 07:14 | Anysphere Cursor arm64 (Active User) | windows | arm64 | 3.30.14 | 3.31.11 |
+| 20 Nov 07:14 | Anysphere Cursor arm64 | windows | arm64 | 3.30.14 | 3.31.11 |
+| 20 Nov 07:14 | Anysphere Cursor x64 (Active User) | windows | x64 | 3.30.14 | 3.31.11 |
+| 20 Nov 07:14 | Anysphere Cursor x64 | windows | x64 | 3.30.14 | 3.31.11 |
+| 20 Nov 07:14 | Notion Notion arm64 (Active User) | windows | arm64 | 7.44.0.0 | 7.44.1.0 |
+| 20 Nov 07:14 | Notion Notion x64 (Active User) | windows | x64 | 7.44.0.0 | 7.44.1.0 |
 | 19 Nov 23:03 | Microsoft Edge (DPKG) | linux | x64 | 157.0.4341.60 | 158.0.4370.33 |
 | 19 Nov 23:03 | Splunk Universal Forwarder (x64 DPKG) | linux | x64 | 10.6.1.1 | 10.6.2.5 |
 | 19 Nov 23:03 | Splunk Universal Forwarder (x64 RPM) | linux | x64 | 10.6.1.1 | 10.6.2.5 |
@@ -60,26 +73,6 @@ None detected in this window.
 | 19 Nov 13:06 | VMware VMware Tools (ARM64) | windows | arm64 | 13.1.5.25544008 | 13.1.6.25833820 |
 | 19 Nov 13:06 | Vim Project Vim (arm64) | windows | arm64 | 9.2.1345 | 9.2.1373 |
 | 19 Nov 13:06 | Vim Project Vim (x64) | windows | x64 | 9.2.1345 | 9.2.1373 |
-| 19 Nov 01:52 | Anthropic PBC Claude | macos | arm64, x64 | 6.6395.0 | 6.6395.1 |
-| 19 Nov 01:52 | Brave Software, Inc Brave Browser | macos | arm64, x64 | 1.99.57 | 1.100.58 |
-| 19 Nov 01:52 | Cognition Devin Desktop | macos | arm64 | 3.14.30819 | 3.14.30825 |
-| 19 Nov 01:52 | Figma, Inc. Figma | macos | arm64 | 126.11.9 | 126.11.11 |
-| 19 Nov 01:52 | George Nachman iTerm2 | macos | arm64, x64 | 3.7.7 | 3.7.8 |
-| 19 Nov 01:52 | OpenAI OpCo, LLC ChatGPT Codex | macos | arm64 | 26.1111.71025 | 26.1111.71704 |
-| 19 Nov 01:52 | Tableau Reader 2026 | macos | arm64, x64 | 2026.3.0 | 2026.3.1 |
-| 19 Nov 01:52 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.41.0.0 | 2.41.1.0 |
-| 19 Nov 01:52 | Anthropic PBC Claude arm64 | windows | arm64 | 6.6395.0.0 | 6.6395.1.0 |
-| 19 Nov 01:52 | Anthropic PBC Claude x64 | windows | x64 | 6.6395.0.0 | 6.6395.1.0 |
-| 19 Nov 01:52 | Brave Software, Inc Brave Browser (Active User) (arm64) | windows | arm64 | 1.99.57 | 1.100.58 |
-| 19 Nov 01:52 | Brave Software, Inc Brave Browser (Active User) (x64) | windows | x64 | 1.99.57 | 1.100.58 |
-| 19 Nov 01:52 | Brave Software, Inc Brave Browser (Active User) (x86) | windows | x86 | 1.99.57 | 1.100.58 |
-| 19 Nov 01:52 | Cognition Devin Desktop (arm64) | windows | arm64 | 3.14.30819 | 3.14.30825 |
-| 19 Nov 01:52 | Cognition Devin Desktop (x64) | windows | x64 | 3.14.30819 | 3.14.30825 |
-| 19 Nov 01:52 | Perforce Helix Core Apps | windows | arm64, x64 | 242.63.2 | 242.63.3 |
-| 19 Nov 01:52 | Tableau Reader 2026 x64 | windows | x64 | 2026.3.0 | 2026.3.1 |
-| 19 Nov 01:52 | Tableau Tableau Public | windows | x64 | 2026.3.0 | 2026.3.1 |
-| 19 Nov 01:52 | The Wireshark developer community Wireshark 64-bit | windows | x64 | 4.6.9 | 4.6.10 |
-| 19 Nov 01:52 | The Wireshark developer community Wireshark arm64 | windows | arm64 | 4.6.9 | 4.6.10 |
 
 ## Other additions (previously seen products or supporting files)
 
