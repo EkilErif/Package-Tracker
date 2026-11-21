@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 21 Nov 2026 01:31 UTC  
-**Observation window:** 20 Nov 2026 01:31 UTC to 21 Nov 2026 01:31 UTC
+**Last successful check:** 21 Nov 2026 12:38 UTC  
+**Observation window:** 20 Nov 2026 12:38 UTC to 21 Nov 2026 12:38 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 56 | 3 | 3 | 3 | 0 |
+| 0 | 52 | 3 | 5 | 3 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,6 +22,15 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 21 Nov 12:38 | George Nachman iTerm2 | macos | arm64, x64 | 3.7.8 | 3.7.9 |
+| 21 Nov 12:38 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.42.0.0 | 2.42.1.0 |
+| 21 Nov 12:38 | OBS Studio OBS Studio | windows | x64 | 33.0.2 | 33.0.1 |
+| 21 Nov 12:38 | OpenAI OpCo, LLC ChatGPT Codex (arm64) | windows | arm64 | 26.1117.3838.0 | 26.1117.4957.0 |
+| 21 Nov 12:38 | OpenAI OpCo, LLC ChatGPT Codex (x64) | windows | x64 | 26.1117.3838.0 | 26.1117.4957.0 |
+| 21 Nov 12:38 | appmakes Typora x64 (Active User) | windows | x64 | 1.14.15 | 1.14.17 |
+| 21 Nov 12:38 | appmakes Typora x64 (All Users) | windows | x64 | 1.14.15 | 1.14.17 |
+| 21 Nov 12:38 | appmakes Typora x86 (Active User) | windows | x86 | 1.14.15 | 1.14.17 |
+| 21 Nov 12:38 | appmakes Typora x86 (All Users) | windows | x86 | 1.14.15 | 1.14.17 |
 | 21 Nov 01:31 | Anthropic PBC Claude | macos | arm64, x64 | 6.28899.2 | 6.28899.6 |
 | 21 Nov 01:31 | Anysphere Cursor arm64 | macos | arm64 | 3.31.11 | 3.31.15 |
 | 21 Nov 01:31 | Anysphere Cursor x64 | macos | x64 | 3.31.11 | 3.31.15 |
@@ -65,19 +74,6 @@ None detected in this window.
 | 20 Nov 16:57 | appmakes Typora x64 (All Users) | windows | x64 | 1.14.10 | 1.14.15 |
 | 20 Nov 16:57 | appmakes Typora x86 (Active User) | windows | x86 | 1.14.10 | 1.14.15 |
 | 20 Nov 16:57 | appmakes Typora x86 (All Users) | windows | x86 | 1.14.10 | 1.14.15 |
-| 20 Nov 07:14 | Anthropic PBC Claude | macos | arm64, x64 | 6.6395.1 | 6.28899.2 |
-| 20 Nov 07:14 | Anysphere Cursor arm64 | macos | arm64 | 3.30.14 | 3.31.11 |
-| 20 Nov 07:14 | Anysphere Cursor x64 | macos | x64 | 3.30.14 | 3.31.11 |
-| 20 Nov 07:14 | Notion Notion | macos | arm64, x64 | 7.44.0 | 7.44.1 |
-| 20 Nov 07:14 | OpenAI OpCo, LLC ChatGPT Codex | macos | arm64 | 26.1111.71704 | 26.1117.31558 |
-| 20 Nov 07:14 | Anthropic PBC Claude arm64 | windows | arm64 | 6.6395.1.0 | 6.28899.2.0 |
-| 20 Nov 07:14 | Anthropic PBC Claude x64 | windows | x64 | 6.6395.1.0 | 6.28899.2.0 |
-| 20 Nov 07:14 | Anysphere Cursor arm64 (Active User) | windows | arm64 | 3.30.14 | 3.31.11 |
-| 20 Nov 07:14 | Anysphere Cursor arm64 | windows | arm64 | 3.30.14 | 3.31.11 |
-| 20 Nov 07:14 | Anysphere Cursor x64 (Active User) | windows | x64 | 3.30.14 | 3.31.11 |
-| 20 Nov 07:14 | Anysphere Cursor x64 | windows | x64 | 3.30.14 | 3.31.11 |
-| 20 Nov 07:14 | Notion Notion arm64 (Active User) | windows | arm64 | 7.44.0.0 | 7.44.1.0 |
-| 20 Nov 07:14 | Notion Notion x64 (Active User) | windows | x64 | 7.44.0.0 | 7.44.1.0 |
 
 ## Other additions (previously seen products or supporting files)
 
@@ -91,6 +87,8 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 21 Nov 12:38 | Microsoft Skype Desktop Client (x86) - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
+| 21 Nov 12:38 | Zoom Zoom - Active User - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
 | 21 Nov 01:31 | Microsoft Skype Desktop Client (x86) - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
 | 21 Nov 01:31 | Zoom Zoom - Active User - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
 | 20 Nov 16:57 | RealVNC RealVNC Server | windows | arm64, x64 | 7.19.1.15 | 7.19.1.15 |
