@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 21 Nov 2026 12:38 UTC  
-**Observation window:** 20 Nov 2026 12:38 UTC to 21 Nov 2026 12:38 UTC
+**Last successful check:** 21 Nov 2026 21:39 UTC  
+**Observation window:** 20 Nov 2026 21:39 UTC to 21 Nov 2026 21:39 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 52 | 3 | 5 | 3 | 0 |
+| 0 | 30 | 4 | 8 | 0 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,6 +22,8 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 21 Nov 21:39 | Google LLC Google Gemini | macos | arm64 | 1.147.5.1526 | 1.147.6.1557 |
+| 21 Nov 21:39 | Ubiquiti WiFiman Desktop (x64) | macos | x64 | 1.1.3 | 1.3.0 |
 | 21 Nov 12:38 | George Nachman iTerm2 | macos | arm64, x64 | 3.7.8 | 3.7.9 |
 | 21 Nov 12:38 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.42.0.0 | 2.42.1.0 |
 | 21 Nov 12:38 | OBS Studio OBS Studio | windows | x64 | 33.0.2 | 33.0.1 |
@@ -50,35 +52,12 @@ None detected in this window.
 | 21 Nov 01:31 | Cognition Devin Desktop (arm64) | windows | arm64 | 3.14.30825 | 3.14.30833 |
 | 21 Nov 01:31 | Cognition Devin Desktop (x64) | windows | x64 | 3.14.30825 | 3.14.30833 |
 | 21 Nov 01:31 | OBS Studio OBS Studio | windows | x64 | 33.0.1 | 33.0.2 |
-| 20 Nov 16:57 | Knollsoft Rectangle | macos | arm64, x64 | 2.0.4 | 2.0.5 |
-| 20 Nov 16:57 | Palo Alto Networks, Inc. Prisma Access Browser | macos | arm64 | 157.19.6.79 | 158.19.3.37 |
-| 20 Nov 16:57 | Vivaldi Technologies Vivaldi | macos | arm64, x64 | 8.3.4191.45 | 8.3.4191.47 |
-| 20 Nov 16:57 | WhatsApp LLC WhatsApp | macos | arm64, x64 | 26.46.17 | 26.46.21 |
-| 20 Nov 16:57 | appmakes Typora | macos | arm64, x64 | 1.14.10 | 1.14.15 |
-| 20 Nov 16:57 | Amazon Web Services, Inc. Amazon Redshift ODBC Driver (x64) | windows | x64 | 2.3.0.0 | 2.3.1.0 |
-| 20 Nov 16:57 | Eclipse Adoptium Temurin 17 JDK with Hotspot 64-bit | windows | x64 | 17.0.21.9 | 17.0.21.10002 |
-| 20 Nov 16:57 | Eclipse Adoptium Temurin 17 JRE with Hotspot 64-bit | windows | x64 | 17.0.21.9 | 17.0.21.10002 |
-| 20 Nov 16:57 | Eclipse Adoptium Temurin 21 JDK with Hotspot 64-bit | windows | x64 | 21.0.13.9 | 21.0.13.10002 |
-| 20 Nov 16:57 | Eclipse Adoptium Temurin 21 JRE with Hotspot 64-bit | windows | x64 | 21.0.13.9 | 21.0.13.10002 |
-| 20 Nov 16:57 | Eclipse Adoptium Temurin 25 JDK with Hotspot 64-bit | windows | x64 | 25.0.5.8 | 25.0.5.10002 |
-| 20 Nov 16:57 | Eclipse Adoptium Temurin 25 JRE with Hotspot 64-bit | windows | x64 | 25.0.5.8 | 25.0.5.10002 |
-| 20 Nov 16:57 | OpenAI OpCo, LLC ChatGPT Codex (arm64) | windows | arm64 | 26.1111.9664.0 | 26.1117.3838.0 |
-| 20 Nov 16:57 | OpenAI OpCo, LLC ChatGPT Codex (x64) | windows | x64 | 26.1111.9664.0 | 26.1117.3838.0 |
-| 20 Nov 16:57 | Palo Alto Networks, Inc. Prisma Access Browser | windows | arm64, x64 | 157.19.6.79 | 158.19.3.37 |
-| 20 Nov 16:57 | Sahara Presentation Systems PLC Clevershare | windows | x64, x86 | 5.6.3497 | 5.14.1.4404 |
-| 20 Nov 16:57 | SmartBear Software SoapUI (x64) | windows | arm64, x64 | 5.10.0 | 5.10.1 |
-| 20 Nov 16:57 | Vivaldi Technologies Vivaldi (32-bit) | windows | x86 | 8.3.4191.45 | 8.3.4191.47 |
-| 20 Nov 16:57 | Vivaldi Technologies Vivaldi (64-bit) | windows | x64 | 8.3.4191.45 | 8.3.4191.47 |
-| 20 Nov 16:57 | Vivaldi Technologies Vivaldi (arm64) | windows | arm64 | 8.3.4191.45 | 8.3.4191.47 |
-| 20 Nov 16:57 | appmakes Typora x64 (Active User) | windows | x64 | 1.14.10 | 1.14.15 |
-| 20 Nov 16:57 | appmakes Typora x64 (All Users) | windows | x64 | 1.14.10 | 1.14.15 |
-| 20 Nov 16:57 | appmakes Typora x86 (Active User) | windows | x86 | 1.14.10 | 1.14.15 |
-| 20 Nov 16:57 | appmakes Typora x86 (All Users) | windows | x86 | 1.14.10 | 1.14.15 |
 
 ## Other additions (previously seen products or supporting files)
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 21 Nov 21:39 | Freeplane Freeplane | macos | arm64 | — | 1.13.5 |
 | 21 Nov 01:31 | Ubiquiti WiFiman Desktop (arm64) | macos | arm64 | — | 1.1.3 |
 | 21 Nov 01:31 | Ubiquiti WiFiman Desktop (x64) | macos | x64 | — | 1.1.3 |
 | 21 Nov 01:31 | Ubiquiti WiFiman Desktop (arm64) | windows | arm64 | — | 1.1.3 |
@@ -87,19 +66,18 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 21 Nov 21:39 | TigerVNC Team TigerVNC | macos | arm64 | 1.16.2 | 1.16.2 |
+| 21 Nov 21:39 | KeePass KeePass 1 | windows | x64, x86 | 1.44 | 1.44 |
+| 21 Nov 21:39 | KeePass KeePass 2 | windows | x64, x86 | 2.62 | 2.62 |
+| 21 Nov 21:39 | TigerVNC Team TigerVNC | windows | arm64, x64 | 1.16.2 | 1.16.2 |
 | 21 Nov 12:38 | Microsoft Skype Desktop Client (x86) - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
 | 21 Nov 12:38 | Zoom Zoom - Active User - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
 | 21 Nov 01:31 | Microsoft Skype Desktop Client (x86) - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
 | 21 Nov 01:31 | Zoom Zoom - Active User - Remove Only | windows | arm64, x64, x86 | 1.0 | 1.0 |
-| 20 Nov 16:57 | RealVNC RealVNC Server | windows | arm64, x64 | 7.19.1.15 | 7.19.1.15 |
 
 ## Removed packages
 
-| Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
-|---|---|---|---|---|---|
-| 20 Nov 16:57 | Ubiquiti WiFiman Desktop (arm64) | macos | arm64 | 1.3.0 | — |
-| 20 Nov 16:57 | Ubiquiti WiFiman Desktop (x64) | macos | x64 | 1.3.0 | — |
-| 20 Nov 16:57 | Ubiquiti WiFiman Desktop (arm64) | windows | arm64 | 1.3.0 | — |
+None detected in this window.
 
 ## Renamed files
 
