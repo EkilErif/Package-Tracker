@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 24 Nov 2026 04:48 UTC  
-**Observation window:** 23 Nov 2026 04:48 UTC to 24 Nov 2026 04:48 UTC
+**Last successful check:** 24 Nov 2026 19:30 UTC  
+**Observation window:** 23 Nov 2026 19:30 UTC to 24 Nov 2026 19:30 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 1 | 28 | 11 | 14 | 10 | 0 |
+| 3 | 201 | 14 | 15 | 12 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -18,12 +18,188 @@ First seen in the recorded gallery history, by vendor, product name and platform
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 24 Nov 19:30 | Running with Crayons Ltd Alfred 6 | macos | arm64, x64 | — | 6.0.3 |
+| 24 Nov 19:30 | Cisco Network Recording Player - Remove Only | windows | arm64, x64, x86 | — | 1.0 |
 | 23 Nov 20:14 | Cisco Webex Recorder and Player - Remove Only | windows | arm64, x64, x86 | — | 1.0 |
 
 ## Version changes
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 24 Nov 19:30 | Bare Bones BBEdit | macos | arm64, x64 | 16.1 | 16.1.1 |
+| 24 Nov 19:30 | Brave Software, Inc Brave Browser | macos | arm64, x64 | 1.100.58 | 1.100.59 |
+| 24 Nov 19:30 | Evernote Corporation Evernote | macos | arm64, x64 | 11.43.4 | 11.44.6 |
+| 24 Nov 19:30 | JetBrains DataGrip (ARM) | macos | arm64 | 2026.3 | 2026.3.0.1 |
+| 24 Nov 19:30 | JetBrains DataGrip | macos | x64 | 2026.3 | 2026.3.0.1 |
+| 24 Nov 19:30 | JetBrains GoLand (ARM) | macos | arm64 | 2026.3 | 2026.3.0.1 |
+| 24 Nov 19:30 | JetBrains GoLand | macos | x64 | 2026.3 | 2026.3.0.1 |
+| 24 Nov 19:30 | JetBrains IntelliJ IDEA Ultimate Edition (ARM) | macos | arm64 | 2026.3 | 2026.3.0.1 |
+| 24 Nov 19:30 | JetBrains IntelliJ IDEA Ultimate Edition | macos | x64 | 2026.3 | 2026.3.0.1 |
+| 24 Nov 19:30 | JetBrains JetBrains Toolbox (ARM) | macos | arm64 | 3.9.1.89198 | 3.9.2.89815 |
+| 24 Nov 19:30 | JetBrains JetBrains Toolbox | macos | x64 | 3.9.1.89198 | 3.9.2.89815 |
+| 24 Nov 19:30 | JetBrains PyCharm (ARM) | macos | arm64 | 2026.3.0.1 | 2026.3.0.2 |
+| 24 Nov 19:30 | JetBrains PyCharm | macos | x64 | 2026.3.0.1 | 2026.3.0.2 |
+| 24 Nov 19:30 | JetBrains WebStorm (ARM) | macos | arm64 | 2026.3 | 2026.3.0.1 |
+| 24 Nov 19:30 | JetBrains WebStorm | macos | x64 | 2026.3 | 2026.3.0.1 |
+| 24 Nov 19:30 | Mozilla Firefox | macos | arm64, x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Thunderbird ESR | macos | arm64, x64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Palo Alto Networks, Inc. Prisma Access Browser | macos | arm64 | 158.19.3.37 | 158.19.4.89 |
+| 24 Nov 19:30 | WhatsApp LLC WhatsApp | macos | arm64, x64 | 26.47.12 | 26.47.15 |
+| 24 Nov 19:30 | Brave Software, Inc Brave Browser (Active User) (arm64) | windows | arm64 | 1.100.58 | 1.100.59 |
+| 24 Nov 19:30 | Brave Software, Inc Brave Browser (Active User) (x64) | windows | x64 | 1.100.58 | 1.100.59 |
+| 24 Nov 19:30 | Brave Software, Inc Brave Browser (Active User) (x86) | windows | x86 | 1.100.58 | 1.100.59 |
+| 24 Nov 19:30 | Bruno Software, Inc. Bruno (arm64) | windows | arm64 | 4.3.0.0 | 4.4.0.0 |
+| 24 Nov 19:30 | Bruno Software, Inc. Bruno (x64) | windows | x64 | 4.3.0.0 | 4.4.0.0 |
+| 24 Nov 19:30 | Evernote Corporation Evernote (Active User) | windows | arm64, x64, x86 | 11.43.4.43490 | 11.44.6.59399 |
+| 24 Nov 19:30 | Evernote Corporation Evernote (All Users) | windows | arm64, x64, x86 | 11.43.4.43490 | 11.44.6.59399 |
+| 24 Nov 19:30 | JetBrains DataGrip | windows | x64 | 2026.3 | 2026.3.0 |
+| 24 Nov 19:30 | JetBrains GoLand | windows | x64 | 2026.3 | 2026.3.0.1 |
+| 24 Nov 19:30 | JetBrains IntelliJ IDEA Ultimate Edition | windows | x64 | 2026.3 | 2026.3.0.1 |
+| 24 Nov 19:30 | JetBrains IntelliJ IDEA arm64 | windows | arm64 | 2026.3 | 2026.3.0.1 |
+| 24 Nov 19:30 | JetBrains JetBrains Toolbox (arm64) | windows | arm64 | 3.9.1.89198 | 3.9.2.89815 |
+| 24 Nov 19:30 | JetBrains JetBrains Toolbox | windows | x64 | 3.9.1.89198 | 3.9.2.89815 |
+| 24 Nov 19:30 | JetBrains PyCharm Professional Edition | windows | x64 | 2026.3.0.1 | 2026.3.0.2 |
+| 24 Nov 19:30 | JetBrains PyCharm arm64 | windows | arm64 | 2026.3.0.1 | 2026.3.0.2 |
+| 24 Nov 19:30 | JetBrains WebStorm | windows | x64 | 2026.3 | 2026.3.0.1 |
+| 24 Nov 19:30 | JetBrains WebStorm arm64 | windows | arm64 | 2026.3 | 2026.3.0.1 |
+| 24 Nov 19:30 | Microsoft Teams x86 | windows | x86 | 26288.2004.5269.3420 | 26304.1207.5384.858 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 cs) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 da) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 de) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 el) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 en-CA) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 en-GB) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 en-US) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 es-AR) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 es-CL) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 es-ES) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 es-MX) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 fr) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 he) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 hu) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 it) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 ja) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 nl) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 pl) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 pt-BR) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 pt-PT) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 ro) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 sv-SE) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 tr) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (AArch64 zh-CN) | windows | arm64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 cs) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 da) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 de) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 el) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 en-CA) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 en-GB) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 en-US) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 es-AR) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 es-CL) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 es-ES) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 es-MX) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 fr) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 he) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 hu) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 it) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 ja) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 nl) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 pl) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 pt-BR) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 pt-PT) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 ro) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 sv-SE) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 tr) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x64 zh-CN) | windows | x64 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 cs) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 da) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 de) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 el) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 en-CA) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 en-GB) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 en-US) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 es-AR) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 es-CL) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 es-ES) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 es-MX) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 fr) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 he) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 hu) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 it) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 ja) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 nl) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 pl) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 pt-BR) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 pt-PT) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 ro) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 sv-SE) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 tr) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox (x86 zh-CN) | windows | arm64, x64, x86 | 160.0.1 | 161.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (AArch64 da) | windows | arm64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (AArch64 de) | windows | arm64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (AArch64 el) | windows | arm64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (AArch64 en-CA) | windows | arm64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (AArch64 en-GB) | windows | arm64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (AArch64 en-US) | windows | arm64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (AArch64 es-AR) | windows | arm64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (AArch64 es-CL) | windows | arm64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (AArch64 es-ES) | windows | arm64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (AArch64 es-MX) | windows | arm64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (AArch64 fr) | windows | arm64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (AArch64 hu) | windows | arm64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (AArch64 it) | windows | arm64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (AArch64 ja) | windows | arm64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (AArch64 nl) | windows | arm64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (AArch64 pt-BR) | windows | arm64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (AArch64 pt-PT) | windows | arm64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (AArch64 sv-SE) | windows | arm64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (AArch64 tr) | windows | arm64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x64 da) | windows | x64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x64 de) | windows | x64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x64 el) | windows | x64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x64 en-CA) | windows | x64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x64 en-GB) | windows | x64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x64 en-US) | windows | x64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x64 es-AR) | windows | x64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x64 es-CL) | windows | x64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x64 es-ES) | windows | x64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x64 es-MX) | windows | x64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x64 fr) | windows | x64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x64 hu) | windows | x64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x64 it) | windows | x64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x64 ja) | windows | x64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x64 nl) | windows | x64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x64 pt-BR) | windows | x64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x64 pt-PT) | windows | x64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x64 sv-SE) | windows | x64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x64 tr) | windows | x64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x86 da) | windows | arm64, x64, x86 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x86 de) | windows | arm64, x64, x86 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x86 el) | windows | arm64, x64, x86 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x86 en-CA) | windows | arm64, x64, x86 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x86 en-GB) | windows | arm64, x64, x86 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x86 en-US) | windows | arm64, x64, x86 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x86 es-AR) | windows | arm64, x64, x86 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x86 es-CL) | windows | arm64, x64, x86 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x86 es-ES) | windows | arm64, x64, x86 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x86 es-MX) | windows | arm64, x64, x86 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x86 fr) | windows | arm64, x64, x86 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x86 hu) | windows | arm64, x64, x86 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x86 it) | windows | arm64, x64, x86 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x86 ja) | windows | arm64, x64, x86 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x86 nl) | windows | arm64, x64, x86 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x86 pt-BR) | windows | arm64, x64, x86 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x86 pt-PT) | windows | arm64, x64, x86 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x86 sv-SE) | windows | arm64, x64, x86 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Firefox ESR (x86 tr) | windows | arm64, x64, x86 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Thunderbird ESR (x64 en-US) | windows | x64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | Mozilla Thunderbird ESR (x64 fr) | windows | x64 | 153.7.0 | 153.8.0 |
+| 24 Nov 19:30 | OpenAI OpCo, LLC ChatGPT Codex (arm64) | windows | arm64 | 26.1117.4957.0 | 26.1120.5083.0 |
+| 24 Nov 19:30 | OpenAI OpCo, LLC ChatGPT Codex (x64) | windows | x64 | 26.1117.4957.0 | 26.1120.5083.0 |
+| 24 Nov 19:30 | Palo Alto Networks, Inc. Prisma Access Browser | windows | arm64, x64 | 158.19.3.37 | 158.19.4.89 |
+| 24 Nov 19:30 | Postman Postman | windows | arm64, x64, x86 | 12.38.0.0 | 12.38.3.0 |
+| 24 Nov 19:30 | VMware VMware Tools (64-bit) | windows | x64 | 13.1.6.25833820 | 13.1.10.25901045 |
+| 24 Nov 19:30 | VMware VMware Tools (ARM64) | windows | arm64 | 13.1.6.25833820 | 13.1.10.25901045 |
 | 24 Nov 04:48 | Google Chrome | macos | arm64, x64 | 158.0.8127.37 | 158.0.8127.89 |
 | 24 Nov 04:48 | OpenAI OpCo, LLC ChatGPT Codex | macos | arm64 | 26.1117.41037 | 26.1120.41243 |
 | 24 Nov 04:48 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.42.1.0 | 2.42.2.0 |
@@ -51,12 +227,18 @@ First seen in the recorded gallery history, by vendor, product name and platform
 | 23 Nov 20:14 | LucidLink LucidLink | windows | x64 | 3.9.9132 | 3.9.9151 |
 | 23 Nov 20:14 | Microsoft Power BI Desktop (x64) | windows | arm64, x64 | 2.159.1231.0 | 2.160.1151.0 |
 | 23 Nov 20:14 | TechSmith Camtasia 2024 | windows | arm64, x64 | 24.1.9 | 24.1.10 |
-| 23 Nov 07:38 | Postman Postman | windows | arm64, x64, x86 | 12.37.3.0 | 12.38.0.0 |
 
 ## Other additions (previously seen products or supporting files)
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 24 Nov 19:30 | Postman Postman (ARM) | macos | arm64 | — | 12.38.3 |
+| 24 Nov 19:30 | Postman Postman (ARM) | macos | arm64 | — | 12.38.3 |
+| 24 Nov 19:30 | Postman Postman | macos | x64 | — | 12.38.3 |
+| 24 Nov 19:30 | Postman Postman | macos | x64 | — | 12.38.3 |
+| 24 Nov 19:30 | Running with Crayons Ltd Alfred 5 | macos | arm64, x64 | — | 5.8.2 |
+| 24 Nov 19:30 | Tabular Editor ApS Tabular Editor 3 (arm64) | windows | arm64 | — | 27.1.1 |
+| 24 Nov 19:30 | Tabular Editor ApS Tabular Editor 3 (x64) | windows | x64 | — | 27.1.1 |
 | 24 Nov 04:48 | Bitwarden, Inc. Bitwarden Desktop (arm64) | windows | arm64 | — | 2026.11.0 |
 | 24 Nov 04:48 | Bitwarden, Inc. Bitwarden Desktop (x64) | windows | x64 | — | 2026.11.0 |
 | 24 Nov 04:48 | Google Chrome x64 | windows | x64 | — | 158.0.8127.89 |
@@ -64,15 +246,12 @@ First seen in the recorded gallery history, by vendor, product name and platform
 | 23 Nov 20:14 | Adobe InDesign CC -- AUDIT ONLY | windows | arm64, x64, x86 | — | 22.0 |
 | 23 Nov 20:14 | Docker Inc. Docker Desktop (x64) | windows | x64 | — | 4.100.1.0 |
 | 23 Nov 20:14 | Docker Inc. Docker Desktop (x64) | windows | x64 | — | 4.100.1.0 |
-| 23 Nov 07:38 | Postman Postman (ARM) | macos | arm64 | — | 12.38.0 |
-| 23 Nov 07:38 | Postman Postman (ARM) | macos | arm64 | — | 12.38.0 |
-| 23 Nov 07:38 | Postman Postman | macos | x64 | — | 12.38.0 |
-| 23 Nov 07:38 | Postman Postman | macos | x64 | — | 12.38.0 |
 
 ## Definition changes
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 24 Nov 19:30 | software-package-maintenance.json | — | — | — | — |
 | 24 Nov 04:48 | Bitwarden, Inc. Bitwarden Desktop | macos | arm64, x64 | 2026.11.0 | 2026.11.0 |
 | 23 Nov 20:14 | software-package-maintenance.json | — | — | — | — |
 | 23 Nov 20:14 | Python Software Foundation Python 3.11 (arm64) | windows | arm64 | 3.11.9150.0 | 3.11.9150.0 |
@@ -92,16 +271,18 @@ First seen in the recorded gallery history, by vendor, product name and platform
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 24 Nov 19:30 | Postman Postman (ARM) | macos | arm64 | 12.38.0 | — |
+| 24 Nov 19:30 | Postman Postman (ARM) | macos | arm64 | 12.38.0 | — |
+| 24 Nov 19:30 | Postman Postman | macos | x64 | 12.38.0 | — |
+| 24 Nov 19:30 | Postman Postman | macos | x64 | 12.38.0 | — |
+| 24 Nov 19:30 | DBeaver Corp DBeaver Community (arm64) | windows | arm64 | 26.2.5 | — |
+| 24 Nov 19:30 | DBeaver Corp DBeaver Community (x64) | windows | x64 | 26.2.5 | — |
 | 24 Nov 04:48 | Google Chrome x64 | windows | x64 | 158.0.8127.37 | — |
 | 24 Nov 04:48 | Google Chrome x64 | windows | x64 | 158.0.8127.37 | — |
 | 23 Nov 20:14 | Docker Inc. Docker Desktop (x64) | windows | x64 | 4.100.0.0 | — |
 | 23 Nov 20:14 | Docker Inc. Docker Desktop (x64) | windows | x64 | 4.100.0.0 | — |
 | 23 Nov 20:14 | Tabular Editor ApS Tabular Editor 3 (arm64) | windows | arm64 | 27.1.1 | — |
 | 23 Nov 20:14 | Tabular Editor ApS Tabular Editor 3 (x64) | windows | x64 | 27.1.1 | — |
-| 23 Nov 07:38 | Postman Postman (ARM) | macos | arm64 | 12.37.3 | — |
-| 23 Nov 07:38 | Postman Postman (ARM) | macos | arm64 | 12.37.3 | — |
-| 23 Nov 07:38 | Postman Postman | macos | x64 | 12.37.3 | — |
-| 23 Nov 07:38 | Postman Postman | macos | x64 | 12.37.3 | — |
 
 ## Renamed files
 
