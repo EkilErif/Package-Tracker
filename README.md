@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 23 Nov 2026 20:14 UTC  
-**Observation window:** 22 Nov 2026 20:14 UTC to 23 Nov 2026 20:14 UTC
+**Last successful check:** 24 Nov 2026 04:48 UTC  
+**Observation window:** 23 Nov 2026 04:48 UTC to 24 Nov 2026 04:48 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 1 | 13 | 7 | 13 | 8 | 0 |
+| 1 | 28 | 11 | 14 | 10 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -24,6 +24,21 @@ First seen in the recorded gallery history, by vendor, product name and platform
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 24 Nov 04:48 | Google Chrome | macos | arm64, x64 | 158.0.8127.37 | 158.0.8127.89 |
+| 24 Nov 04:48 | OpenAI OpCo, LLC ChatGPT Codex | macos | arm64 | 26.1117.41037 | 26.1120.41243 |
+| 24 Nov 04:48 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.42.1.0 | 2.42.2.0 |
+| 24 Nov 04:48 | Devolutions Inc. Remote Desktop Manager | windows | x64 | 2026.3.18.0 | 2026.3.19.0 |
+| 24 Nov 04:48 | Google Chrome ARM64 | windows | arm64 | 158.0.8127.37 | 158.0.8127.89 |
+| 24 Nov 04:48 | Google Chrome x86 | windows | x64, x86 | 158.0.8127.37 | 158.0.8127.89 |
+| 24 Nov 04:48 | Google Chrome x86 | windows | arm64, x64, x86 | 158.0.8127.37 | 158.0.8127.89 |
+| 24 Nov 04:48 | Microsoft Office Click-to-Run Current Channel (x64) - Pre-Cache | windows | arm64, x64 | 16.0.20625.20108 | 16.0.20625.20142 |
+| 24 Nov 04:48 | Microsoft Office Click-to-Run Current Channel (x64) | windows | arm64, x64 | 16.0.20625.20108 | 16.0.20625.20142 |
+| 24 Nov 04:48 | Microsoft Office Click-to-Run Current Channel (x86) - Pre-Cache | windows | x64, x86 | 16.0.20625.20108 | 16.0.20625.20142 |
+| 24 Nov 04:48 | Microsoft Office Click-to-Run Current Channel (x86) | windows | x64, x86 | 16.0.20625.20108 | 16.0.20625.20142 |
+| 24 Nov 04:48 | Rocket.Chat Rocket.Chat (Active User) x64 | windows | x64 | 4.19.3 | 4.19.4 |
+| 24 Nov 04:48 | Rocket.Chat Rocket.Chat (Active User) x86 | windows | x86 | 4.19.3 | 4.19.4 |
+| 24 Nov 04:48 | Rocket.Chat Rocket.Chat (All Users) x64 | windows | x64 | 4.19.3 | 4.19.4 |
+| 24 Nov 04:48 | Rocket.Chat Rocket.Chat (All Users) x86 | windows | x86 | 4.19.3 | 4.19.4 |
 | 23 Nov 20:14 | Docker Inc. Docker Desktop (ARM) | macos | arm64 | 4.100.0 | 4.100.1 |
 | 23 Nov 20:14 | Docker Inc. Docker Desktop (Intel) | macos | x64 | 4.100.0 | 4.100.1 |
 | 23 Nov 20:14 | Genesys Inc. Genesys Cloud | macos | arm64, x64 | 2.57.62 | 2.57.67 |
@@ -42,6 +57,10 @@ First seen in the recorded gallery history, by vendor, product name and platform
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 24 Nov 04:48 | Bitwarden, Inc. Bitwarden Desktop (arm64) | windows | arm64 | — | 2026.11.0 |
+| 24 Nov 04:48 | Bitwarden, Inc. Bitwarden Desktop (x64) | windows | x64 | — | 2026.11.0 |
+| 24 Nov 04:48 | Google Chrome x64 | windows | x64 | — | 158.0.8127.89 |
+| 24 Nov 04:48 | Google Chrome x64 | windows | x64 | — | 158.0.8127.89 |
 | 23 Nov 20:14 | Adobe InDesign CC -- AUDIT ONLY | windows | arm64, x64, x86 | — | 22.0 |
 | 23 Nov 20:14 | Docker Inc. Docker Desktop (x64) | windows | x64 | — | 4.100.1.0 |
 | 23 Nov 20:14 | Docker Inc. Docker Desktop (x64) | windows | x64 | — | 4.100.1.0 |
@@ -54,6 +73,7 @@ First seen in the recorded gallery history, by vendor, product name and platform
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 24 Nov 04:48 | Bitwarden, Inc. Bitwarden Desktop | macos | arm64, x64 | 2026.11.0 | 2026.11.0 |
 | 23 Nov 20:14 | software-package-maintenance.json | — | — | — | — |
 | 23 Nov 20:14 | Python Software Foundation Python 3.11 (arm64) | windows | arm64 | 3.11.9150.0 | 3.11.9150.0 |
 | 23 Nov 20:14 | Python Software Foundation Python 3.11 (x64) | windows | x64 | 3.11.9150.0 | 3.11.9150.0 |
@@ -72,6 +92,8 @@ First seen in the recorded gallery history, by vendor, product name and platform
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 24 Nov 04:48 | Google Chrome x64 | windows | x64 | 158.0.8127.37 | — |
+| 24 Nov 04:48 | Google Chrome x64 | windows | x64 | 158.0.8127.37 | — |
 | 23 Nov 20:14 | Docker Inc. Docker Desktop (x64) | windows | x64 | 4.100.0.0 | — |
 | 23 Nov 20:14 | Docker Inc. Docker Desktop (x64) | windows | x64 | 4.100.0.0 | — |
 | 23 Nov 20:14 | Tabular Editor ApS Tabular Editor 3 (arm64) | windows | arm64 | 27.1.1 | — |
