@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 24 Nov 2026 19:30 UTC  
-**Observation window:** 23 Nov 2026 19:30 UTC to 24 Nov 2026 19:30 UTC
+**Last successful check:** 25 Nov 2026 03:33 UTC  
+**Observation window:** 24 Nov 2026 03:33 UTC to 25 Nov 2026 03:33 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 3 | 201 | 14 | 15 | 12 | 0 |
+| 2 | 212 | 11 | 2 | 10 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -20,12 +20,34 @@ First seen in the recorded gallery history, by vendor, product name and platform
 |---|---|---|---|---|---|
 | 24 Nov 19:30 | Running with Crayons Ltd Alfred 6 | macos | arm64, x64 | — | 6.0.3 |
 | 24 Nov 19:30 | Cisco Network Recording Player - Remove Only | windows | arm64, x64, x86 | — | 1.0 |
-| 23 Nov 20:14 | Cisco Webex Recorder and Player - Remove Only | windows | arm64, x64, x86 | — | 1.0 |
 
 ## Version changes
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 25 Nov 03:32 | Anthropic PBC Claude | macos | arm64, x64 | 6.28899.6 | 7.37095.0 |
+| 25 Nov 03:32 | Microsoft Office 2019 | macos | arm64, x64 | 16.115 | 16.115.2 |
+| 25 Nov 03:32 | Microsoft Office 2019 with Teams | macos | arm64, x64 | 16.115 | 16.115.2 |
+| 25 Nov 03:32 | OpenAI OpCo, LLC ChatGPT Codex | macos | arm64 | 26.1120.41243 | 26.1120.50957 |
+| 25 Nov 03:32 | Posit Software, PBC RStudio Desktop Pro | macos | arm64, x64 | 2026.11.0+203.pro4 | 2026.11.1+204.pro2 |
+| 25 Nov 03:32 | Posit Software, PBC RStudio | macos | arm64, x64 | 2026.11.0+203 | 2026.11.1+204 |
+| 25 Nov 03:32 | Tableau Desktop 2025 | macos | arm64, x64 | 2025.3.12 | 2025.3.13 |
+| 25 Nov 03:32 | Tableau Desktop 2026 | macos | arm64, x64 | 2026.3.1 | 2026.3.2 |
+| 25 Nov 03:32 | Tableau Reader 2026 | macos | arm64, x64 | 2026.3.1 | 2026.3.2 |
+| 25 Nov 03:32 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.42.2.0 | 2.42.3.0 |
+| 25 Nov 03:32 | Anthropic PBC Claude arm64 | windows | arm64 | 6.28899.6.0 | 7.37095.0.0 |
+| 25 Nov 03:32 | Anthropic PBC Claude x64 | windows | x64 | 6.28899.6.0 | 7.37095.0.0 |
+| 25 Nov 03:32 | Microsoft ODBC Driver 17 for SQL Server (x64) | windows | arm64, x64 | 17.11.1.1 | 17.12.1.1 |
+| 25 Nov 03:32 | Microsoft ODBC Driver 17 for SQL Server (x86) | windows | x86 | 17.11.1.1 | 17.12.1.1 |
+| 25 Nov 03:32 | Microsoft Teams x86 (DoD) | windows | x86 | 26288.2004.5269.3420 | 26304.1207.5384.858 |
+| 25 Nov 03:32 | Microsoft Teams x86 (GCC) | windows | x86 | 26288.2004.5269.3420 | 26304.1207.5384.858 |
+| 25 Nov 03:32 | Microsoft Teams x86 (GCC High) | windows | x86 | 26288.2004.5269.3420 | 26304.1207.5384.858 |
+| 25 Nov 03:32 | Posit Software, PBC RStudio Desktop Pro | windows | x64 | 2026.11.0+203.pro4 | 2026.11.1+204.pro2 |
+| 25 Nov 03:32 | Posit Software, PBC RStudio | windows | x64 | 2026.11.0+203 | 2026.11.1+204 |
+| 25 Nov 03:32 | Tableau Desktop 2025 | windows | x64 | 2025.3.12 | 2025.3.13 |
+| 25 Nov 03:32 | Tableau Desktop 2026 | windows | x64 | 2026.3.1 | 2026.3.2 |
+| 25 Nov 03:32 | Tableau Reader 2026 x64 | windows | x64 | 2026.3.1 | 2026.3.2 |
+| 25 Nov 03:32 | Tableau Tableau Public | windows | x64 | 2026.3.1 | 2026.3.2 |
 | 24 Nov 19:30 | Bare Bones BBEdit | macos | arm64, x64 | 16.1 | 16.1.1 |
 | 24 Nov 19:30 | Brave Software, Inc Brave Browser | macos | arm64, x64 | 1.100.58 | 1.100.59 |
 | 24 Nov 19:30 | Evernote Corporation Evernote | macos | arm64, x64 | 11.43.4 | 11.44.6 |
@@ -215,18 +237,6 @@ First seen in the recorded gallery history, by vendor, product name and platform
 | 24 Nov 04:48 | Rocket.Chat Rocket.Chat (Active User) x86 | windows | x86 | 4.19.3 | 4.19.4 |
 | 24 Nov 04:48 | Rocket.Chat Rocket.Chat (All Users) x64 | windows | x64 | 4.19.3 | 4.19.4 |
 | 24 Nov 04:48 | Rocket.Chat Rocket.Chat (All Users) x86 | windows | x86 | 4.19.3 | 4.19.4 |
-| 23 Nov 20:14 | Docker Inc. Docker Desktop (ARM) | macos | arm64 | 4.100.0 | 4.100.1 |
-| 23 Nov 20:14 | Docker Inc. Docker Desktop (Intel) | macos | x64 | 4.100.0 | 4.100.1 |
-| 23 Nov 20:14 | Genesys Inc. Genesys Cloud | macos | arm64, x64 | 2.57.62 | 2.57.67 |
-| 23 Nov 20:14 | Grammarly Grammarly | macos | arm64, x64 | 1.211.0 | 1.212.0 |
-| 23 Nov 20:14 | LucidLink LucidLink | macos | arm64, x64 | 3.9.9132 | 3.9.9151 |
-| 23 Nov 20:14 | WhatsApp LLC WhatsApp | macos | arm64, x64 | 26.46.21 | 26.47.12 |
-| 23 Nov 20:14 | Docker Inc. Docker Desktop (arm64) | windows | arm64 | 4.100.0.0 | 4.100.1.0 |
-| 23 Nov 20:14 | Genesys Inc. Genesys Cloud | windows | arm64, x64, x86 | 2.57.942.0 | 2.57.944.0 |
-| 23 Nov 20:14 | Grammarly Grammarly (Active User) | windows | arm64, x64 | 1.2.314.2010 | 1.2.315.2011 |
-| 23 Nov 20:14 | LucidLink LucidLink | windows | x64 | 3.9.9132 | 3.9.9151 |
-| 23 Nov 20:14 | Microsoft Power BI Desktop (x64) | windows | arm64, x64 | 2.159.1231.0 | 2.160.1151.0 |
-| 23 Nov 20:14 | TechSmith Camtasia 2024 | windows | arm64, x64 | 24.1.9 | 24.1.10 |
 
 ## Other additions (previously seen products or supporting files)
 
@@ -243,9 +253,6 @@ First seen in the recorded gallery history, by vendor, product name and platform
 | 24 Nov 04:48 | Bitwarden, Inc. Bitwarden Desktop (x64) | windows | x64 | — | 2026.11.0 |
 | 24 Nov 04:48 | Google Chrome x64 | windows | x64 | — | 158.0.8127.89 |
 | 24 Nov 04:48 | Google Chrome x64 | windows | x64 | — | 158.0.8127.89 |
-| 23 Nov 20:14 | Adobe InDesign CC -- AUDIT ONLY | windows | arm64, x64, x86 | — | 22.0 |
-| 23 Nov 20:14 | Docker Inc. Docker Desktop (x64) | windows | x64 | — | 4.100.1.0 |
-| 23 Nov 20:14 | Docker Inc. Docker Desktop (x64) | windows | x64 | — | 4.100.1.0 |
 
 ## Definition changes
 
@@ -253,24 +260,13 @@ First seen in the recorded gallery history, by vendor, product name and platform
 |---|---|---|---|---|---|
 | 24 Nov 19:30 | software-package-maintenance.json | — | — | — | — |
 | 24 Nov 04:48 | Bitwarden, Inc. Bitwarden Desktop | macos | arm64, x64 | 2026.11.0 | 2026.11.0 |
-| 23 Nov 20:14 | software-package-maintenance.json | — | — | — | — |
-| 23 Nov 20:14 | Python Software Foundation Python 3.11 (arm64) | windows | arm64 | 3.11.9150.0 | 3.11.9150.0 |
-| 23 Nov 20:14 | Python Software Foundation Python 3.11 (x64) | windows | x64 | 3.11.9150.0 | 3.11.9150.0 |
-| 23 Nov 20:14 | Python Software Foundation Python 3.11 (x86) | windows | x64, x86 | 3.11.9150.0 | 3.11.9150.0 |
-| 23 Nov 20:14 | Python Software Foundation Python 3.12 (arm64) | windows | arm64 | 3.12.10150.0 | 3.12.10150.0 |
-| 23 Nov 20:14 | Python Software Foundation Python 3.12 (x64) | windows | x64 | 3.12.10150.0 | 3.12.10150.0 |
-| 23 Nov 20:14 | Python Software Foundation Python 3.12 (x86) | windows | x64, x86 | 3.12.10150.0 | 3.12.10150.0 |
-| 23 Nov 20:14 | Python Software Foundation Python 3.13 (arm64) | windows | arm64 | 3.13.17150.0 | 3.13.17150.0 |
-| 23 Nov 20:14 | Python Software Foundation Python 3.13 (x64) | windows | x64 | 3.13.17150.0 | 3.13.17150.0 |
-| 23 Nov 20:14 | Python Software Foundation Python 3.13 (x86) | windows | x64, x86 | 3.13.17150.0 | 3.13.17150.0 |
-| 23 Nov 20:14 | Python Software Foundation Python 3.14 (arm64) | windows | arm64 | 3.14.10150.0 | 3.14.10150.0 |
-| 23 Nov 20:14 | Python Software Foundation Python 3.14 (x64) | windows | x64 | 3.14.10150.0 | 3.14.10150.0 |
-| 23 Nov 20:14 | Python Software Foundation Python 3.14 (x86) | windows | x64, x86 | 3.14.10150.0 | 3.14.10150.0 |
 
 ## Removed packages
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 25 Nov 03:32 | Author Software Inc. NVM for Windows (Active User) (arm64) | windows | arm64 | 2.0.1 | — |
+| 25 Nov 03:32 | dotPDN LLC Paint.NET (arm64) | windows | arm64 | 5.2 | — |
 | 24 Nov 19:30 | Postman Postman (ARM) | macos | arm64 | 12.38.0 | — |
 | 24 Nov 19:30 | Postman Postman (ARM) | macos | arm64 | 12.38.0 | — |
 | 24 Nov 19:30 | Postman Postman | macos | x64 | 12.38.0 | — |
@@ -279,10 +275,6 @@ First seen in the recorded gallery history, by vendor, product name and platform
 | 24 Nov 19:30 | DBeaver Corp DBeaver Community (x64) | windows | x64 | 26.2.5 | — |
 | 24 Nov 04:48 | Google Chrome x64 | windows | x64 | 158.0.8127.37 | — |
 | 24 Nov 04:48 | Google Chrome x64 | windows | x64 | 158.0.8127.37 | — |
-| 23 Nov 20:14 | Docker Inc. Docker Desktop (x64) | windows | x64 | 4.100.0.0 | — |
-| 23 Nov 20:14 | Docker Inc. Docker Desktop (x64) | windows | x64 | 4.100.0.0 | — |
-| 23 Nov 20:14 | Tabular Editor ApS Tabular Editor 3 (arm64) | windows | arm64 | 27.1.1 | — |
-| 23 Nov 20:14 | Tabular Editor ApS Tabular Editor 3 (x64) | windows | x64 | 27.1.1 | — |
 
 ## Renamed files
 
