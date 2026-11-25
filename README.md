@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 25 Nov 2026 03:33 UTC  
-**Observation window:** 24 Nov 2026 03:33 UTC to 25 Nov 2026 03:33 UTC
+**Last successful check:** 25 Nov 2026 14:22 UTC  
+**Observation window:** 24 Nov 2026 14:22 UTC to 25 Nov 2026 14:22 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 2 | 212 | 11 | 2 | 10 | 0 |
+| 2 | 221 | 11 | 2 | 11 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -25,6 +25,30 @@ First seen in the recorded gallery history, by vendor, product name and platform
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 25 Nov 14:22 | Anysphere Cursor arm64 | macos | arm64 | 3.31.15 | 3.32.4 |
+| 25 Nov 14:22 | Anysphere Cursor x64 | macos | x64 | 3.31.15 | 3.32.4 |
+| 25 Nov 14:22 | Grammarly Grammarly | macos | arm64, x64 | 1.212.0 | 1.213.0 |
+| 25 Nov 14:22 | Kong Insomnia | macos | arm64, x64 | 2026.13.4.0 | 2026.13.5.0 |
+| 25 Nov 14:22 | Microsoft Visual Studio Code | macos | arm64, x64 | 1.147.0 | 1.148.0 |
+| 25 Nov 14:22 | WhatsApp LLC WhatsApp | macos | arm64, x64 | 26.47.15 | 26.47.19 |
+| 25 Nov 14:22 | Anysphere Cursor arm64 (Active User) | windows | arm64 | 3.31.15 | 3.32.4 |
+| 25 Nov 14:22 | Anysphere Cursor arm64 | windows | arm64 | 3.31.15 | 3.32.4 |
+| 25 Nov 14:22 | Anysphere Cursor x64 (Active User) | windows | x64 | 3.31.15 | 3.32.4 |
+| 25 Nov 14:22 | Anysphere Cursor x64 | windows | x64 | 3.31.15 | 3.32.4 |
+| 25 Nov 14:22 | Grammarly Grammarly (Active User) | windows | arm64, x64 | 1.2.315.2011 | 1.2.316.2014 |
+| 25 Nov 14:22 | Kong Insomnia | windows | x64 | 2026.13.4.0 | 2026.13.5.0 |
+| 25 Nov 14:22 | Microsoft Power Automate for desktop | windows | x64 | 2.74.191.26302 | 2.74.215.26322 |
+| 25 Nov 14:22 | Microsoft Teams (DoD) | windows | x64 | 26288.2004.5269.3420 | 26304.1207.5384.858 |
+| 25 Nov 14:22 | Microsoft Teams x64 (GCC) | windows | x64 | 26288.2004.5269.3420 | 26304.1207.5384.858 |
+| 25 Nov 14:22 | Microsoft Teams x64 (GCC High) | windows | x64 | 26288.2004.5269.3420 | 26304.1207.5384.858 |
+| 25 Nov 14:22 | Microsoft Teams x64 | windows | x64 | 26288.2004.5269.3420 | 26304.1207.5384.858 |
+| 25 Nov 14:22 | Microsoft Visual Studio Code (x64 en-us) | windows | x64 | 1.147.0 | 1.148.0 |
+| 25 Nov 14:22 | OpenAI OpCo, LLC ChatGPT Codex (arm64) | windows | arm64 | 26.1120.5083.0 | 26.1120.6357.0 |
+| 25 Nov 14:22 | OpenAI OpCo, LLC ChatGPT Codex (x64) | windows | x64 | 26.1120.5083.0 | 26.1120.6357.0 |
+| 25 Nov 14:22 | Tencent Technology (Shenzhen) Company Limited WeCom | windows | arm64, x64, x86 | 5.0.13.6005 | 5.0.13.8035 |
+| 25 Nov 14:22 | Viber Media S.a.r.l. Viber (Active User) | windows | arm64, x64 | 29.5.0.0 | 29.7.0.0 |
+| 25 Nov 14:22 | Vim Project Vim (arm64) | windows | arm64 | 9.2.1373 | 9.2.1409 |
+| 25 Nov 14:22 | Vim Project Vim (x64) | windows | x64 | 9.2.1373 | 9.2.1409 |
 | 25 Nov 03:32 | Anthropic PBC Claude | macos | arm64, x64 | 6.28899.6 | 7.37095.0 |
 | 25 Nov 03:32 | Microsoft Office 2019 | macos | arm64, x64 | 16.115 | 16.115.2 |
 | 25 Nov 03:32 | Microsoft Office 2019 with Teams | macos | arm64, x64 | 16.115 | 16.115.2 |
@@ -222,26 +246,15 @@ First seen in the recorded gallery history, by vendor, product name and platform
 | 24 Nov 19:30 | Postman Postman | windows | arm64, x64, x86 | 12.38.0.0 | 12.38.3.0 |
 | 24 Nov 19:30 | VMware VMware Tools (64-bit) | windows | x64 | 13.1.6.25833820 | 13.1.10.25901045 |
 | 24 Nov 19:30 | VMware VMware Tools (ARM64) | windows | arm64 | 13.1.6.25833820 | 13.1.10.25901045 |
-| 24 Nov 04:48 | Google Chrome | macos | arm64, x64 | 158.0.8127.37 | 158.0.8127.89 |
-| 24 Nov 04:48 | OpenAI OpCo, LLC ChatGPT Codex | macos | arm64 | 26.1117.41037 | 26.1120.41243 |
-| 24 Nov 04:48 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.42.1.0 | 2.42.2.0 |
-| 24 Nov 04:48 | Devolutions Inc. Remote Desktop Manager | windows | x64 | 2026.3.18.0 | 2026.3.19.0 |
-| 24 Nov 04:48 | Google Chrome ARM64 | windows | arm64 | 158.0.8127.37 | 158.0.8127.89 |
-| 24 Nov 04:48 | Google Chrome x86 | windows | x64, x86 | 158.0.8127.37 | 158.0.8127.89 |
-| 24 Nov 04:48 | Google Chrome x86 | windows | arm64, x64, x86 | 158.0.8127.37 | 158.0.8127.89 |
-| 24 Nov 04:48 | Microsoft Office Click-to-Run Current Channel (x64) - Pre-Cache | windows | arm64, x64 | 16.0.20625.20108 | 16.0.20625.20142 |
-| 24 Nov 04:48 | Microsoft Office Click-to-Run Current Channel (x64) | windows | arm64, x64 | 16.0.20625.20108 | 16.0.20625.20142 |
-| 24 Nov 04:48 | Microsoft Office Click-to-Run Current Channel (x86) - Pre-Cache | windows | x64, x86 | 16.0.20625.20108 | 16.0.20625.20142 |
-| 24 Nov 04:48 | Microsoft Office Click-to-Run Current Channel (x86) | windows | x64, x86 | 16.0.20625.20108 | 16.0.20625.20142 |
-| 24 Nov 04:48 | Rocket.Chat Rocket.Chat (Active User) x64 | windows | x64 | 4.19.3 | 4.19.4 |
-| 24 Nov 04:48 | Rocket.Chat Rocket.Chat (Active User) x86 | windows | x86 | 4.19.3 | 4.19.4 |
-| 24 Nov 04:48 | Rocket.Chat Rocket.Chat (All Users) x64 | windows | x64 | 4.19.3 | 4.19.4 |
-| 24 Nov 04:48 | Rocket.Chat Rocket.Chat (All Users) x86 | windows | x86 | 4.19.3 | 4.19.4 |
 
 ## Other additions (previously seen products or supporting files)
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 25 Nov 14:22 | Author Software Inc. NVM for Windows (Active User) (arm64) | windows | arm64 | — | 2.0.1 |
+| 25 Nov 14:22 | DBeaver Corp DBeaver Community (arm64) | windows | arm64 | — | 26.2.5.2 |
+| 25 Nov 14:22 | DBeaver Corp DBeaver Community (x64) | windows | x64 | — | 26.2.5.2 |
+| 25 Nov 14:22 | dotPDN LLC Paint.NET (arm64) | windows | arm64 | — | 5.2 |
 | 24 Nov 19:30 | Postman Postman (ARM) | macos | arm64 | — | 12.38.3 |
 | 24 Nov 19:30 | Postman Postman (ARM) | macos | arm64 | — | 12.38.3 |
 | 24 Nov 19:30 | Postman Postman | macos | x64 | — | 12.38.3 |
@@ -249,22 +262,21 @@ First seen in the recorded gallery history, by vendor, product name and platform
 | 24 Nov 19:30 | Running with Crayons Ltd Alfred 5 | macos | arm64, x64 | — | 5.8.2 |
 | 24 Nov 19:30 | Tabular Editor ApS Tabular Editor 3 (arm64) | windows | arm64 | — | 27.1.1 |
 | 24 Nov 19:30 | Tabular Editor ApS Tabular Editor 3 (x64) | windows | x64 | — | 27.1.1 |
-| 24 Nov 04:48 | Bitwarden, Inc. Bitwarden Desktop (arm64) | windows | arm64 | — | 2026.11.0 |
-| 24 Nov 04:48 | Bitwarden, Inc. Bitwarden Desktop (x64) | windows | x64 | — | 2026.11.0 |
-| 24 Nov 04:48 | Google Chrome x64 | windows | x64 | — | 158.0.8127.89 |
-| 24 Nov 04:48 | Google Chrome x64 | windows | x64 | — | 158.0.8127.89 |
 
 ## Definition changes
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 25 Nov 14:22 | Corel Corporation WinZip | windows | x64 | 77.2.17241 | 77.2.17241 |
 | 24 Nov 19:30 | software-package-maintenance.json | — | — | — | — |
-| 24 Nov 04:48 | Bitwarden, Inc. Bitwarden Desktop | macos | arm64, x64 | 2026.11.0 | 2026.11.0 |
 
 ## Removed packages
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 25 Nov 14:22 | Antibody Software Limited WizTreeMac | macos | arm64, x64 | 1.1.0 | — |
+| 25 Nov 14:22 | Antibody Software Limited WizFile | windows | arm64, x64, x86 | 3.15 | — |
+| 25 Nov 14:22 | Antibody Software Limited WizTree | windows | arm64, x64, x86 | 4.34 | — |
 | 25 Nov 03:32 | Author Software Inc. NVM for Windows (Active User) (arm64) | windows | arm64 | 2.0.1 | — |
 | 25 Nov 03:32 | dotPDN LLC Paint.NET (arm64) | windows | arm64 | 5.2 | — |
 | 24 Nov 19:30 | Postman Postman (ARM) | macos | arm64 | 12.38.0 | — |
@@ -273,8 +285,6 @@ First seen in the recorded gallery history, by vendor, product name and platform
 | 24 Nov 19:30 | Postman Postman | macos | x64 | 12.38.0 | — |
 | 24 Nov 19:30 | DBeaver Corp DBeaver Community (arm64) | windows | arm64 | 26.2.5 | — |
 | 24 Nov 19:30 | DBeaver Corp DBeaver Community (x64) | windows | x64 | 26.2.5 | — |
-| 24 Nov 04:48 | Google Chrome x64 | windows | x64 | 158.0.8127.37 | — |
-| 24 Nov 04:48 | Google Chrome x64 | windows | x64 | 158.0.8127.37 | — |
 
 ## Renamed files
 
