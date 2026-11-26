@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 26 Nov 2026 00:20 UTC  
-**Observation window:** 25 Nov 2026 00:20 UTC to 26 Nov 2026 00:20 UTC
+**Last successful check:** 26 Nov 2026 13:53 UTC  
+**Observation window:** 25 Nov 2026 13:53 UTC to 26 Nov 2026 13:53 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 64 | 15 | 2 | 13 | 0 |
+| 0 | 46 | 19 | 2 | 19 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -22,6 +22,11 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 26 Nov 13:53 | Google LLC Google Gemini | macos | arm64 | 1.147.6.1557 | 1.150.3.1601 |
+| 26 Nov 13:53 | WhatsApp LLC WhatsApp | macos | arm64, x64 | 26.47.19 | 26.47.21 |
+| 26 Nov 13:53 | LiquidFiles LiquidFiles OutlookPlugin V3 - Admin | windows | arm64, x64, x86 | 3.0.51 | 3.0.57 |
+| 26 Nov 13:53 | Postman Postman | windows | arm64, x64, x86 | 12.38.3.0 | 12.38.5.0 |
+| 26 Nov 13:53 | Wrike, Inc. Wrike | windows | arm64, x64 | 4.6.2.3052 | 4.6.3.3073 |
 | 26 Nov 00:20 | Microsoft Edge (DPKG) | linux | x64 | 158.0.4370.33 | 158.0.4370.45 |
 | 26 Nov 00:20 | 3T Software Labs Ltd Studio 3T (Arm) | macos | arm64 | 2026.15.0 | 2026.16.0 |
 | 26 Nov 00:20 | 3T Software Labs Ltd Studio 3T (Intel) | macos | x64 | 2026.15.0 | 2026.16.0 |
@@ -63,34 +68,15 @@ None detected in this window.
 | 25 Nov 14:22 | Viber Media S.a.r.l. Viber (Active User) | windows | arm64, x64 | 29.5.0.0 | 29.7.0.0 |
 | 25 Nov 14:22 | Vim Project Vim (arm64) | windows | arm64 | 9.2.1373 | 9.2.1409 |
 | 25 Nov 14:22 | Vim Project Vim (x64) | windows | x64 | 9.2.1373 | 9.2.1409 |
-| 25 Nov 03:32 | Anthropic PBC Claude | macos | arm64, x64 | 6.28899.6 | 7.37095.0 |
-| 25 Nov 03:32 | Microsoft Office 2019 | macos | arm64, x64 | 16.115 | 16.115.2 |
-| 25 Nov 03:32 | Microsoft Office 2019 with Teams | macos | arm64, x64 | 16.115 | 16.115.2 |
-| 25 Nov 03:32 | OpenAI OpCo, LLC ChatGPT Codex | macos | arm64 | 26.1120.41243 | 26.1120.50957 |
-| 25 Nov 03:32 | Posit Software, PBC RStudio Desktop Pro | macos | arm64, x64 | 2026.11.0+203.pro4 | 2026.11.1+204.pro2 |
-| 25 Nov 03:32 | Posit Software, PBC RStudio | macos | arm64, x64 | 2026.11.0+203 | 2026.11.1+204 |
-| 25 Nov 03:32 | Tableau Desktop 2025 | macos | arm64, x64 | 2025.3.12 | 2025.3.13 |
-| 25 Nov 03:32 | Tableau Desktop 2026 | macos | arm64, x64 | 2026.3.1 | 2026.3.2 |
-| 25 Nov 03:32 | Tableau Reader 2026 | macos | arm64, x64 | 2026.3.1 | 2026.3.2 |
-| 25 Nov 03:32 | Amazon AWS Command Line Interface | windows | arm64, x64 | 2.42.2.0 | 2.42.3.0 |
-| 25 Nov 03:32 | Anthropic PBC Claude arm64 | windows | arm64 | 6.28899.6.0 | 7.37095.0.0 |
-| 25 Nov 03:32 | Anthropic PBC Claude x64 | windows | x64 | 6.28899.6.0 | 7.37095.0.0 |
-| 25 Nov 03:32 | Microsoft ODBC Driver 17 for SQL Server (x64) | windows | arm64, x64 | 17.11.1.1 | 17.12.1.1 |
-| 25 Nov 03:32 | Microsoft ODBC Driver 17 for SQL Server (x86) | windows | x86 | 17.11.1.1 | 17.12.1.1 |
-| 25 Nov 03:32 | Microsoft Teams x86 (DoD) | windows | x86 | 26288.2004.5269.3420 | 26304.1207.5384.858 |
-| 25 Nov 03:32 | Microsoft Teams x86 (GCC) | windows | x86 | 26288.2004.5269.3420 | 26304.1207.5384.858 |
-| 25 Nov 03:32 | Microsoft Teams x86 (GCC High) | windows | x86 | 26288.2004.5269.3420 | 26304.1207.5384.858 |
-| 25 Nov 03:32 | Posit Software, PBC RStudio Desktop Pro | windows | x64 | 2026.11.0+203.pro4 | 2026.11.1+204.pro2 |
-| 25 Nov 03:32 | Posit Software, PBC RStudio | windows | x64 | 2026.11.0+203 | 2026.11.1+204 |
-| 25 Nov 03:32 | Tableau Desktop 2025 | windows | x64 | 2025.3.12 | 2025.3.13 |
-| 25 Nov 03:32 | Tableau Desktop 2026 | windows | x64 | 2026.3.1 | 2026.3.2 |
-| 25 Nov 03:32 | Tableau Reader 2026 x64 | windows | x64 | 2026.3.1 | 2026.3.2 |
-| 25 Nov 03:32 | Tableau Tableau Public | windows | x64 | 2026.3.1 | 2026.3.2 |
 
 ## Other additions (previously seen products or supporting files)
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 26 Nov 13:53 | Postman Postman (ARM) | macos | arm64 | — | 12.38.5 |
+| 26 Nov 13:53 | Postman Postman (ARM) | macos | arm64 | — | 12.38.5 |
+| 26 Nov 13:53 | Postman Postman | macos | x64 | — | 12.38.5 |
+| 26 Nov 13:53 | Postman Postman | macos | x64 | — | 12.38.5 |
 | 26 Nov 00:20 | Antibody Software Limited WizTreeMac | macos | arm64, x64 | — | 1.1.0 |
 | 26 Nov 00:20 | Microsoft Edge | macos | arm64, x64 | — | 158.0.4370.45 |
 | 26 Nov 00:20 | Microsoft Edge | macos | arm64, x64 | — | 158.0.4370.45 |
@@ -118,6 +104,14 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 26 Nov 13:53 | Postman Postman (ARM) | macos | arm64 | 12.38.3 | — |
+| 26 Nov 13:53 | Postman Postman (ARM) | macos | arm64 | 12.38.3 | — |
+| 26 Nov 13:53 | Postman Postman | macos | x64 | 12.38.3 | — |
+| 26 Nov 13:53 | Postman Postman | macos | x64 | 12.38.3 | — |
+| 26 Nov 13:53 | Antibody Software Limited WizFile | windows | arm64, x64, x86 | 3.15 | — |
+| 26 Nov 13:53 | Antibody Software Limited WizTree | windows | arm64, x64, x86 | 4.34 | — |
+| 26 Nov 13:53 | Beijing Sogou Technology Development Co., Ltd. Sogou Pinyin | windows | arm64, x64, x86 | 16.10.0.5858 | — |
+| 26 Nov 13:53 | Perforce Helix Core Apps | windows | arm64, x64 | 242.63.3 | — |
 | 26 Nov 00:20 | Microsoft Edge | macos | arm64, x64 | 158.0.4370.33 | — |
 | 26 Nov 00:20 | Microsoft Edge | macos | arm64, x64 | 158.0.4370.33 | — |
 | 26 Nov 00:20 | Microsoft Edge WebView2 arm64 | windows | arm64 | 158.0.4370.33 | — |
@@ -129,8 +123,6 @@ None detected in this window.
 | 25 Nov 14:22 | Antibody Software Limited WizTreeMac | macos | arm64, x64 | 1.1.0 | — |
 | 25 Nov 14:22 | Antibody Software Limited WizFile | windows | arm64, x64, x86 | 3.15 | — |
 | 25 Nov 14:22 | Antibody Software Limited WizTree | windows | arm64, x64, x86 | 4.34 | — |
-| 25 Nov 03:32 | Author Software Inc. NVM for Windows (Active User) (arm64) | windows | arm64 | 2.0.1 | — |
-| 25 Nov 03:32 | dotPDN LLC Paint.NET (arm64) | windows | arm64 | 5.2 | — |
 
 ## Renamed files
 
