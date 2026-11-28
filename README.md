@@ -1,11 +1,11 @@
 # Package Gallery: last 24 hours
 
-**Last successful check:** 28 Nov 2026 00:02 UTC  
-**Observation window:** 27 Nov 2026 00:02 UTC to 28 Nov 2026 00:02 UTC
+**Last successful check:** 28 Nov 2026 07:48 UTC  
+**Observation window:** 27 Nov 2026 07:48 UTC to 28 Nov 2026 07:48 UTC
 
 | Completely new products | Version changes | Other additions | Definition changes | Removed | Renamed |
 |---:|---:|---:|---:|---:|---:|
-| 0 | 25 | 12 | 3 | 8 | 0 |
+| 0 | 24 | 9 | 3 | 14 | 0 |
 
 Counts are change events, so a package can appear more than once. Times are when the monitor detected changes, not vendor release times. A version change may be an upgrade or a downgrade.
 
@@ -46,7 +46,6 @@ None detected in this window.
 | 27 Nov 13:51 | appmakes Typora x64 (All Users) | windows | x64 | 1.14.17 | 1.14.18 |
 | 27 Nov 13:51 | appmakes Typora x86 (Active User) | windows | x86 | 1.14.17 | 1.14.18 |
 | 27 Nov 13:51 | appmakes Typora x86 (All Users) | windows | x86 | 1.14.17 | 1.14.18 |
-| 27 Nov 00:35 | Palo Alto Networks, Inc. Prisma Access Browser | windows | arm64, x64 | 158.19.4.89 | 158.19.5.89 |
 
 ## Other additions (previously seen products or supporting files)
 
@@ -61,9 +60,6 @@ None detected in this window.
 | 27 Nov 13:51 | Postman Postman (ARM) | macos | arm64 | — | 12.38.6 |
 | 27 Nov 13:51 | Postman Postman | macos | x64 | — | 12.38.6 |
 | 27 Nov 13:51 | Postman Postman | macos | x64 | — | 12.38.6 |
-| 27 Nov 00:35 | Antibody Software Limited WizFile | windows | arm64, x64, x86 | — | 3.15 |
-| 27 Nov 00:35 | Antibody Software Limited WizTree | windows | arm64, x64, x86 | — | 4.34 |
-| 27 Nov 00:35 | Perforce Helix Core Apps | windows | arm64, x64 | — | 242.63.3 |
 
 ## Definition changes
 
@@ -77,6 +73,12 @@ None detected in this window.
 
 | Detected (UTC) | Application / file | Platform | Architecture | Previous | Latest |
 |---|---|---|---|---|---|
+| 28 Nov 07:48 | Antibody Software Limited WizTreeMac | macos | arm64, x64 | 1.1.0 | — |
+| 28 Nov 07:48 | Antibody Software Limited WizFile | windows | arm64, x64, x86 | 3.15 | — |
+| 28 Nov 07:48 | Antibody Software Limited WizTree | windows | arm64, x64, x86 | 4.34 | — |
+| 28 Nov 07:48 | Thingamahoochie Software WinMerge 32-bit | windows | arm64, x64, x86 | 2.16.60.2 | — |
+| 28 Nov 07:48 | Thingamahoochie Software WinMerge 64-bit | windows | x64 | 2.16.60.2 | — |
+| 28 Nov 07:48 | Thingamahoochie Software WinMerge arm64 | windows | arm64 | 2.16.60.2 | — |
 | 27 Nov 13:51 | Antibody Software Limited WizTreeMac | macos | arm64, x64 | 1.1.0 | — |
 | 27 Nov 13:51 | Blender Foundation Blender | macos | arm64 | 5.3.0 | — |
 | 27 Nov 13:51 | Postman Postman (ARM) | macos | arm64 | 12.38.5 | — |
